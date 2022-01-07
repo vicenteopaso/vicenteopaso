@@ -1,7 +1,8 @@
-# VICENTE OPASO
+# Vicente Opaso
 Senior Frontend Developer — JavaScript Obsessed
 
 [Download my CV](https://opa.so/wp-content/uploads/2020/09/Vicente_Opaso_Resume.pdf)
+
 [Twitter](https://twitter.com/vicenteopaso) | [LinkedIn](https://www.linkedin.com/in/vicenteopaso/)
 
 ABOUT
@@ -151,14 +152,18 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 > project and I certainly recommend him for any project seeking a strong
 > customer-oriented technical lead.
 > — ***Atessa Nejat, Nokia Networks***
+ 
 ---
+
 > I have worked with Vicente and was impressed with his expertise,
 > service and thoughtful questions. He does not rush to judgement but
 > instead makes sure we are all solving the right challenge for the
 > right target and at the right time. I highly recommend him as a person
 > with integrity who respects his collaborators and his clients.
 > — ***John Mack, Brandigm***
+
 ---
+
 > I've hired Vicente to work on numerous high-profile web design,apps
 > and web marketing projects. He's been outstanding bothsolo and working
 > within a team. Very hard worker, solutions-oriented, extremely
