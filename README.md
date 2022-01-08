@@ -1,4 +1,6 @@
-# Senior Frontend Developer — JavaScript Obsessed
+# Vicente Opaso
+
+Senior Frontend Developer — JavaScript Obsessed
 
 [Download my CV](https://opa.so/wp-content/uploads/2020/09/Vicente_Opaso_Resume.pdf)
 
@@ -70,7 +72,7 @@ Scrum-lead tight-knit development team, delivering an enterprise-level productio
 
 ##### [Carlsberg Group](https://www.carlsberggroup.com/) > Digital Team
 
-&nbsp;
+---
 
 ### Lead Frontend Developer
 
@@ -86,7 +88,7 @@ As a Lead Developer, Frontend Developer and Technical PM for a white-label home 
 
 ##### Prizm Tech Group
 
-&nbsp;
+---
 
 ### Principal & Co-founder
 
@@ -103,7 +105,7 @@ Directed tight-knit multidisciplinary team and external resources throughout all
 
 ##### Greygoo
 
-&nbsp;
+---
 
 ### A/B Testing Developer
 
@@ -118,7 +120,7 @@ Contracted by engineering team to formulate, evaluate, and test models for clien
 
 ##### [Cro Metrics](http://crometrics.com/)
 
-&nbsp;
+---
 
 ### Freelance Developer
 
@@ -133,7 +135,7 @@ Contracted to coordinate high-priority digital development projects for marketin
 
 ##### [Upshot](https://upshot.agency/)
 
-&nbsp;
+---
 
 ### Contracting Engineer
 
