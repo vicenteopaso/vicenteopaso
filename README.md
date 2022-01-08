@@ -173,7 +173,7 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 > customer-oriented technical lead.
 > — ***Atessa Nejat, Nokia Networks***
 &nbsp;
----
+
 &nbsp;
 > I have worked with Vicente and was impressed with his expertise,
 > service and thoughtful questions. He does not rush to judgement but
@@ -182,7 +182,7 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 > with integrity who respects his collaborators and his clients.
 > — ***John Mack, Brandigm***
 &nbsp;
----
+
 &nbsp;
 > I've hired Vicente to work on numerous high-profile web design,apps
 > and web marketing projects. He's been outstanding bothsolo and working
