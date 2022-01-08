@@ -19,7 +19,6 @@
   text-align: center;
   background-color: #3135a1;
   background-image: linear-gradient(120deg, #3135a1, #007e8b);
-  padding-top: 1rem;
   form {
     input, textarea {
       padding: 0.75rem 1rem;
@@ -55,13 +54,16 @@
       margin: 0 auto 1rem auto;
     }
     button {
-      
+      width: 37.4rem;
     }
   }
   .site-footer-owner {
-    
+    font-weight: normal;
   }
   .site-footer-credits {
-    
+    color: rgba(255, 255, 255, 0.8);
+  }
+  a {
+    color: rgba(255, 255, 255, 0.6);
   }
 }
