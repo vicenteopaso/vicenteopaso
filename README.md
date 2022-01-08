@@ -1,9 +1,10 @@
-# Vicente Opaso
-Senior Frontend Developer — JavaScript Obsessed
+# Senior Frontend Developer — JavaScript Obsessed
 
 [Download my CV](https://opa.so/wp-content/uploads/2020/09/Vicente_Opaso_Resume.pdf)
 
 [Twitter](https://twitter.com/vicenteopaso) | [LinkedIn](https://www.linkedin.com/in/vicenteopaso/)
+
+&nbsp;
 
 ABOUT
 ------------------
@@ -14,6 +15,8 @@ Highly skilled web and mobile developer with impressive track record demonstrati
 - 20+ YEARS WORK HISTORY
 - 150+ PROJECTS
 - 30000+ CONTRACTING HOURS
+
+&nbsp;
 
 WHAT I DO
 -----------------
@@ -34,12 +37,15 @@ Over the last couple of years, I've found myself obsessed with JavaScript's simp
 
 At Greygoo I got to get some real world, hand-on experience with a wide variety of platforms, like React Native, Ionic, AppGyver, and PhoneGap. Additionally, I got to Manage the Development of numerous Native apps, in both Objectve-C, and Java -- for iOS and Android.
 
+&nbsp;
 
 ## LANGUAGES
 
 - **Spanish**: Native speaker
 - **English**: Bilingual Proficiency (C2)
 - **Portuguese**: Work in progress
+
+&nbsp;
 
 ## EXPERIENCEPROFESSIONAL EXPERIENCE
 
@@ -64,6 +70,8 @@ Scrum-lead tight-knit development team, delivering an enterprise-level productio
 
 ##### [Carlsberg Group](https://www.carlsberggroup.com/) > Digital Team
 
+&nbsp;
+
 ### Lead Frontend Developer
 
 Dec 2018 -- June 2019
@@ -77,6 +85,8 @@ As a Lead Developer, Frontend Developer and Technical PM for a white-label home 
 -   UX Design from User-flows to Wireframes and Database Schema
 
 ##### Prizm Tech Group
+
+&nbsp;
 
 ### Principal & Co-founder
 
@@ -93,6 +103,8 @@ Directed tight-knit multidisciplinary team and external resources throughout all
 
 ##### Greygoo
 
+&nbsp;
+
 ### A/B Testing Developer
 
 Jun 2018 -- Oct 2018
@@ -105,6 +117,8 @@ Contracted by engineering team to formulate, evaluate, and test models for clien
 -   Shared updates, relayed impediments, and provided intellect through JIRA and Trello, recording all client notes, technical and strategic learnings through Quip documentation, in a highly process-driven workflow.
 
 ##### [Cro Metrics](http://crometrics.com/)
+
+&nbsp;
 
 ### Freelance Developer
 
@@ -119,6 +133,8 @@ Contracted to coordinate high-priority digital development projects for marketin
 
 ##### [Upshot](https://upshot.agency/)
 
+&nbsp;
+
 ### Contracting Engineer
 
 Oct 2001 -- Mar 2011
@@ -132,6 +148,8 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 
 ##### [Nokia Networks](https://networks.nokia.com/)
 
+&nbsp;
+
 ## PROFESSIONAL DEVELOPMENT
 
 ### Graphic Design
@@ -143,6 +161,8 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 ### TypeScript Course
 ##### [LinkedIn Learning](https://opa.so/wp-content/uploads/2018/11/CertificateOfCompletion_Learning-Ecmascript-6.pdf)
 
+&nbsp;
+
 ## TESTIMONIALS
 
 > I worked with Vicente on a time-sensitive, complicated project, where
@@ -152,18 +172,18 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 > project and I certainly recommend him for any project seeking a strong
 > customer-oriented technical lead.
 > — ***Atessa Nejat, Nokia Networks***
- 
+&nbsp;
 ---
-
+&nbsp;
 > I have worked with Vicente and was impressed with his expertise,
 > service and thoughtful questions. He does not rush to judgement but
 > instead makes sure we are all solving the right challenge for the
 > right target and at the right time. I highly recommend him as a person
 > with integrity who respects his collaborators and his clients.
 > — ***John Mack, Brandigm***
-
+&nbsp;
 ---
-
+&nbsp;
 > I've hired Vicente to work on numerous high-profile web design,apps
 > and web marketing projects. He's been outstanding bothsolo and working
 > within a team. Very hard worker, solutions-oriented, extremely
