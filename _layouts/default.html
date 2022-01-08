@@ -29,10 +29,18 @@
 
       <!-- modify this form HTML and place wherever you want your form -->
       <form id="my-form" action="https://formspree.io/f/mvolgybr" method="POST">
-        <label>Email</label>
-        <input type="email" name="email" />
-        <label>Message</label>
-        <input type="text" name="message" />
+        <label>
+          Email
+          <input type="email" name="email" />
+        </label>
+        <label>
+          Phone Number
+          <input type="phone" name="phone" />
+        </label>
+        <label>
+          Message
+          <input type="text" name="message" required />
+        </label>
         <button id="my-form-button">Send</button>
         <p id="my-form-status"></p>
       </form>
