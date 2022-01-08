@@ -147,7 +147,7 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 ## PROFESSIONAL DEVELOPMENT
 
 ### Graphic Design
-###### [Universidad del Pacifico, Santiago, Chile](http://www.upacifico.cl/)
+##### [Universidad del Pacifico, Santiago, Chile](http://www.upacifico.cl/)
 
 ### ECMAScript 6 Course
 ##### [LinkedIn Learning](https://opa.so/wp-content/uploads/2018/11/CertificateOfCompletion_Learning-Ecmascript-6.pdf)
