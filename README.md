@@ -15,19 +15,19 @@ Highly skilled web and mobile developer with impressive track record demonstrati
 WHAT I DO
 -----------------
 
-### FRONT END DEVELOPMENT
+### Frontend Development
 
 From HTML, CSS, and JavaScript, to Bootstrap, AngularJS, and React. And tools like NPM, Yarn, Webpack, and Gulp -- among other CLI, as well as Git, Subversion and others. Front-end has been the bulk of my programming experience. With an extensive track-record in many of its flavors and colors; as well as a profound knowledge  of UX, and UI Design and Technical Implementation.
 
-### PROJECT MANAGEMENT
+### Project Management
 
 From my work in Wireless Telecom, as a PM for Nokia on multi-million-dollar contracts, managing teams of 20+ people; to the last 6 years running Greygoo, our Development team, External Resources around the globe, and collaborating with clients, from Architecture Design to Maintenance; I've developed serious PM chops. With a deep understanding of Agile Methodologies, Scrum and Kanban.
 
-### JAVASCRIPT DEVELOPMENT
+### JavaScript Development
 
 Over the last couple of years, I've found myself obsessed with JavaScript's simplicity, extensiveness and polymorphic nature. Learning about its Design Patterns, compilers like Babel, and staying on top of its evolution. Lately that has lead me on to a Vanilla JS quest, ES6, and TypeScript.
 
-### MOBILE DEVELOPMENT
+### Mobile Development
 
 At Greygoo I got to get some real world, hand-on experience with a wide variety of platforms, like React Native, Ionic, AppGyver, and PhoneGap. Additionally, I got to Manage the Development of numerous Native apps, in both Objectve-C, and Java -- for iOS and Android.
 
@@ -41,7 +41,7 @@ At Greygoo I got to get some real world, hand-on experience with a wide variety 
 
 &nbsp;
 
-## EXPERIENCEPROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 ### Principal Frontend Developer
 
