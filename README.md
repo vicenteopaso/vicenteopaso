@@ -1,7 +1,3 @@
-### Highly successful and driven technical professional with over 15-year history producing high performing, high impact applications.
-
-&nbsp;
-
 [Download my CV](https://opa.so/wp-content/uploads/2020/09/Vicente_Opaso_Resume.pdf)
 &nbsp;&nbsp;|&nbsp;&nbsp;[Twitter](https://twitter.com/vicenteopaso)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/vicenteopaso/)
 
