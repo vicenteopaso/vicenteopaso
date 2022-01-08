@@ -1,6 +1,3 @@
-[Download my CV](https://opa.so/wp-content/uploads/2020/09/Vicente_Opaso_Resume.pdf)
-&nbsp;&nbsp;|&nbsp;&nbsp;[Twitter](https://twitter.com/vicenteopaso)&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/vicenteopaso/)
-
 &nbsp;
 
 ABOUT
