@@ -168,6 +168,7 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 > related subject. Vicente reported to me (as his customer) during this
 > project and I certainly recommend him for any project seeking a strong
 > customer-oriented technical lead.
+> 
 > — ***Atessa Nejat, Nokia Networks***
 &nbsp;
 
@@ -177,6 +178,7 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 > instead makes sure we are all solving the right challenge for the
 > right target and at the right time. I highly recommend him as a person
 > with integrity who respects his collaborators and his clients.
+> 
 > — ***John Mack, Brandigm***
 &nbsp;
 
@@ -185,4 +187,5 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 > and web marketing projects. He's been outstanding bothsolo and working
 > within a team. Very hard worker, solutions-oriented, extremely
 > detailed, personable. I recommend him 100%.
+> 
 > — ***David Albert, Upshot***
