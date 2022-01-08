@@ -22,7 +22,6 @@
   form {
     input, textarea {
       padding: 0.75rem 1rem;
-      margin: 1rem auto;
       width: 18rem;
       color: rgba(255, 255, 255, 0.7);
       background-color: rgba(255, 255, 255, 0.08);
@@ -42,9 +41,14 @@
         color: rgba(255, 255, 255, 0.7);
       }
     }
+    input {
+      width: 18rem;
+      margin: 1rem;
+    }
     textarea {
       display: block;
-      width: 20rem;
+      width: 40rem;
+      margin: 0 auto 1rem auto;
     }
     button {
       
