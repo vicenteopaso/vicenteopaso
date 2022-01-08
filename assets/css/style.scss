@@ -2,8 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+.page-header {
+  background-color: #4c33b9;
+  background-image: linear-gradient(120deg, #007e8b, #4c33b9);
+}
 .main-content {
-  h1 {
-   color: #ff0000;
- }
+  a {
+    color: #00558b;
+  }
 }
