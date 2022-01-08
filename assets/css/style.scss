@@ -68,7 +68,9 @@
   .site-footer-credits {
     color: rgba(255, 255, 255, 0.8);
     font-size: 0.8rem;
-    line-height: 3rem;
+    line-height: 1.5;
+    display: block;
+    margin: 1rem 0.5rem 1rem 0.5em;
   }
   a {
     color: rgba(255, 255, 255, 0.6);
