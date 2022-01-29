@@ -82,6 +82,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
