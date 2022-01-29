@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% include README.md %}
+  <!-- {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
@@ -18,7 +19,7 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-  {% endfor %}
+  {% endfor %} -->
 
   <!-- pagination -->
   <!-- {% if paginator.total_pages > 1 %}
