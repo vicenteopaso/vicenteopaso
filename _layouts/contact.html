@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article class="page" id="{{ page.style }}">
+
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+    <form id="contact-form" action="https://formspree.io/f/mvolgybr" method="POST">
+        <input type="email" name="email" required placeholder="your@email.com" />
+        <input type="phone" name="phone" placeholder="Phone Number" />
+        <textarea name="message" required placeholder="Message" ></textarea>
+        <button class="btn" id="my-form-button">Send</button>
+        <p id="my-form-status"></p>
+    </form>
+</div>
+
+<script>
+    var form = document.getElementById("contact-form");
+
+    async function handleSubmit(event) {
+    event.preventDefault();
+    var status = document.getElementById("my-form-status");
+    var data = new FormData(event.target);
+    fetch(event.target.action, {
+        method: form.method,
+        body: data,
+        headers: {
+            'Accept': 'application/json'
+        }
+    }).then(response => {
+        status.innerHTML = "Thanks for reaching out!";
+        form.reset()
+    }).catch(error => {
+        status.innerHTML = "Oops! There was a problem sending your message. Try contacting me on LinkedIn?"
+    });
+    }
+    form.addEventListener("submit", handleSubmit)
+  </script>
