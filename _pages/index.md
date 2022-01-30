@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /
+style: index
 ---
 ### Highly successful and driven technical professional with over 15-year history of managing projects and launching applications proven to grow businesses and increase outreach.
 
