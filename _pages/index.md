@@ -13,7 +13,7 @@ Highly skilled web and mobile developer with impressive track record demonstrati
 
 &nbsp;
 
-WHAT I DO
+What I do
 -----------------
 
 ### Frontend Development
@@ -34,41 +34,8 @@ At Greygoo I got to get some real world, hand-on experience with a wide variety 
 
 &nbsp;
 
-## LANGUAGES
+## Languages
 
 - **Spanish**: Native speaker
 - **English**: Bilingual Proficiency (C2)
 - **Portuguese**: Work in progress
-
-&nbsp;
-
-## TESTIMONIALS
-
-> I've hired Vicente to work on numerous high-profile web design,apps
-> and web marketing projects. He's been outstanding bothsolo and working
-> within a team. Very hard worker, solutions-oriented, extremely
-> detailed, personable. I recommend him 100%.
-> 
-> — ***David Albert, Upshot***
-&nbsp;
-
-&nbsp;
-> I have worked with Vicente and was impressed with his expertise,
-> service and thoughtful questions. He does not rush to judgement but
-> instead makes sure we are all solving the right challenge for the
-> right target and at the right time. I highly recommend him as a person
-> with integrity who respects his collaborators and his clients.
-> 
-> — ***John Mack, Brandigm***
-&nbsp;
-
-&nbsp;
-> I worked with Vicente on a time-sensitive, complicated project, where
-> he demonstrated his strength and capabilities as a quality-oriented
-> individual who works hard with great technical expertise on the
-> related subject. Vicente reported to me (as his customer) during this
-> project and I certainly recommend him for any project seeking a strong
-> customer-oriented technical lead.
-> 
-> — ***Atessa Nejat, Nokia Networks***
-
