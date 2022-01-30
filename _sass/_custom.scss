@@ -5,7 +5,13 @@
 
 // PAGES
 
-#experience {
+#index.md {
+  h1 {
+    display: none;
+  }
+}
+
+#experience.md {
   h2, h3, h4, h5, h6 {
     text-align: left;
   }
