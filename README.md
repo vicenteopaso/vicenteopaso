@@ -68,4 +68,3 @@ At Greygoo I got to get some real world, hand-on experience with a wide variety 
 > customer-oriented technical lead.
 > 
 > — ***Atessa Nejat, Nokia Networks***
-

@@ -44,14 +44,12 @@ At Greygoo I got to get some real world, hand-on experience with a wide variety 
 
 ## TESTIMONIALS
 
-> I worked with Vicente on a time-sensitive, complicated project, where
-> he demonstrated his strength and capabilities as a quality-oriented
-> individual who works hard with great technical expertise on the
-> related subject. Vicente reported to me (as his customer) during this
-> project and I certainly recommend him for any project seeking a strong
-> customer-oriented technical lead.
+> I've hired Vicente to work on numerous high-profile web design,apps
+> and web marketing projects. He's been outstanding bothsolo and working
+> within a team. Very hard worker, solutions-oriented, extremely
+> detailed, personable. I recommend him 100%.
 > 
-> — ***Atessa Nejat, Nokia Networks***
+> — ***David Albert, Upshot***
 &nbsp;
 
 &nbsp;
@@ -65,9 +63,12 @@ At Greygoo I got to get some real world, hand-on experience with a wide variety 
 &nbsp;
 
 &nbsp;
-> I've hired Vicente to work on numerous high-profile web design,apps
-> and web marketing projects. He's been outstanding bothsolo and working
-> within a team. Very hard worker, solutions-oriented, extremely
-> detailed, personable. I recommend him 100%.
+> I worked with Vicente on a time-sensitive, complicated project, where
+> he demonstrated his strength and capabilities as a quality-oriented
+> individual who works hard with great technical expertise on the
+> related subject. Vicente reported to me (as his customer) during this
+> project and I certainly recommend him for any project seeking a strong
+> customer-oriented technical lead.
 > 
-> — ***David Albert, Upshot***
+> — ***Atessa Nejat, Nokia Networks***
+
