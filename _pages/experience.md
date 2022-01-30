@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /vicenteopaso/experience/
+permalink: /experience/
 ---
 
 ## PROFESSIONAL EXPERIENCE
@@ -113,7 +113,7 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 ##### [Universidad del Pacifico, Santiago, Chile](http://www.upacifico.cl/)
 
 ### ECMAScript 6 Course
-##### [LinkedIn Learning](https://github.com/vicenteopaso/vicenteopaso/blob/f3b7fd9ca7eef5a90e59e4c602ef249b574b5c5c/assets/CertificateOfCompletion_Learning-Ecmascript-6.pdf)
+##### [LinkedIn Learning](/vicenteopaso/assets/CertificateOfCompletion_Learning-Ecmascript-6.pdf)
 
 ### TypeScript Course
-##### [LinkedIn Learning](https://github.com/vicenteopaso/vicenteopaso/blob/f3b7fd9ca7eef5a90e59e4c602ef249b574b5c5c/assets/CertificateOfCompletion_TypeScript%20Essential%20Training.pdf)
+##### [LinkedIn Learning](/vicenteopaso/assets/CertificateOfCompletion_TypeScript%20Essential%20Training.pdf)
