@@ -8,22 +8,23 @@
 p {
   font-weight: 200;
 }
-
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
-
+ul {
+  li {
+    font-weight: 200;
+  }
+}
 hr {
   border: none;
   border-top: 1px solid #e0e0e0;
 }
-
 #index {
   h1 {
     display: none;
   }
 }
-
 #experience {
   h1 {
     line-height: 4;
@@ -39,11 +40,6 @@ hr {
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
-  ul {
-    li {
-      font-weight: 200;
-    }
-  }
   #professional-development {
     line-height: 4;
   }
@@ -55,5 +51,11 @@ hr {
   #typescript-course,
   #linkedin-learning-1 {
     text-align: center;
+  }
+}
+.footer {
+  a {
+    margin: 10px 4px 0 4px;
+    display: inline-block;
   }
 }
