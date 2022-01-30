@@ -2,6 +2,7 @@
 layout: page
 title: PROFESSIONAL EXPERIENCE
 permalink: /professional-experience/
+style: experience
 ---
 ### Principal Frontend Developer
 
