@@ -12,7 +12,22 @@
 }
 
 #experience {
+  h1 {
+    line-height: 4;
+  }
   h2, h3, h4, h5, h6 {
     text-align: left;
+  }
+  #professional-development {
+    line-height: 4;
+  }
+  #professional-development,
+  #graphic-design,
+  #universidad-del-pacifico-santiago-chile,
+  #ecmascript-6-course,
+  #linkedin-learning,
+  #typescript-course,
+  #linkedin-learning-1 {
+    text-align: center;
   }
 }
