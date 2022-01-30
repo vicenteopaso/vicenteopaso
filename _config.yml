@@ -79,6 +79,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+include: ['_pages']
+
 readme_index:
   enabled: true
   remove_originals: false
