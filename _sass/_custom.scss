@@ -5,6 +5,19 @@
 
 // PAGES
 
+p {
+  font-weight: 200;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+}
+
 #index {
   h1 {
     display: none;
@@ -17,6 +30,9 @@
   }
   h2, h3, h4, h5, h6 {
     text-align: left;
+  }
+  h5 {
+    font-size: 1rem;
   }
   #professional-development {
     line-height: 4;
