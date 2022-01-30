@@ -1,8 +1,10 @@
 ---
 layout: page
-title: ABOUT
 permalink: /
 ---
+ABOUT
+-----------------
+
 ### Highly successful and driven technical professional with over 15-year history of managing projects and launching applications proven to grow businesses and increase outreach.
 
 Highly skilled web and mobile developer with impressive track record demonstrating superior command of infrastructure, architecture, and design principles. Adept in combining affinity for creative expression with masterful frontend development skills in order to produce sophisticated interfaces that enhance end user experiences. Key asset in coordinating timely and successful deployments, launches, and updates paramount to achieving high user ratings and, in turn, maximizing company profit. Extensive experience creating simple, elegant user interfaces using JavaScript that engage users and bolster ratings, reviews, and client satisfaction. Phenomenal team builder supporting peers by offering expert knowledge and preemptively extending assistance, maintaining consistent communication, working remotely or in-house.
