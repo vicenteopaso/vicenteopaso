@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Experience
+title: PROFESSIONAL EXPERIENCE
 permalink: /experience/
 ---
-
-## PROFESSIONAL EXPERIENCE
-
 ### Principal Frontend Developer
 
 Dec 2021 -- Present
@@ -25,7 +22,7 @@ Scrum-lead tight-knit development team, delivering an enterprise-level productio
 -   Single-SPA frontend micro-services.
 -   Enterprise-level production pipeline.
 
-##### [Carlsberg Group](https://www.carlsberggroup.com/) > Digital Team
+##### [Carlsberg Group](https://www.carlsberggroup.com/)
 
 ---
 
