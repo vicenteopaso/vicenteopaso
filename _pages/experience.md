@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PROFESSIONAL EXPERIENCE
-permalink: /experience/
+permalink: /professional-experience/
 ---
 ### Principal Frontend Developer
 
