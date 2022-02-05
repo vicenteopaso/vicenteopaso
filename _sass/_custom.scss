@@ -24,8 +24,12 @@ hr {
   h1 {
     display: none;
   }
-  h3#highly-successful-and-driven-technical-professional-with-over-15-year-history-of-managing-projects-and-launching-applications-proven-to-grow-businesses-and-increase-outreach {
-    margin: 4rem 0;
+  h3 {
+    text-align: left;
+    &#highly-successful-and-driven-technical-professional-with-over-15-year-history-of-managing-projects-and-launching-applications-proven-to-grow-businesses-and-increase-outreach {
+      text-align: center !important;
+      margin: 4rem 0;
+    }
   }
 }
 #experience {
