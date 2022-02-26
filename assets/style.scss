@@ -13,7 +13,7 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 html {
   font-size: 100%;
@@ -126,6 +126,12 @@ table tr td :first-child {
 table tr th :last-child,
 table tr td :last-child {
 	margin-bottom: 0;
+}
+
+input,
+textarea,
+button {
+  font-family: $roboto;
 }
 
 /*.detailed .entry p:first-of-type:first-letter {
