@@ -145,3 +145,15 @@ header.masthead {
     margin-top: 40px;
   }
 }
+@media screen and (max-width: 460px) {
+  #contact {
+    form {
+      input {
+        width: 99.5%;
+        &:first-child {
+          margin-bottom: 30px;
+        }
+      }
+    }
+  }
+}
