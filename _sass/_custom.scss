@@ -88,27 +88,27 @@ hr {
       &:focus-visible {
         outline: 0 hidden transparent;
       }
-      input {
-        width: 48%;
-        margin: 0;
-        &:first-child {
-          margin: 0 3% 0 0;
-        }
+    }
+    input {
+      width: 48%;
+      margin: 0;
+      &:first-child {
+        margin: 0 3% 0 0;
       }
-      textarea {
-        display: block;
-        width: 99.5%;
-        margin: 30px 0 30px 0;
-      }
-      button {
-        width: 99.5%;
-        margin-right: auto;
-        margin-left: auto;
-        border-radius: 3px;
-        border: none;
-        height: 40px;
-        background-color: rgba(0, 0, 0, 0.1);
-      }
+    }
+    textarea {
+      display: block;
+      width: 99.5%;
+      margin: 30px 0 30px 0;
+    }
+    button {
+      width: 99.5%;
+      margin-right: auto;
+      margin-left: auto;
+      border-radius: 3px;
+      border: none;
+      height: 40px;
+      background-color: rgba(0, 0, 0, 0.1);
     }
   }
 }
