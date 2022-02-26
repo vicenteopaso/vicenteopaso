@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About Vicente Opaso
 permalink: /
 style: index
 ---
