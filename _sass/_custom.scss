@@ -112,3 +112,20 @@ hr {
     }
   }
 }
+header.masthead {
+  padding-bottom: 13px;
+  a.site-avatar {
+    height: 105px;
+    width: 105px;
+    img {
+      border-radius: 3px;
+    }
+  }
+  .site-info {
+    h1 {
+      line-height: 1;
+
+    }
+    p { margin-top: 5px; }
+  }
+}
