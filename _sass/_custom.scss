@@ -70,23 +70,23 @@ hr {
   form {
     input, textarea {
       padding: 0.75rem 1rem;
-      width: 18rem;
-      color: rgba(255, 255, 255, 0.7);
-      background-color: rgba(255, 255, 255, 0.08);
-      border-color: rgba(255, 255, 255, 0.2);
-      border-style: solid;
-      border-width: 1px;
+      // width: 18rem;
+      // color: rgba(255, 255, 255, 0.7);
+      // background-color: rgba(255, 255, 255, 0.08);
+      // border-color: rgba(255, 255, 255, 0.2);
+      // border-style: solid;
+      // border-width: 1px;
       transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
       &:hover {
-        color: rgba(255, 255, 255, 0.8);
+        // color: rgba(255, 255, 255, 0.8);
         text-decoration: none;
-        background-color: rgba(255, 255, 255, 0.2);
-        border-color: rgba(255, 255, 255, 0.3);
+        // background-color: rgba(255, 255, 255, 0.2);
+        // border-color: rgba(255, 255, 255, 0.3);
       }
       
       &::placeholder {
-        color: rgba(255, 255, 255, 0.7);
+        // color: rgba(255, 255, 255, 0.7);
       }
       
       &:focus-visible {
@@ -95,25 +95,25 @@ hr {
     }
     
     input {
-      width: 18rem;
-      margin: 0 0.5rem 1rem 0.5rem;
+      // width: 18rem;
+      // margin: 0 0.5rem 1rem 0.5rem;
     }
     
     textarea {
       display: block;
-      width: 37.4rem;
+      // width: 37.4rem;
       margin: 0 auto 1rem auto;
     }
     
     button {
-      width: 37.4rem;
+      // width: 37.4rem;
       margin-right: auto;
       margin-left: auto;
     }
   }
 }
 header.masthead {
-  padding-bottom: 13px;
+  padding-bottom: 10px;
   a.site-avatar {
     height: 105px;
     width: 105px;
@@ -127,5 +127,8 @@ header.masthead {
 
     }
     p { margin-top: 5px; }
+  }
+  nav {
+    font-size: 16px;
   }
 }
