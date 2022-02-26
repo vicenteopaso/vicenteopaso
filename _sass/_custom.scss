@@ -121,10 +121,12 @@ hr {
   }
 }
 header.masthead {
-  padding-bottom: 10px;
+  padding-top: 24px;
+  padding-bottom: 12px;
   a.site-avatar {
-    height: 105px;
-    width: 105px;
+    height: 115px;
+    width: 115px;
+    margin-right: 20px;
     img {
       border-radius: 3px;
     }
@@ -140,6 +142,6 @@ header.masthead {
   }
   nav {
     font-size: 16px;
-    margin-top: 30px;
+    margin-top: 40px;
   }
 }
