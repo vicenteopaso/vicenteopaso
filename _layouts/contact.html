@@ -25,28 +25,24 @@ layout: default
         event.preventDefault();
         var status = document.getElementById("my-form-status");
         var data = new FormData(event.target);
-        grecaptcha.ready(function() {
-          grecaptcha.execute('6LcIDdweAAAAADBzIQxefOW89FJVX1Ie3DcFhEEm', {action: 'submit'}).then(function(token) {
-            fetch(event.target.action, {
-                method: form.method,
-                body: data,
-                headers: {
-                    'Accept': 'application/json'
-                }
-            }).then(response => {
-                status.innerHTML = "Thanks for reaching out!";
-                form.reset()
-            }).catch(error => {
-                status.innerHTML = "Oops! There was a problem sending your message. Try contacting me on LinkedIn?"
+        grecaptcha.ready(function () {
+            grecaptcha.execute('6LcIDdweAAAAADBzIQxefOW89FJVX1Ie3DcFhEEm', {action: 'submit'}).then(function (token) {
+                document.getElementById('g-recaptcha-response').value = token;
+                fetch(event.target.action, {
+                    method: form.method,
+                    body: data,
+                    headers: {
+                        'Accept': 'application/json'
+                    }
+                }).then(response => {
+                    status.innerHTML = "Thanks for reaching out!";
+                    form.reset()
+                }).catch(error => {
+                    status.innerHTML = "Oops! There was a problem sending your message. Try contacting me on LinkedIn?"
+                });
+
             });
-          });
         });
     }
     form.addEventListener("submit", handleSubmit);
-    window.onload = function() { 
-        var el = document.getElementById('g-recaptcha-response'); 
-        if (el) { 
-            el.setAttribute('required', 'required'); 
-        } 
-    }
   </script>
