@@ -60,7 +60,7 @@
       let url = window.location.href;
       let length = url.length;
       let array = url.split('/');
-      let page = array[length - 2];
+      let page = length > 2 ? array[length - 2] : '';
       let element = document.getElementById(page);
       if (element === 'experience' || element === 'contact') {
         element.classList.add('active');
