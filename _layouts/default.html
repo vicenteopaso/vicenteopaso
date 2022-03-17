@@ -58,10 +58,14 @@
   <script>
     window.onload = (event) => {
       let url = window.location.href;
-      let page = url.split('/').pop();
+      let length = url.length;
+      let array = url.split('/');
+      let page = array[length - 2];
       let element = document.getElementById(page);
-      if (element) {
+      if (element === 'experience' || element === 'contact') {
         element.classList.add('active');
+      } else {
+        document.getElementById('about').classList.add('active');
       }
     };
   </script>
