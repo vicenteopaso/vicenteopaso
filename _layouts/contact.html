@@ -7,6 +7,21 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div class="entry">
+    <p>Please feel free to contact me, using the form below. If you want to contact me directly, you can find me as follows:</p>
+    <div id="contactWrapper">
+      <div>
+        <p>Phone number</p>
+        <a href="tel://+34684005262">+34 684 005 262</a>
+      </div>
+      <div>
+        <p>Email</p>
+        <a href="mailto://vicente@opa.so">vicente@opa.so</a>
+      </div>
+      <div>
+        <p>Location</p>
+        <p>I live in beautiful Malaga, Spain</p>
+      </div>
+    </div>
     {{ content }}
     <form id="contact-form" action="https://formspree.io/f/mvolgybr" method="POST">
         <input type="email" name="email" required placeholder="your@email.com" />
