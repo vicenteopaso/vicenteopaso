@@ -28,11 +28,12 @@
             </div>
 
             <nav>
-              <a href="{{ site.baseurl }}/">About</a>
-              <a href="{{ site.baseurl }}/professional-experience/">Experience</a>
-              <a href="{{ site.baseurl }}/contact/">Contact</a>
+              <a id="about" href="{{ site.baseurl }}/">About</a>
+              <a id="experience" href="{{ site.baseurl }}/experience/">Experience</a>
+              <a id="contact" href="{{ site.baseurl }}/contact/">Contact</a>
               <a href="{{ site.baseurl }}/assets/Vicente_Opaso_Resume.pdf" target="_blank">CV Download</a>
             </nav>
+
           </header>
         </div>
       </div>
@@ -54,4 +55,14 @@
 
     {% include analytics.html %}
   </body>
+  <script>
+    window.onload = (event) => {
+      let url = window.location.href;
+      let page = url.split('/').pop();
+      let element = document.getElementById(page);
+      if (element) {
+        element.classList.add('active');
+      }
+    };
+  </script>
 </html>

@@ -143,6 +143,10 @@ header.masthead {
   nav {
     font-size: 16px;
     margin-top: 40px;
+    .active {
+      color: #000;
+      font-weight: 400;
+    }
   }
 }
 @media screen and (max-width: 465px) {
