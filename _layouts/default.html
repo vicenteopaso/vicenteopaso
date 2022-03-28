@@ -62,7 +62,7 @@
       let array = url.split('/');
       let page = length > 2 ? array[length - 2] : '';
       let element = document.getElementById(page);
-      if (element === 'experience' || element === 'contact') {
+      if (page === 'experience' || page === 'contact') {
         element.classList.add('active');
       } else {
         document.getElementById('about').classList.add('active');
