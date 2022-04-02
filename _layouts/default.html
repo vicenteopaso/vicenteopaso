@@ -58,8 +58,8 @@
   <script>
     window.onload = (event) => {
       let url = window.location.href;
-      let length = url.length;
       let array = url.split('/');
+      let length = array.length;
       let page = length > 2 ? array[length - 2] : '';
       let element = document.getElementById(page);
       if (page === 'experience' || page === 'contact') {
