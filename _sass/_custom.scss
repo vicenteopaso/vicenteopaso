@@ -142,6 +142,13 @@ hr {
       a { color: #404040 }
     }
   }
+  #googleMap {
+    position: relative;
+    overflow: hidden;
+    height: 300px;
+    margin-right: 5px;
+    margin-top: 45px;
+  }
 }
 header.masthead {
   padding-top: 24px;
