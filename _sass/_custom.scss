@@ -202,8 +202,10 @@ header.masthead {
       a.site-avatar {
         width: 0;
         height: 0;
-        margin: 0;
-        transition: all 0.5s ease;
+        margin: 0 auto 0 auto;
+        right: auto;
+        left: auto;
+        transition: all 0.25s ease;
       }
       .site-info {
         h1 {
@@ -233,6 +235,9 @@ header.masthead {
           margin-left: auto;
           margin-bottom: 15px;
         }
+        nav {
+          color: #333;
+        }
       }
     }
     &.scroll {
@@ -240,9 +245,6 @@ header.masthead {
         header.masthead {
           nav {
             margin-top: 12px;
-            a {
-              color: #333333;
-            }
           }
         }
       }
