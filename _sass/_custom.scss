@@ -211,10 +211,7 @@ header.masthead {
           transition: all 0.5s ease;
         }
         p {
-          width: 0;
-          height: 0;
-          margin: 0;
-          font-size: 0;
+          display: none;
           transition: all 0.5s ease;
         }
       }
@@ -228,12 +225,28 @@ header.masthead {
 }
 
 @media screen and (max-width: 640px) {
-  header.masthead {
-    a.site-avatar {
-      margin-right: auto;
-      margin-left: auto;
-      margin-bottom: 15px;
+  #nav {
+    .container {
+      header.masthead {
+        a.site-avatar {
+          margin-right: auto;
+          margin-left: auto;
+          margin-bottom: 15px;
+        }
+      }
     }
+    &.scroll {
+      .container {
+        header.masthead {
+          nav {
+            margin-top: 12px;
+            a {
+              color: #333333;
+            }
+          }
+        }
+      }
+    }      
   }
 }
 @media screen and (max-width: 465px) {
