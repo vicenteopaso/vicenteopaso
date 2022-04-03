@@ -187,25 +187,39 @@ header.masthead {
     }
   }
 }
-header.masthead.scroll {
-  padding-top: 18px;
-  padding-bottom: 6px;
-  a.site-avatar {
-    height: 80px;
-    width: 80px;
-    margin-right: 16px;
-  }
-  .site-info {
-    h1 {
-      font-size: 0.8;
+#nav.scroll {
+  .container {
+    position: fixed;
+    left: calc(50vw - 740px);
+    right: calc(50vw - 740px);
+    background: white;
+    transition: all 0.5s ease;
+    header.masthead {
+      padding-top: 18px;
+      padding-bottom: 6px;
+      transition: all 0.5s ease;
+      a.site-avatar {
+        height: 80px;
+        width: 80px;
+        margin-right: 16px;
+        transition: all 0.5s ease;
+      }
+      .site-info {
+        h1 {
+          font-size: 0.8;
+          transition: all 0.5s ease;
+        }
+        p {
+          display: none;
+          transition: all 0.5s ease;
+        }
+      }
+      nav {
+        font-size: 14px;
+        margin-top: 34px;
+        transition: all 0.5s ease;
+      }
     }
-    p {
-      display: none;
-    }
-  }
-  nav {
-    font-size: 14px;
-    margin-top: 34px;
   }
 }
 
