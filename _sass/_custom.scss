@@ -188,39 +188,41 @@ header.masthead {
   }
 }
 #nav.scroll {
-  .container {
-    background: white;
-    position: fixed;
-    top: 7px;
-    left: calc(50vw - 740px);
-    right: calc(50vw - 740px);
-    transition: all 0.5s ease;
-    header.masthead {
-      padding-top: 12px;
-      padding-bottom: 12px;
+  .wrapper-masthead {
+    .container {
+      background: white;
+      position: fixed;
+      top: 7px;
+      left: calc(50vw - 740px);
+      right: calc(50vw - 740px);
       transition: all 0.5s ease;
-      a.site-avatar {
-        width: 0;
-        height: 0;
-        margin: 0 auto 0 auto;
-        right: auto;
-        left: auto;
-        transition: all 0.25s ease;
-      }
-      .site-info {
-        h1 {
-          font-size: 0.8;
-          transition: all 0.5s ease;
-        }
-        p {
-          display: none;
-          transition: all 0.5s ease;
-        }
-      }
-      nav {
-        font-size: 14px;
-        margin-top: 4px;
+      header.masthead {
+        padding-top: 12px;
+        padding-bottom: 12px;
         transition: all 0.5s ease;
+        a.site-avatar {
+          width: 0;
+          height: 0;
+          margin: 0 auto 0 auto;
+          right: auto;
+          left: auto;
+          transition: all 0.25s ease;
+        }
+        .site-info {
+          h1 {
+            font-size: 0.8;
+            transition: all 0.5s ease;
+          }
+          p {
+            display: none;
+            transition: all 0.5s ease;
+          }
+        }
+        nav {
+          font-size: 14px;
+          margin-top: 4px;
+          transition: all 0.5s ease;
+        }
       }
     }
   }
@@ -228,31 +230,33 @@ header.masthead {
 
 @media screen and (max-width: 640px) {
   #nav {
-    .container {
-      header.masthead {
-        a.site-avatar {
-          margin-right: auto;
-          margin-left: auto;
-          margin-bottom: 15px;
+    .wrapper-masthead {
+      .container {
+        header.masthead {
+          a.site-avatar {
+            margin-right: auto;
+            margin-left: auto;
+            margin-bottom: 15px;
+          }
+          nav {
+            margin-top: 18px;
+            margin-bottom: 6px;
+            a {
+              color: #333;
+            }
+          }
         }
-        nav {
-          margin-top: 18px;
-          margin-bottom: 6px;
-          a {
-            color: #333;
+      }
+      &.scroll {
+        .container {
+          header.masthead {
+            nav {
+              margin-top: 12px;
+            }
           }
         }
       }
     }
-    &.scroll {
-      .container {
-        header.masthead {
-          nav {
-            margin-top: 12px;
-          }
-        }
-      }
-    }      
   }
 }
 @media screen and (max-width: 465px) {
