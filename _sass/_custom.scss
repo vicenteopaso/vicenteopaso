@@ -43,6 +43,15 @@ hr {
       margin: 4rem 0;
     }
   }
+  ul {
+    :first-of-type {
+      list-style: none;
+      margin-left: auto;
+      margin-right: auto;
+      width: 300px;
+      margin-top: 40px;
+    }
+  }
 }
 #experience {
   h1 {
