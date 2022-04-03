@@ -160,7 +160,7 @@ hr {
 }
 #nav {
   .wrapper-main {
-    padding-top: 120px;
+    padding-top: 130px;
   }
   .wrapper-masthead {
     .container {
@@ -239,6 +239,9 @@ hr {
 
 @media screen and (max-width: 640px) {
   #nav {
+    .wrapper-main {
+      padding-top: 250px;
+    }
     .wrapper-masthead {
       .container {
         header.masthead {
@@ -257,10 +260,12 @@ hr {
         }
       }
       &.scroll {
-        .container {
-          header.masthead {
-            nav {
-              margin-top: 12px;
+        .wrapper-masthead {
+          .container {
+            header.masthead {
+              nav {
+                margin-top: 12px;
+              }
             }
           }
         }
