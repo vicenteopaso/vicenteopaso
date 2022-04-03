@@ -146,7 +146,7 @@ hr {
       text-align: center;
       a { color: #404040 }
       &:first-child {
-        border-right: 1px solid #858585;
+        border-right: 1px solid #eeeeee;
       }
     }
   }
@@ -187,6 +187,28 @@ header.masthead {
     }
   }
 }
+header.masthead.scroll {
+  padding-top: 18px;
+  padding-bottom: 6px;
+  a.site-avatar {
+    height: 80px;
+    width: 80px;
+    margin-right: 16px;
+  }
+  .site-info {
+    h1 {
+      font-size: 0.8;
+    }
+    p {
+      display: none;
+    }
+  }
+  nav {
+    font-size: 14px;
+    margin-top: 34px;
+  }
+}
+
 @media screen and (max-width: 640px) {
   header.masthead {
     a.site-avatar {
@@ -212,7 +234,7 @@ header.masthead {
         margin: 0;
         padding: 20px 0 30px 0;
         &:first-child {
-          border-bottom: 1px solid #858585;
+          border-bottom: 1px solid #eeeeee;
           border-right: 0 hidden transparent;
         }
       }
