@@ -3,8 +3,16 @@
 // CUSTOM
 //
 
-body {
-  animation: opacity 0.2s;
+.fade-in-image {
+  animation: fadeIn 0.5s;
+  -webkit-animation: fadeIn 0.5s;
+  -moz-animation: fadeIn 0.5s;
+  -o-animation: fadeIn 0.5s;
+  -ms-animation: fadeIn 0.5s;
+}
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
 }
 
 // PAGES
@@ -121,6 +129,17 @@ hr {
       &:hover {
         background-color: rgba(0, 0, 0, 0.35);
       }
+    }
+  }
+  #contactWrapper {
+    display: flex;
+    flex-flow: row;
+    > div {
+      flex: 1 1 auto;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      a { color: #404040 }
     }
   }
 }
