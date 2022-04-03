@@ -236,7 +236,11 @@ header.masthead {
           margin-bottom: 15px;
         }
         nav {
-          color: #333;
+          margin-top: 18px;
+          margin-bottom: 6px;
+          a {
+            color: #333;
+          }
         }
       }
     }
