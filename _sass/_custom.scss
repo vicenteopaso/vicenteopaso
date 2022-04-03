@@ -158,36 +158,10 @@ hr {
     margin-top: 45px;
   }
 }
-header.masthead {
-  padding-top: 24px;
-  padding-bottom: 12px;
-  a.site-avatar {
-    height: 115px;
-    width: 115px;
-    margin-right: 20px;
-    img {
-      border-radius: 3px;
-    }
+#nav {
+  .wrapper-main {
+    padding-top: 220px;
   }
-  .site-info {
-    h1 {
-      line-height: 1;
-    }
-    p {
-      margin-top: 0;
-      font-weight: 300;
-    }
-  }
-  nav {
-    font-size: 16px;
-    margin-top: 40px;
-    .active {
-      color: #000;
-      font-weight: 400;
-    }
-  }
-}
-#nav.scroll {
   .wrapper-masthead {
     .container {
       background: white;
@@ -197,31 +171,66 @@ header.masthead {
       right: calc(50vw - 740px);
       transition: all 0.5s ease;
       header.masthead {
-        padding-top: 12px;
+        padding-top: 24px;
         padding-bottom: 12px;
         transition: all 0.5s ease;
+        a.site-avatar {
+          height: 115px;
+          width: 115px;
+          margin-right: 20px;
+          transition: all 0.25s ease;
+          img {
+            border-radius: 3px;
+          }
+        }
+        .site-info {
+          h1 {
+            line-height: 1;
+            transition: all 0.5s ease;
+          }
+          p {
+            margin-top: 0;
+            font-weight: 300;
+            transition: all 0.5s ease;
+          }
+        }
+        nav {
+          font-size: 16px;
+          margin-top: 40px;
+          transition: all 0.5s ease;
+          .active {
+            color: #000;
+            font-weight: 400;
+          }
+        }
+      }
+    }
+  }
+}
+#nav.scroll {
+  .wrapper-masthead {
+    .container {
+      header.masthead {
+        padding-top: 12px;
+        padding-bottom: 12px;
         a.site-avatar {
           width: 0;
           height: 0;
           margin: 0 auto 0 auto;
           right: auto;
           left: auto;
-          transition: all 0.25s ease;
         }
         .site-info {
           h1 {
             font-size: 0.8;
-            transition: all 0.5s ease;
           }
           p {
             display: none;
-            transition: all 0.5s ease;
           }
         }
         nav {
           font-size: 14px;
           margin-top: 4px;
-          transition: all 0.5s ease;
         }
       }
     }
