@@ -134,12 +134,15 @@ hr {
   #contactWrapper {
     display: flex;
     flex-flow: row;
-    > div {
+    > .contactMethod {
       flex: 1 1 auto;
       margin: 0;
       padding: 0;
       text-align: center;
       a { color: #404040 }
+      &:first-child {
+        border-right: 2px solid #404040;
+      }
     }
   }
   #googleMap {
