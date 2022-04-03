@@ -4,9 +4,9 @@ ABOUT
 
 Highly skilled web and mobile developer with impressive track record demonstrating superior command of infrastructure, architecture, and design principles. Adept in combining affinity for creative expression with masterful frontend development skills in order to produce sophisticated interfaces that enhance end user experiences. Key asset in coordinating timely and successful deployments, launches, and updates paramount to achieving high user ratings and, in turn, maximizing company profit. Extensive experience creating simple, elegant user interfaces using JavaScript that engage users and bolster ratings, reviews, and client satisfaction. Phenomenal team builder supporting peers by offering expert knowledge and preemptively extending assistance, maintaining consistent communication, working remotely or in-house.
 
-- 20+ YEARS WORK HISTORY
-- 150+ PROJECTS
-- 30000+ CONTRACTING HOURS
+> - 20+ YEARS WORK HISTORY
+> - 150+ PROJECTS
+> - 30000+ CONTRACTING HOURS
 
 &nbsp;
 
