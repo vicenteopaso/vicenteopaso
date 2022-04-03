@@ -187,13 +187,16 @@ header.masthead {
     }
   }
 }
-@media screen and (max-width: 465px) {
+@media screen and (max-width: 640px) {
   header.masthead {
     a.site-avatar {
       margin-right: auto;
       margin-left: auto;
+      margin-bottom: 15px;
     }
   }
+}
+@media screen and (max-width: 465px) {
   #contact {
     form {
       input {
