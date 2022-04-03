@@ -188,20 +188,19 @@ header.masthead {
   }
 }
 #nav.scroll {
+  background: white;
   .container {
     position: fixed;
+    top: 7px;
     left: calc(50vw - 740px);
     right: calc(50vw - 740px);
-    background: white;
     transition: all 0.5s ease;
     header.masthead {
-      padding-top: 18px;
-      padding-bottom: 6px;
+      padding-top: 12px;
+      padding-bottom: 12px;
       transition: all 0.5s ease;
       a.site-avatar {
-        height: 80px;
-        width: 80px;
-        margin-right: 16px;
+        display: none;
         transition: all 0.5s ease;
       }
       .site-info {
@@ -216,7 +215,7 @@ header.masthead {
       }
       nav {
         font-size: 14px;
-        margin-top: 34px;
+        margin-top: 4px;
         transition: all 0.5s ease;
       }
     }
