@@ -17,7 +17,7 @@
   <body>
     <div id="bar"></div>
     <div class="wrapper-container">
-      <div class="wrapper-masthead">
+      <div class="wrapper-masthead" id="nav">
         <div class="container">
           <header class="masthead clearfix">
             <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
@@ -70,5 +70,12 @@
         document.getElementById('about').classList.add('active');
       }
     };
+
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+      if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
+        document.getElementById("nav").classList.add('scroll');
+      }
+    }
   </script>
 </html>
