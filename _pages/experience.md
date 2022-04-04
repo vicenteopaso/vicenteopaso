@@ -71,7 +71,7 @@ Contracted by engineering team to formulate, evaluate, and test models for clien
 -   Successfully implemented conversion ratio optimization to engage end users by developing simple, elegant user experiences that exemplified application design principles.
 -   Shared updates, relayed impediments, and provided intellect through JIRA and Trello, recording all client notes, technical and strategic learnings through Quip documentation, in a highly process-driven workflow.
 
-##### [Cro Metrics](http://crometrics.com/)
+##### [Cro Metrics](https://crometrics.com/)
 
 ---
 
