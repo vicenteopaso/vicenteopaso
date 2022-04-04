@@ -23,7 +23,7 @@ From HTML, CSS, and JavaScript, to Bootstrap, AngularJS, and React. And tools li
 
 ### Project Management
 
-From my work in Wireless Telecom, as a PM for Nokia on multi-million-dollar contracts, managing teams of 20+ people; to the last 6 years running Greygoo, our Development team, External Resources around the globe, and collaborating with clients, from Architecture Design to Maintenance; I've developed serious PM chops. With a deep understanding of Agile Methodologies, Scrum and Kanban.
+From my work in Wireless Telecom, as a PM for Nokia on multi-million-dollar contracts, managing teams of 20+ people; to the last 8 years running Greygoo, our Development team, External Resources around the globe, and collaborating with clients, from Architecture Design to Maintenance; I've developed serious PM chops. With a deep understanding of Agile Methodologies, Scrum and Kanban.
 
 ### JavaScript Development
 
@@ -31,7 +31,7 @@ Over the last couple of years, I've found myself obsessed with JavaScript's simp
 
 ### Mobile Development
 
-At Greygoo I got to get some real world, hand-on experience with a wide variety of platforms, like React Native, Ionic, AppGyver, and PhoneGap. Additionally, I got to Manage the Development of numerous Native apps, in both Objectve-C, and Java -- for iOS and Android.
+At Greygoo I able to get real world, hand-on experience with a wide variety of platforms, like React Native, Ionic, AppGyver, and PhoneGap. Additionally, I got to Manage the Development of numerous Native apps, in both Objectve-C, and Java -- for iOS and Android.
 
 &nbsp;
 
