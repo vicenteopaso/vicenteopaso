@@ -313,6 +313,10 @@ hr {
   }
   p {
     padding-bottom: 10vh;
+    &:last-of-type {
+      max-width: 40vh;
+      margin: 0 auto;
+    }
   }
   image {
     align-self: center;
