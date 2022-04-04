@@ -30,7 +30,7 @@ ul {
 }
 hr {
   border: none;
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid $lightGray;
 }
 #index {
   h1 {
@@ -96,7 +96,7 @@ hr {
     input,
     textarea,
     button {
-      color: #000;
+      color: $black;
       background-color: rgba(0, 0, 0, 0.1);
       border-style: hidden;
       border-width: 0;
@@ -153,9 +153,9 @@ hr {
       margin: 0 0 45px 0;
       padding: 0;
       text-align: center;
-      a { color: #404040 }
+      a { color: $darkGray }
       &:first-child {
-        border-right: 1px solid #eeeeee;
+        border-right: 1px solid $lightGray;
       }
     }
   }
@@ -173,7 +173,7 @@ hr {
   }
   .wrapper-masthead {
     .container {
-      background: white;
+      background: $white;
       position: fixed;
       top: 7px;
       left: calc(50vw - 740px);
@@ -208,7 +208,7 @@ hr {
           margin-top: 40px;
           transition: all 0.5s ease;
           .active {
-            color: #000;
+            color: $black;
             font-weight: 400;
           }
         }
@@ -263,7 +263,7 @@ hr {
             margin-top: 18px;
             margin-bottom: 6px;
             a {
-              color: #333;
+              color: $darkGray;
             }
           }
         }
@@ -298,10 +298,24 @@ hr {
         margin: 0;
         padding: 20px 0 30px 0;
         &:first-child {
-          border-bottom: 1px solid #eeeeee;
+          border-bottom: 1px solid $lightGray;
           border-right: 0 hidden transparent;
         }
       }
     }
+  }
+}
+#fourofour {
+  font-family: $roboto;
+  h1 {
+    line-height: 4;
+    font-weight: 400;
+  }
+  p {
+    padding-bottom: 10vh;
+  }
+  image {
+    align-self: center;
+    margin: 0 auto;
   }
 }
