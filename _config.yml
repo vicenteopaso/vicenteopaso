@@ -38,14 +38,14 @@ google_analytics: UA-128573583-1
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
 
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
+# Your website URL (e.g. https://amitmerchant1990.github.io or https://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
 url: https://vicenteopaso.github.io
 enforce_ssl: https://vicenteopaso.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
+# (https://yourusername.github.io/repository-name)
+# and NOT your User repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
