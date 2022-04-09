@@ -108,7 +108,7 @@ Managed projects within the wireless telecommunications industry for over 10 yea
 ## Professional Development
 
 ### Graphic Design
-##### [Universidad del Pacifico, Santiago, Chile](http://www.upacifico.cl/)
+##### [Universidad del Pacifico, Santiago, Chile](https://www.upacifico.cl/)
 
 ### ECMAScript 6 Course
 ##### [LinkedIn Learning](/vicenteopaso/assets/CertificateOfCompletion_Learning-Ecmascript-6.pdf)
