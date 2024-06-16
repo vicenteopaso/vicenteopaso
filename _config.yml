@@ -9,6 +9,9 @@ title: Vicente Opaso
 # Name of the author
 author: Amit Merchant
 
+# If you clone the Minima repo and build locally, use this setting.
+theme: minima
+
 # Short bio or description (displayed in the header)
 description: Senior Frontend Developer — JavaScript Obsessed
 
