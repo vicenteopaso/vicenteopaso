@@ -1,0 +1,245 @@
+{
+  "basics": {
+    "name": "Vicente Opaso",
+    "label": "Innovative Frontend Technical Lead & Solutions Architect <br/> Expert in Design Systems & Frontend Development with 20+ Years of Experience.",
+    "picture": "/assets/images/Official_square.jpeg",
+    "email": "vicente@opa.so",
+    "phone": "+34 684 005 262",
+    "website": "https://opa.so",
+    "summary": "Highly accomplished and driven Technical Lead and Solutions Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.",
+    "highlights": [
+      "Design System Architect",
+      "Solutions Architect",
+      "Frontend Developer",
+      "Community of Practice (CoP) Builder",
+      "Agile Practitioner"
+    ],
+    "location": {
+      "city": "Benalmádena, Málaga",
+      "countryCode": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "X | Twitter",
+        "username": "vicenteopaso",
+        "url": "https://x.com/vicenteopaso"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vicenteopaso",
+        "url": "https://linkedin.com/in/vicenteopaso"
+      },
+      {
+        "network": "GitHub",
+        "username": "vicenteopaso",
+        "url": "https://github.com/vicenteopaso"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Carlsberg Group",
+      "website": "https://carlsberggroup.com",
+      "summary": "Played key roles contributing to the company's growth. As a Solutions Architect, led Frontend Development, helping create the first Community of Practice, and successfully growing it to improve our Developer Experience, as well as the quality of code. Architected Malty Design System, an open-source system for Carlsberg Group's global frontend needs."
+    },
+    {
+      "position": "Frontend Solutions Architect",
+      "startDate": "2022-12",
+      "endDate": "",
+      "highlights": [
+        "Led the development of TypeScripted React applications with AWS backend and automated CI/CD pipelines using GitHub Actions.",
+        "Oversaw enterprise e-commerce shops with $1B+ annual revenue.",
+        "Scrum-led a development team delivering enterprise-level production releases."
+      ]
+    },
+    {
+      "position": "Architect for Malty Design System",
+      "startDate": "2021-01",
+      "endDate": "",
+      "highlights": [
+        "Architected and maintained the Malty Design System, an open-source design system, for Carlsberg Group's global frontend development needs.",
+        "Developed a React monorepo component library.",
+        "Implemented modern React development practices."
+      ]
+    },
+    {
+      "position": "Principal Frontend Developer",
+      "startDate": "2021-03",
+      "endDate": "2022-12",
+      "highlights": [
+        "Developed and maintained frontend for two e-commerce shops with over $1B annual revenue.",
+        "Implemented modern React development practices and enterprise-level production pipelines.",
+        "Created and led a Frontend Community of Practice, launching several initiatives to enhance team collaboration and knowledge sharing."
+      ]
+    },
+    {
+      "position": "Lead Frontend Developer",
+      "startDate": "2020-01",
+      "endDate": "2021-03",
+      "highlights": [
+        "Led frontend development for various internal, B2B, and B2C applications, including Single-SPA microservices and Progressive Web Apps.",
+        "Managed enterprise-level production pipeline."
+      ]
+    },
+    {
+      "company": "Greygoo",
+      "summary": "Directed a tight-knit multidisciplinary team and external resources throughout all phases of application development. Concentrated on frontend development, coordinating work, deliverables, and output quality with in-house resources, as well as near-shore and off-shore resources globally. Created and implemented guidelines and standards for excellence, managing operations and quality assurance. Built strong business alliances and partnerships with premier, high-profile agencies and organizations across various industries, delivering technical solutions designed to improve engagement and expand outreach through innovative web development and business strategy skills.",
+      "position": "Co-founder and Principal",
+      "startDate": "2012-03",
+      "endDate": "2019-06",
+      "highlights": [
+        "Directed a multidisciplinary team in developing web and mobile applications using Angular, React, and Ionic.",
+        "Built strong business alliances with high-profile agencies and organizations, delivering technical solutions across various industries.",
+        "Partnered with GO GROUND, the official transportation agency for NCAA, building three web applications and two mobile applications suite for their use in executing events and serving customers.",
+        "Contracted by clients across diverse spectrum of verticals, such as General Motors, Paulson Institute, Naperville Park District, and many more organizations as well as start-up businesses."
+      ]
+    },
+    {
+      "company": "Prizm Tech Group",
+      "summary": "As a Lead and Angular Frontend Developer for a white-label home healthcare management system, I lead a Distributed Team from UX design, Database Schema and UI Implementation to deliverables. Heading all technical aspects of the project, I managed the day-to-day client relations, as well as Angular Development, Development Team goals, tasks and deliverables.",
+      "position": "Co-founder and Principal",
+      "startDate": "2018-12",
+      "endDate": "2019-04",
+      "highlights": [
+        "Led a team developing a white-label home healthcare management system.",
+        "Advanced Angular (v6+) Development.",
+        "Technical Project Manager for a Distributed Team across Europe and Latin America.",
+        "Managed UX Design from user-flows to wireframes and database schemas."
+      ]
+    },
+    {
+      "company": "Upshot",
+      "website": "https://upshot.agency",
+      "summary": "Contracted to coordinate high-priority digital development projects for a marketing agency, with a focus on frontend. Developed projects ranging in scope and difficulty, consistently delivering projects in a timely fashion and exceeding client expectations for quality and functionality.",
+      "position": "Freelance Frontend Endineer",
+      "startDate": "2011-03",
+      "endDate": "2012-03",
+      "highlights": [
+        "Led development for a six-month project with six-figure budget on behalf of Hilton Hotels, creating and developing collaborative content generation, management, and presentation tool for internal use.",
+        "Expertly designed and developed micro-sites, landing pages, promotional sites, and highly complex web applications for small brands as well as Fortune 500 companies, such as Anheuser-Busch and Omron."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad del Pacífico",
+      "area": "Graphic Design",
+      "studyType": "Bachelor",
+      "startDate": "1998",
+      "endDate": "Incomplete"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["TypeScript", "Node.js", "Micro Frontends"]
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced",
+      "keywords": ["S3", "CloudFront", "Lambda", "CloudWatch", "Amplify"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": ["GitHub Actions", "Pages", "Packages", "GHAS"]
+    },
+    {
+      "name": "Design Systems",
+      "level": "Master",
+      "keywords": ["Figma", "Storybook", "Supernova", "Design Tokens"]
+    },
+    {
+      "name": "Agile",
+      "level": "Advanced",
+      "keywords": ["Scrum", "KanBan", "Jira", "Confluence"]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["HTML5", "Web Components", "HTML Modules", "Canvas"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Sass", "Less", "CSS-in-JS"]
+    },
+    {
+      "name": "Testing",
+      "level": "Basic",
+      "keywords": ["Jest", "Cypress", "React Testing Library"]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Angular",
+        "Gatsby",
+        "Next.js",
+        "Progressive Web Apps",
+        "SPA",
+        "Micro Frontends",
+        "Server-Side Rendering",
+        "Static Site Generation",
+        "Headless CMS",
+        "GraphQL",
+        "REST",
+        "Service Workers"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Saltwater Aquariums",
+      "keywords": [
+        "Coral",
+        "Reef",
+        "Marine",
+        "Invertebrates",
+        "Fishkeeping",
+        "Clownfish"
+      ]
+    },
+    {
+      "name": "DYI IoT Maker",
+      "keywords": [
+        "Raspberry Pi",
+        "Arduino",
+        "Magic Mirror",
+        "OpenHAB",
+        "Home Automation",
+        "Homebridge"
+      ]
+    },
+    {
+      "name": "Crypto",
+      "keywords": ["Bitcoin", "Ethereum", "NFT", "BCube", "Web3"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Samuel Silva | Senior Frontend Developer @ Carlsberg Group",
+      "reference": "Working alongside Vicente on various projects over the past two years has been an absolute pleasure. As a Solutions Architect, he consistently shows dedication in delivering excellent solutions that meet our business needs while valuing the team's expertise every step of the way.<br/>Besides his technical skills, Vicente is a team player who creates a positive and collaborative work environment. He consistently goes above and beyond to support colleagues and shares his expertise within our company's internal community.<br/>I highly recommend Vicente for any project in need of a talented and dedicated Solutions Architect. He brings abundant expertise, professionalism, and enthusiasm to every project."
+    },
+    {
+      "name": "Thiago Mota | Senior Product Designer @ Carlsberg Group",
+      "reference": "Collaborating with Vicente Opaso, the Solutions Architect and Lead Developer for the Malty Design System at Carlsberg Group, was a testament to his extensive expertise and professionalism. Vicente brought a wealth of knowledge to our work on the Malty design system. His deep expertise and unwavering professionalism were evident throughout our collaboration. Vicente's collaborative approach and ability to align technical intricacies with design aspirations made a significant impact, ensuring the scalability and success of the project. His commitment to excellence and adeptness in fostering collaboration make him a valuable asset in delivering robust solutions."
+    },
+    {
+      "name": "Bruno Torres | Senior Frontend Developer @ Carlsberg Group",
+      "reference": "It's with genuine pleasure that I share my admiration for Vicente, the incredibly talented Frontend Solutions Architect I had the chance to work with at Carlsberg. Working alongside him has been more than just a professional experience; it's been a journey of growth and camaraderie.<br/>Vicente stands out for his technical prowess and his genuine commitment to building a tight-knit front-end community. Under his guidance, I've felt a sense of trust and support beyond the usual workplace dynamic. Vicente's efforts to create a collaborative environment have made our team feel like a family, fostering an atmosphere where everyone's contributions are valued.<br/>As a Frontend Developer, I've greatly appreciated Vicente's approach to problem-solving and his emphasis on sharing knowledge. His mentorship has elevated my technical skills and made our workplace a positive and uplifting space.<br/>I wholeheartedly recommend Vicente Opaso to anyone looking for more than just a leader – someone who values humanity and teamwork as much as technical excellence."
+    }
+  ]
+}
