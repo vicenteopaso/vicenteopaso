@@ -18,20 +18,22 @@ title: Vicente Opaso
 email: vicente@opa.so
 description: Senior Frontend Engineer
 
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/vicenteopaso_jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
+url: "https://vicenteopaso.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: Vicente Opaso
+  name: "Vicente Opaso"
   x: vicenteopaso
   picture: /assets/images/Official_square.jpeg
+  tagline: "Innovative Technical Lead & Design System Expert"
+  bio: "With over 20 years of experience in managing teams and launching high-performance applications, I specialize in creating robust, scalable frontend architectures that drive efficiency and foster innovation across large-scale applications."
 
 x_username: vicenteopaso
 github_username: vicenteopaso
 linkedin_username: vicenteopaso
-stackoverflow_username: 5991576
-telegram_username: vicenteopaso
 
-logo: /assets/images/Official_square.jpeg
+logo: favicon.ico
+copyright: "&copy; 2024 Vicente Opaso. All rights reserved. Build with [markdown](https://daringfireball.net/projects/markdown) on [Jekyll](https://github.com/mmistakes/jekyll-theme-basically-basic), hosted on [GitHub Pages](https://pages.github.com)."
+
 search: false # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
