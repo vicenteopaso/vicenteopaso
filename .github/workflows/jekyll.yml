@@ -1,0 +1,28 @@
+name: Build and deploy Jekyll site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Set this to your default branch
+  pull_request:
+    branches:
+      - main # Set this to your default branch
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false # This is necessary for JamesIves/github-pages-deploy-action
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0 # Not strictly necessary, but ensures you use a specific Ruby version
+
+      - name: Build and deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: _site # The folder the action should deploy.
+          clean: true # Automatically remove deleted files from the deploy branch
