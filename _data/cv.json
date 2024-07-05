@@ -3,9 +3,32 @@
     "name": "Vicente Opaso",
     "label": "Innovative Frontend Technical Lead & Solutions Architect <br/> Expert in Design Systems & Frontend Development <br/> with 20+ Years of Experience.",
     "picture": "/assets/images/Official_square.jpeg",
-    "email": "vicente@opa.so",
-    "phone": "+34 684 005 262",
-    "website": "https://opa.so",
+    "removed": {
+      "email": "vicente@opa.so",
+      "phone": "+34 684 005 262",
+      "website": "https://opa.so",
+      "location": {
+        "city": "Benalmádena, Málaga",
+        "countryCode": "Spain"
+      },
+      "profiles": [
+        {
+          "network": "X | Twitter",
+          "username": "vicenteopaso",
+          "url": "https://x.com/vicenteopaso"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "vicenteopaso",
+          "url": "https://linkedin.com/in/vicenteopaso"
+        },
+        {
+          "network": "GitHub",
+          "username": "vicenteopaso",
+          "url": "https://github.com/vicenteopaso"
+        }
+      ]
+    },
     "summary": "Highly accomplished and driven Technical Lead and Solutions Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.",
     "highlights": [
       "Design System Architect",
@@ -13,27 +36,6 @@
       "Frontend Developer",
       "Community of Practice (CoP) Builder",
       "Agile Practitioner"
-    ],
-    "location": {
-      "city": "Benalmádena, Málaga",
-      "countryCode": "Spain"
-    },
-    "profiles": [
-      {
-        "network": "X | Twitter",
-        "username": "vicenteopaso",
-        "url": "https://x.com/vicenteopaso"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "vicenteopaso",
-        "url": "https://linkedin.com/in/vicenteopaso"
-      },
-      {
-        "network": "GitHub",
-        "username": "vicenteopaso",
-        "url": "https://github.com/vicenteopaso"
-      }
     ]
   },
   "work": [
