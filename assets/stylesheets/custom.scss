@@ -1,0 +1,258 @@
+.inner {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#contact .entry-content {
+    width: 34%;
+}
+
+#skills .keywords,
+#interests .keywords {
+    clear: both;
+    display: block;
+}
+
+#languages .fluency {
+    padding-bottom: 0.8em;
+}
+
+#work .entry-content,
+#references .entry-content {
+    width: auto;
+}
+
+#references .entry-content {
+    margin-top: 2em;
+}
+
+.intro-job-title {
+    color: $text-color;
+    font-weight: 400;
+}
+
+#masthead .inner {
+    .site-title {
+        padding-left: 0;
+    }
+}
+
+#sidebar {
+    overflow: scroll;
+    .inner {
+        min-height: 600px;
+        position: relative;
+        overflow: scroll;
+        .dark-mode-toggle {
+            position: absolute;
+            bottom: 2em;
+            right: 2em;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            color: $base-color;
+            font-size: 1.2em;
+            :hover {
+                color: $accent-color;
+            }
+        }
+    }
+}
+
+.layout--contact {
+    #contactWrapper {
+        display: flex;
+        flex-flow: row;
+        padding: 2em 0 4em 0;
+        .contactMethod {
+            flex: 1 1 auto;
+            padding: 0;
+            text-align: center;
+            margin: 0;
+            &:first-child {
+              border-right: 1px solid $border-color;
+            }
+            .title {
+                margin-bottom: 0;
+            }
+            a {
+                color: $text-color;
+                &:hover {
+                    color: $accent-color;
+                }
+            }
+        }
+      }
+      form {
+      input,
+      textarea {
+        color: $text-color;
+        background-color: darken($background-color, 3);
+        border-style: hidden;
+        border-width: 0;
+        border-radius: $border-radius;
+        transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+        font-weight: 300;
+        padding: 1em;
+        &:focus,
+        &:active {
+          outline: none;
+        }
+        &:hover {
+          text-decoration: none;
+          background-color: darken($background-color, 6);
+        }
+        &::placeholder {
+          color: transparentize($text-color, 0.4);
+        }
+        &:focus-visible {
+          outline: 0 hidden transparent;
+        }
+      }
+      input {
+        width: 48.25%;
+        margin: 0;
+        &:first-child {
+          margin: 0 3% 0 0;
+        }
+      }
+      textarea {
+        display: block;
+        width: 100%;
+        margin: 30px 0 30px 0;
+      }
+      button {
+        display: block;
+        margin: 0 0 0 auto;
+      }
+    }
+    #googleMap {
+      position: relative;
+      overflow: hidden;
+      height: 20em;
+      border-radius: $border-radius;
+      margin-top: 45px;
+    }
+}
+
+.layout--home {
+    .initial-content {
+        .intro {
+            margin-bottom: 0.8em;
+            padding-bottom: 0.8em;
+            .intro-title,
+            .intro-job-title {
+                margin-bottom: 0.1em;
+            }
+            .intro-subtitle {
+                margin-top: 1.6em;
+                margin-bottom: 1em;
+                color: $text-color;
+                font-weight: 200;
+            }
+        }
+        .page-content {
+            .entry-content > h4 {
+                font-weight: lighter;
+            }
+            ul {
+                h4 {
+                    margin-bottom: 0.1em;
+                }
+                margin-bottom: 2.1em;
+                li {
+                    margin-bottom: 0.1em;
+                }
+            }
+        }
+    }
+}
+
+.layout--cv {
+    .initial-content {
+        .intro {
+            .intro-job-title {
+                margin-top: 1.5em;
+                margin-bottom: 2em;
+            }
+        }
+        .page-content {
+            .entries {
+                > .summary {
+                    font-size: 1.1em;
+                    line-height: 1.6;
+                    font-weight: 400;
+                }
+                .entry-content {
+                    margin-top: 0;
+                    h3.name {
+                        margin-top: 2em;
+                        font-size: 1.25em;
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+@media (max-width: 48em) {
+    #masthead .inner {
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    .layout--contact {
+          #contactWrapper {
+            display: block;
+            padding: 0 0 3em 0;
+            .contactMethod {
+                width: 100%;
+                padding: 1em 0;
+                &:first-child {
+                  border: none;
+                }
+                .title {
+                    margin-bottom: 0;
+                }
+            }
+          }
+          input {
+            width: 100% !important;
+            &:first-child {
+              margin: 0 0 2em 0 !important;
+            }
+          }
+          button {
+            display: block;
+            margin: 0;
+            width: 100%;
+          }
+    }
+}
+
+@media (min-width: 48em) {
+    #masthead .inner {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+    .layout--contact {
+          input {
+            width: 48.22%;
+          }
+    }
+}
+
+
+@media (min-width: 64em) {
+    #masthead .inner {
+        padding-left: 3em;
+        padding-right: 3em;
+    }
+}
+
+@media (min-width: 80em) {
+    #masthead .inner {
+        padding-left: 4em;
+        padding-right: 4em;
+    }
+}

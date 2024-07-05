@@ -29,3 +29,7 @@
     {% endif %}
   </li>
 </ul>
+
+{% if site.data.theme.skin_dark %}
+    {% include icon-dark-mode.html username=site.dark-mode_username label='Dark Mode' %}
+{% endif %}
