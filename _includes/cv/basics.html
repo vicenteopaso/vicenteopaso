@@ -12,6 +12,7 @@
 </ul>
 {% endif %}
 
+{% if cv.email %}
 <div id="contact" class="entry">
   <header class="entry-header">
     <h3 class="entry-title">{{ site.data.theme.t.cv_summary_contact | default: 'Contact' }}</h3>
@@ -49,6 +50,7 @@
     {% endif %}
   </div>
 </div>
+{% endif %}
 
 {% if cv.basics.location %}
   <div id="location" class="entry">
