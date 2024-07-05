@@ -4,6 +4,38 @@
 
 <script async src="{{ '/assets/javascripts/main.js' | relative_url }}"></script>
 
+<script>
+  function dark_mode_btn_click() {
+    let node1 = document.getElementById('theme_source');
+    let node2 = document.getElementById('theme_source_dark');
+    let logo = document.getElementById('site-logo');
+    if(node1.getAttribute('rel')=='stylesheet'){
+      node2.setAttribute('rel', 'stylesheet');
+      setTimeout(function(){
+        node1.setAttribute('rel', 'stylesheet alternate');
+        logo.setAttribute('src', '{{ site.logo_dark | relative_url }}');
+      }, 10);
+      
+      sessionStorage.setItem('theme', 'dark');
+    }else{
+      node1.setAttribute('rel', 'stylesheet');
+      setTimeout(function(){
+        node2.setAttribute('rel', 'stylesheet alternate');
+        logo.setAttribute('src', '{{ site.logo | relative_url }}');
+      }, 10);
+      sessionStorage.setItem('theme', 'light');
+    }
+    return false;
+  }
+
+  let logo = document.getElementById('site-logo');
+  if(theme === "dark"){
+    logo.setAttribute('src', '{{ site.logo_dark | relative_url }}');
+  } else {
+    logo.setAttribute('src', '{{ site.logo | relative_url }}');
+  }
+</script>
+
 {% if site.search %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}

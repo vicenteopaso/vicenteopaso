@@ -4,43 +4,35 @@ layout: default
 
 {% include page-intro.html %}
 
-<div class="page-content">
-  <div class="inner">
-    <div class="entry">
-      <p>Please feel free to reach me, using the form below. Alternatively, you can contact me directly, as follows:</p>
-      <div id="contactWrapper">
-        <div class="contactMethod">
-          <p class="title">Email</p>
-          <a href="mailto://vicente@opa.so">vicente@opa.so</a>
-        </div>
-        <div class="contactMethod">
-          <p class="title">Phone number</p>
-          <a href="tel://+34684005262">+34 684 005 262</a>
-        </div>
-      </div>
-      {{ content }}
-      <form id="contact-form" action="https://formspree.io/f/mvolgybr" method="POST">
-          <input type="email" name="email" required placeholder="your@email.com" />
-          <input type="phone" name="phone" placeholder="Phone Number" />
-          <textarea name="message" required placeholder="Message" ></textarea>
-          <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
-          <button class="btn" id="my-form-button">Send</button>
-          <p id="my-form-status"></p>
-      </form>
-    </div>
-    <div id="googleMap"></div>
-  </div>
-</div>
-
-<!-- <main id="main" class="page-content" aria-label="Content">
+<main id="main" class="page-content" aria-label="Content">
   <div class="inner">
     <article class="entry-wrap">
       <div class="entry-content">
+        <p>{{ page.intro }}</p>
+        <div id="contactWrapper">
+          <div class="contactMethod">
+            <p class="title">Email</p>
+            <a href="mailto://vicente@opa.so">{{ page.email }}</a>
+          </div>
+          <div class="contactMethod">
+            <p class="title">Phone number</p>
+            <a href="tel://+34684005262">{{ page.phone }}</a>
+          </div>
+        </div>
         {{ content }}
+        <form id="contact-form" action="https://formspree.io/f/mvolgybr" method="POST">
+            <input type="email" name="email" required placeholder="your@email.com" />
+            <input type="phone" name="phone" placeholder="Phone Number" />
+            <textarea name="message" required placeholder="Message" ></textarea>
+            <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+            <button class="btn" id="my-form-button">Send</button>
+            <p id="my-form-status"></p>
+        </form>
+        <div id="googleMap"></div>
       </div>
     </article>
   </div>
-</main> -->
+</main>
 
 <script>
   function myMap() {

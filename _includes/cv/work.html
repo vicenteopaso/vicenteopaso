@@ -24,10 +24,12 @@
           {% endif %}
           {% if w.endDate == '' %}
             <span class="endDate">{{ site.data.theme.t.present | default: 'Present' | prepend: ' &mdash; ' }}</span>
-          {% else if w.startDate.length == '' %}
-            <span class="endDate">{{ w.endDate | prepend: '' }}</span>
           {% else %}
-            <span class="endDate">{{ w.endDate | prepend: ' &mdash; ' }}</span>
+            {% if w.startDate %}
+              <span class="endDate">{{ w.endDate | prepend: ' &mdash; ' }}</span>
+            {% else %}
+              <span class="endDate">{{ w.endDate | prepend: '' }}</span>
+            {% endif %}
           {% endif %}
         </div>
         {% if w.summary %}
