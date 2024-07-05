@@ -18,7 +18,7 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0 # Not strictly necessary, but ensures you use a specific Ruby version
+          ruby-version: 3.1 # Not strictly necessary, but ensures you use a specific Ruby version
 
       - name: Build and deploy
         uses: JamesIves/github-pages-deploy-action@v4
