@@ -53,6 +53,17 @@
     }
   </script>
 
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_ga4 }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics_ga4 }}');
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js?render=6LcIDdweAAAAADBzIQxefOW89FJVX1Ie3DcFhEEm"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
   {% if site.data.theme.google_fonts %}
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={% for font in site.data.theme.google_fonts %}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{% endfor %}">
   {% endif %}
