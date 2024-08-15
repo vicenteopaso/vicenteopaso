@@ -144,17 +144,48 @@
         .intro {
             margin-bottom: 0.8em;
             padding-bottom: 0.8em;
-            .intro-title,
-            .intro-job-title {
-                margin-bottom: 0.1em;
+            .about-image {
+                width: 250px;
+                height: 250px;
+                margin: 0 auto 0 0;
+                display: inline-block;
+                box-sizing: border-box;            
+                vertical-align: top;
+                img {
+                    object-fit: cover;
+                    border-radius: 50%;
+                    display: inline-block;
+                }
             }
+
             .intro-subtitle {
-                margin-top: 1.6em;
+                display: block;
+                clear: both;
+                margin-top: 1em;
                 margin-bottom: 1em;
                 color: $text-color;
                 font-weight: 200;
             }
+
+            .intro-text {
+                display: inline-block;
+                margin: 0 0 0 auto;
+                vertical-align: top;
+                width: calc(100% - 255px);
+                box-sizing: border-box;            
+                .intro-title {
+                    line-height: 0.8;
+                    margin-bottom: 0.4em;
+                    text-align: right;
+                }
+                .intro-job-title {
+                    margin-bottom: 0.1em;
+                    text-align: right;
+                }
+            
+            }
         }
+            
         .page-content {
             .entry-content > h4 {
                 font-weight: lighter;
@@ -197,7 +228,41 @@
             }
         }
     }
+}
 
+@media (max-width: 36em) {
+    .layout--home {
+        .initial-content {
+            .intro {
+                padding-top: 0;
+                margin-top: 0;
+                position: relative;
+                .about-image {
+                    width: 100%;
+                    height: auto;
+                    img {
+                        position: relative;
+                        object-fit:fill;
+                        border-radius: 0;
+                        padding-top: 8.5em;
+                    }
+                }
+    
+                .intro-text {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    .intro-title {
+                        text-align: left;
+                    }
+                    .intro-job-title {
+                        text-align: left;
+                    }
+                }
+            }
+        }
+    }
 }
 
 @media (max-width: 48em) {
