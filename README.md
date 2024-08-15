@@ -1,12 +1,8 @@
 ABOUT
 ------------------
-### Highly successful and driven technical professional with over 15-year history of managing projects and launching applications proven to grow businesses and increase outreach.
+### Highly qualified Frontend Architect and Tech Lead with over 20 years of experience producing high-performance applications.
 
-Highly skilled web and mobile developer with impressive track record demonstrating superior command of infrastructure, architecture, and design principles. Adept in combining affinity for creative expression with masterful frontend development skills in order to produce sophisticated interfaces that enhance end user experiences. Key asset in coordinating timely and successful deployments, launches, and updates paramount to achieving high user ratings and, in turn, maximizing company profit. Extensive experience creating simple, elegant user interfaces using JavaScript that engage users and bolster ratings, reviews, and client satisfaction. Phenomenal team builder supporting peers by offering expert knowledge and preemptively extending assistance, maintaining consistent communication, working remotely or in-house.
-
-- 20+ YEARS WORK HISTORY
-- 150+ PROJECTS
-- 30000+ CONTRACTING HOURS
+Highly accomplished and driven Technical Lead and Solutions Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.
 
 &nbsp;
 
@@ -15,15 +11,15 @@ WHAT I DO
 
 ### Frontend Development
 
-From HTML, CSS, and JavaScript, to Bootstrap, AngularJS, and React. And tools like NPM, Yarn, Webpack, and Gulp -- among other CLI, as well as Git, Subversion and others. Front-end has been the bulk of my programming experience. With an extensive track-record in many of its flavors and colors; as well as a profound knowledge  of UX, and UI Design and Technical Implementation.
+From HTML, CSS, and JavaScript, to Bootstrap, AngularJS, and React. Tools like NPM, Yarn, Webpack, and Gulp -- among other build tools, as well as tools such as Git, Subversion, etc. Front-end has been the bulk of my programming experience. With an extensive track-record in many of its flavors and colors; as well as a profound knowledge  of UX, and UI Design and Technical Implementation.
 
 ### Project Management
 
-From my work in Wireless Telecom, as a PM for Nokia on multi-million-dollar contracts, managing teams of 20+ people; to the last 6 years running Greygoo, our Development team, External Resources around the globe, and collaborating with clients, from Architecture Design to Maintenance; I've developed serious PM chops. With a deep understanding of Agile Methodologies, Scrum and Kanban.
+From my work in Wireless Telecom, as a PM for Nokia on multi-million-dollar contracts, managing teams of 20+ people; to the last 5 years at Carlsberg Group as Frontend Architect, and 8 years as a co-founder of Greygoo, running our Development team, External Resources around the globe, and collaborating with clients, from Architecture Design to Maintenance; I've developed serious PM chops. With a deep understanding of Agile Methodologies, Scrum and Kanban.
 
 ### JavaScript Development
 
-Over the last couple of years, I've found myself obsessed with JavaScript's simplicity, extensiveness and polymorphic nature. Learning about its Design Patterns, compilers like Babel, and staying on top of its evolution. Lately that has lead me on to a Vanilla JS quest, ES6, and TypeScript.
+Over the last decade or so, I've found myself obsessed with JavaScript's simplicity, extensiveness, and polymorphic nature. Learning about its Design Patterns, compilers like Babel, and staying on top of its evolution. Lately that has lead me on to a Vanilla JS quest, ES6, and TypeScript.
 
 ### Mobile Development
 
@@ -35,36 +31,28 @@ At Greygoo I got to get some real world, hand-on experience with a wide variety 
 
 - **Spanish**: Native speaker
 - **English**: Bilingual Proficiency (C2)
-- **Portuguese**: Work in progress
 
 &nbsp;
 
 ## TESTIMONIALS
 
-> I've hired Vicente to work on numerous high-profile web design,apps
-> and web marketing projects. He's been outstanding bothsolo and working
-> within a team. Very hard worker, solutions-oriented, extremely
-> detailed, personable. I recommend him 100%.
+> Working alongside Vicente on various projects over the past two years has been an absolute pleasure. As a Solutions Architect, he consistently shows dedication in delivering excellent solutions that meet our business needs while valuing the team's expertise every step of the way.
+> Besides his technical skills, Vicente is a team player who creates a positive and collaborative work environment. He consistently goes above and beyond to support colleagues and shares his expertise within our company's internal community.
+> I highly recommend Vicente for any project in need of a talented and dedicated Solutions Architect. He brings abundant expertise, professionalism, and enthusiasm to every project.
 > 
-> — ***David Albert, Upshot***
+> — ***Samuel Silva, Senior Frontend Engineer, Carlsberg Group***
 &nbsp;
 
 &nbsp;
-> I have worked with Vicente and was impressed with his expertise,
-> service and thoughtful questions. He does not rush to judgement but
-> instead makes sure we are all solving the right challenge for the
-> right target and at the right time. I highly recommend him as a person
-> with integrity who respects his collaborators and his clients.
+> Collaborating with Vicente Opaso, the Solutions Architect and Lead Developer for the Malty Design System at Carlsberg Group, was a testament to his extensive expertise and professionalism. Vicente brought a wealth of knowledge to our work on the Malty design system. His deep expertise and unwavering professionalism were evident throughout our collaboration. Vicente's collaborative approach and ability to align technical intricacies with design aspirations made a significant impact, ensuring the scalability and success of the project. His commitment to excellence and adeptness in fostering collaboration make him a valuable asset in delivering robust solutions.
 > 
-> — ***John Mack, Brandigm***
+> — ***Thiago Mota, User Experience Designer, Carlsberg Group***
 &nbsp;
 
 &nbsp;
-> I worked with Vicente on a time-sensitive, complicated project, where
-> he demonstrated his strength and capabilities as a quality-oriented
-> individual who works hard with great technical expertise on the
-> related subject. Vicente reported to me (as his customer) during this
-> project and I certainly recommend him for any project seeking a strong
-> customer-oriented technical lead.
+> It's with genuine pleasure that I share my admiration for Vicente, the incredibly talented Frontend Solutions Architect I had the chance to work with at Carlsberg. Working alongside him has been more than just a professional experience; it's been a journey of growth and camaraderie.
+> Vicente stands out for his technical prowess and his genuine commitment to building a tight-knit front-end community. Under his guidance, I've felt a sense of trust and support beyond the usual workplace dynamic. Vicente's efforts to create a collaborative environment have made our team feel like a family, fostering an atmosphere where everyone's contributions are valued.
+> As a Frontend Developer, I've greatly appreciated Vicente's approach to problem-solving and his emphasis on sharing knowledge. His mentorship has elevated my technical skills and made our workplace a positive and uplifting space.
+> I wholeheartedly recommend Vicente Opaso to anyone looking for more than just a leader – someone who values humanity and teamwork as much as technical excellence.
 > 
-> — ***Atessa Nejat, Nokia Networks***
+> — ***Bruno Torres, Senior Frontend Developer, Carlsberg Group***
