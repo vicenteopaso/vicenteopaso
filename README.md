@@ -1,29 +1,35 @@
-ABOUT
-------------------
 ### Highly qualified Frontend Architect and Tech Lead with over 20 years of experience producing high-performance applications.
 
-Highly accomplished and driven Technical Lead and Solutions Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.
+Highly accomplished and driven Technical Lead and Frontend Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.
 
 &nbsp;
 
-WHAT I DO
------------------
+## Core Competencies
 
-### Frontend Development
+- #### Frontend Architecture
+  Designing modular, maintainable frontend systems
+- #### Design System Architecture
+  Expertise in creating and maintaining enterprise-level design systems
+- #### Community of Practice Building
+  Establishing and nurturing collaborative developer ecosystems
+- #### Technical Leadership
+  Guiding teams to deliver high-quality, user-focused solutions
+- #### Agile Practitioner
+  Proficient in Scrum and Kanban methodologies
 
-From HTML, CSS, and JavaScript, to Bootstrap, AngularJS, and React. Tools like NPM, Yarn, Webpack, and Gulp -- among other build tools, as well as tools such as Git, Subversion, etc. Front-end has been the bulk of my programming experience. With an extensive track-record in many of its flavors and colors; as well as a profound knowledge  of UX, and UI Design and Technical Implementation.
+## Professional Highlights
 
-### Project Management
+- Architected Malty Design System, an open-source system for Carlsberg Group's global frontend needs
+- Led frontend development for e-commerce platforms generating over $1B in annual revenue
+- Established and grew the first Frontend Community of Practice at Carlsberg Group, significantly improving Developer Experience and code quality
+- Managed diverse, cross-functional teams across multiple time zones and cultures
 
-From my work in Wireless Telecom, as a PM for Nokia on multi-million-dollar contracts, managing teams of 20+ people; to the last 5 years at Carlsberg Group as Frontend Architect, and 8 years as a co-founder of Greygoo, running our Development team, External Resources around the globe, and collaborating with clients, from Architecture Design to Maintenance; I've developed serious PM chops. With a deep understanding of Agile Methodologies, Scrum and Kanban.
+## Key Achievements
 
-### JavaScript Development
-
-Over the last decade or so, I've found myself obsessed with JavaScript's simplicity, extensiveness, and polymorphic nature. Learning about its Design Patterns, compilers like Babel, and staying on top of its evolution. Lately that has lead me on to a Vanilla JS quest, ES6, and TypeScript.
-
-### Mobile Development
-
-At Greygoo I got to get some real world, hand-on experience with a wide variety of platforms, like React Native, Ionic, AppGyver, and PhoneGap. Additionally, I got to Manage the Development of numerous Native apps, in both Objectve-C, and Java -- for iOS and Android.
+- Developed TypeScript React applications with AWS backend and automated CI/CD pipelines using GitHub Actions
+- Implemented modern React development practices, including monorepo component libraries
+- Led the successful migration of legacy systems to modern frontend architectures, improving performance and maintainability
+- Built strong business alliances with high-profile agencies and organizations, delivering innovative technical solutions across various industries
 
 &nbsp;
 
@@ -56,3 +62,15 @@ At Greygoo I got to get some real world, hand-on experience with a wide variety 
 > I wholeheartedly recommend Vicente Opaso to anyone looking for more than just a leader – someone who values humanity and teamwork as much as technical excellence.
 > 
 > — ***Bruno Torres, Senior Frontend Developer, Carlsberg Group***
+&nbsp;
+
+&nbsp;
+## Looking Forward
+
+As the frontend landscape continues to evolve, I'm always excited to discuss new challenges and innovations in building scalable frontend architectures and empowering development teams. My experience with large-scale systems, design systems, and team leadership positions me well to contribute to ambitious projects that push the boundaries of what's possible in frontend development.
+
+## Let's Connect
+
+I'm passionate about sharing insights and exploring how modern frontend practices can drive business value. Whether you're curious about implementing modular architectures, building developer communities, or enhancing your team's technical capabilities, I'd be delighted to exchange ideas.
+If you're interested in discussing frontend architecture, team leadership, or the future of web development, feel free to reach out. I'm always open to connecting with like-minded professionals and exploring how we might collaborate to shape the future of frontend development.
+
