@@ -17,6 +17,8 @@ Highly accomplished and driven Technical Lead and Frontend Architect with over 2
 - #### Agile Practitioner
   Proficient in Scrum and Kanban methodologies
 
+&nbsp;
+
 ## Professional Highlights
 
 - Architected Malty Design System, an open-source system for Carlsberg Group's global frontend needs
@@ -24,12 +26,20 @@ Highly accomplished and driven Technical Lead and Frontend Architect with over 2
 - Established and grew the first Frontend Community of Practice at Carlsberg Group, significantly improving Developer Experience and code quality
 - Managed diverse, cross-functional teams across multiple time zones and cultures
 
+&nbsp;
+
 ## Key Achievements
 
 - Developed TypeScript React applications with AWS backend and automated CI/CD pipelines using GitHub Actions
 - Implemented modern React development practices, including monorepo component libraries
 - Led the successful migration of legacy systems to modern frontend architectures, improving performance and maintainability
 - Built strong business alliances with high-profile agencies and organizations, delivering innovative technical solutions across various industries
+
+&nbsp;
+
+## Looking Forward
+
+As the frontend landscape continues to evolve, I'm always excited to discuss new challenges and innovations in building scalable frontend architectures and empowering development teams. My experience with large-scale systems, design systems, and team leadership positions me well to contribute to ambitious projects that push the boundaries of what's possible in frontend development.
 
 &nbsp;
 
@@ -62,12 +72,8 @@ Highly accomplished and driven Technical Lead and Frontend Architect with over 2
 > I wholeheartedly recommend Vicente Opaso to anyone looking for more than just a leader – someone who values humanity and teamwork as much as technical excellence.
 > 
 > — ***Bruno Torres, Senior Frontend Developer, Carlsberg Group***
-&nbsp;
 
 &nbsp;
-## Looking Forward
-
-As the frontend landscape continues to evolve, I'm always excited to discuss new challenges and innovations in building scalable frontend architectures and empowering development teams. My experience with large-scale systems, design systems, and team leadership positions me well to contribute to ambitious projects that push the boundaries of what's possible in frontend development.
 
 ## Let's Connect
 
