@@ -22,30 +22,12 @@ layout: home
 - Established and grew the first Frontend Community of Practice at Carlsberg Group, significantly improving Developer Experience and code quality
 - Managed diverse, cross-functional teams across multiple time zones and cultures
 
-## Approach
-
-I focus on creating scalable frontend architectures that empower developers and enhance product quality. My expertise lies in:
-
-- Implementing robust development practices and standards
-- Fostering a culture of continuous learning and innovation
-- Bridging the gap between design vision and technical implementation
-- Optimizing frontend performance and user experience
-
 ## Key Achievements
 
 - Developed TypeScript React applications with AWS backend and automated CI/CD pipelines using GitHub Actions
 - Implemented modern React development practices, including monorepo component libraries
 - Led the successful migration of legacy systems to modern frontend architectures, improving performance and maintainability
 - Built strong business alliances with high-profile agencies and organizations, delivering innovative technical solutions across various industries
-
-## Leadership Philosophy
-
-My leadership style emphasizes:
-
-- Mentorship and skill development
-- Collaborative problem-solving
-- Clear communication of technical concepts to diverse stakeholders
-- Adapting Agile methodologies to team and project needs
 
 ## Looking Forward
 
