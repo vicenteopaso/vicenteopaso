@@ -1,15 +1,15 @@
-__Highly accomplished and driven Technical Lead and Frontend Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.__
+__Senior Technical Lead and Frontend Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced client-side and server-side development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.__
 
 &nbsp;
 
 ## Core Competencies
 
 - #### Frontend Architecture
-  Designing modular, maintainable frontend systems
+  Designing modular UI & UX that minimizes friction, and increases engagement
 - #### Design System Architecture
   Expertise in creating and maintaining enterprise-level design systems
 - #### Community of Practice Building
-  Establishing and nurturing collaborative developer ecosystems
+  Establishing and nurturing an improved developer experience through community
 - #### Technical Leadership
   Guiding teams to deliver high-quality, user-focused solutions
 - #### Agile Practitioner
