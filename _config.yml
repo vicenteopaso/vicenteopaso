@@ -15,18 +15,22 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Vicente Opaso
-email: vicente@opa.so
+# email: vicente@opa.so
 description: Senior Frontend Engineer
 
 baseurl: "/" # the optional subpath of your site, e.g. "/blog"
-url: "https://vicenteopaso.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://opa.so" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "Vicente Opaso"
-  x: vicenteopaso
+  # x: vicenteopaso
   tagline: "Innovative Software Architect & <br/>Design System Expert"
   bio: "With over 20 years of experience in managing teams and launching high-performance applications, I specialize in creating robust, scalable frontend architectures that drive efficiency and foster innovation across large-scale applications."
+  cvLink: "/cv/"
+  cvLinkCopy: "Read CV"
+  cvDownloadLink: "/assets/vicente_opaso_cv.pdf"
+  cvDownloadLinkCopy: "Download CV"
 
-x_username: vicenteopaso
+# x_username: vicenteopaso
 github_username: vicenteopaso
 linkedin_username: vicenteopaso
 
