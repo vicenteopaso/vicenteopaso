@@ -1,5 +1,5 @@
 ---
-title: CV | Résumé
+title: Curriculum Vitae
 layout: cv
 permalink: /cv/
 actions:

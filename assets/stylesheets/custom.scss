@@ -182,6 +182,12 @@
                     margin-bottom: 0.1em;
                     text-align: right;
                 }
+                .links {
+                    text-align: right;
+                    display: inline-block;
+                    width: 100%;
+                    margin: 1em 0;
+                }
             
             }
         }
@@ -230,6 +236,19 @@
     }
 }
 
+/*
+h1,
+h3.entry-title,
+h3.name {
+        color: $primary-color !important;
+}
+
+h2, h3, h4, h5, h6,
+blockquote {
+    color: $secondary-color !important;
+ }
+*/
+
 @media (max-width: 24em) {
     .layout--contact {
         #contactWrapper {
@@ -265,7 +284,7 @@
                         position: relative;
                         object-fit:fill;
                         border-radius: 0.3em;
-                        margin-top: 8.5em;
+                        margin-top: 10em;
                         width: 20em;
                     }
                 }
@@ -280,6 +299,10 @@
                     }
                     .intro-job-title {
                         text-align: center;
+                    }
+                    .links {
+                        text-align: center;
+                        margin: 0.5em 0;
                     }
                 }
             }
