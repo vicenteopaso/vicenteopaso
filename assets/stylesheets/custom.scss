@@ -57,7 +57,7 @@
             color: $base-color;
             font-size: 1.2em;
             :hover {
-                color: $accent-color;
+                color: $navigation-hover-color;
             }
         }
     }
@@ -236,18 +236,23 @@
     }
 }
 
-/*
 h1,
-h3.entry-title,
 h3.name {
-        color: $primary-color !important;
+    color: $primary-color !important;
 }
 
-h2, h3, h4, h5, h6,
-blockquote {
-    color: $secondary-color !important;
- }
-*/
+h3.entry-title,
+h2#core-competencies,
+h2#professional-highlights,
+h2#key-achievements,
+h2#references {
+    color: $accent-color !important;
+}
+
+// h2, h3, h4, h5, h6,
+// blockquote {
+//     color: $secondary-color !important;
+// }
 
 @media (max-width: 24em) {
     .layout--contact {

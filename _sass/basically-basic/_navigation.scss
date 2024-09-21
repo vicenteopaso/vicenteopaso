@@ -60,7 +60,7 @@
     text-decoration: none;
 
     &:hover {
-      background-color: tint($accent-color, 20%);
+      background-color: $navigation-hover-color !important;
     }
   }
 }

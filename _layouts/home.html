@@ -20,7 +20,7 @@ layout: default
     <div>{{ content }}</div>
 
     {% if cv.references %}
-    <h2>References</h2>
+    <h2 id="references">References</h2>
     <div id="swiffy-slider-wrapper" class="swiffy-slider slider-item-nogap slider-nav-sm slider-nav-outside slider-nav-autoplay slider-nav-autopause slider-indicators-outside" data-slider-nav-autoplay-interval="10000">
       <ul class="slider-container">
         {% for r in cv.references %}

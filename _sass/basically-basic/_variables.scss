@@ -49,17 +49,20 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
   monospace !default;
 
 /* Colors */
+/* Original colors
 $base-color: #393e46 !default;
 $text-color: #333333 !default;
 $accent-color: #00838a !default;
-/* theming mods
-$base-color: #4a9d9c !default;
-$text-color: #4a9d9c !default;
-$accent-color: #FF3D3D !default;
-$primary-color: #0D6E6E !default;
-$secondary-color: $text-color !default;
-*/
 $background-color: #fff !default;
+*/
+
+$base-color: #05070a !default;
+$text-color: #05070a !default;
+$accent-color: #e74c3c !default;
+$primary-color: #2c3e50 !default;
+$background-color: #fbfbfc !default;
+$navigation-hover-color: $accent-color !default;
+
 $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;
 $overlay-color: $base-color !default;
