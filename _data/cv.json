@@ -74,21 +74,6 @@
       ]
     },
     {
-      "position": "Lead Developer and Architect for Malty Design System",
-      "summary": "As the Lead Developer for Malty Design System, I oversaw the development and maintenance of our internal design system using inner sourcing as our collaboration model.<br/>Initially, the product required significant collaboration between our design and development teams to translate designs into developable components. And later, documenting a design system has proven to be a full-time job, requiring deep collaboration between design and development, as well as the business.<br/>While most products were already in place, I am currently leading efforts to increase the penetration of Malty into our products. Through my work, Malty has become a core component of our digital ecosystem, providing a consistent and intuitive user experience across our products.",
-      "startDate": "2021-01",
-      "endDate": ""
-    },
-    {
-      "summary": "Selected achievements:",
-      "highlights": [
-        "Architected and developed Malty Design System, implementing inner sourcing collaboration model",
-        "Successfully established Malty as a core component of the organization's digital ecosystem",
-        "Helped document design system, requiring deep collaboration between design, development, and business",
-        "Spearheading efforts to increase Malty's penetration into existing products for consistent user experience."
-      ]
-    },
-    {
       "position": "Solutions Architect for Digital Marketing and Consumer Tech",
       "summary": "As a Solutions Architect focusing on Digital Marketing and Consumer Technology at Carlsberg Group, lead the architecture and implementation of innovative solutions that enhance customer engagement and drive global business growth. My work involves collaborating closely with cross-functional teams to create scalable and secure digital platforms, ensuring that our strategies are both data-driven and aligned with business objectives.<br/>Successfully led projects such as the development of Cookie Consent, Age Gateway, and Global Policies for global deployment. My expertise in frontend technologies like TypeScript React, and Headless CMS' like Umbraco enables me to deliver seamless user experiences while upholding the highest standards in security and compliance.",
       "startDate": "2022-12",
@@ -101,6 +86,21 @@
         "Led the development of analytics frameworks for data-driven decision-making.",
         "Collaborated with marketing, data, and engineering teams to align technology with business goals.",
         "Ensured security and compliance in digital marketing initiatives across multiple markets."
+      ]
+    },
+    {
+      "position": "Lead Developer and Architect for Malty Design System",
+      "summary": "As the Lead Developer for Malty Design System, I oversaw the development and maintenance of our internal design system using inner sourcing as our collaboration model.<br/>Initially, the product required significant collaboration between our design and development teams to translate designs into developable components. And later, documenting a design system has proven to be a full-time job, requiring deep collaboration between design and development, as well as the business.<br/>While most products were already in place, I am currently leading efforts to increase the penetration of Malty into our products. Through my work, Malty has become a core component of our digital ecosystem, providing a consistent and intuitive user experience across our products.",
+      "startDate": "2021-01",
+      "endDate": ""
+    },
+    {
+      "summary": "Selected achievements:",
+      "highlights": [
+        "Architected and developed Malty Design System, implementing inner sourcing collaboration model",
+        "Successfully established Malty as a core component of the organization's digital ecosystem",
+        "Helped document design system, requiring deep collaboration between design, development, and business",
+        "Spearheading efforts to increase Malty's penetration into existing products for consistent user experience."
       ]
     },
     {
