@@ -1,4 +1,4 @@
-__Highly driven Technical Lead and Solutions Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.__
+__Highly driven Technical Lead and Frontend Solutions Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.__
 
 &nbsp;
 
