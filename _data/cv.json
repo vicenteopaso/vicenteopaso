@@ -39,13 +39,44 @@
   },
   "work": [
     {
+      "company": "Eurocontrol"
+    },
+    {
+      "position": "Technical Application Owner for User Domain",
+      "summary": "As Technical Application Owner for the User Domain within EUROCONTROL’s Digital Product teams, I lead the technical governance, compliance, and system strategy for key operational frameworks supporting the Network Manager Operations Centre (NMOC).",
+      "startDate": "2025-02",
+      "endDate": "",
+      "highlights": [
+        "Own and maintain the Formal Thread of documentation, ensuring compliance with safety, regulatory, and engineering standards across system components.",
+        "Provide technical leadership for the NMUI, our microfrontend-based framework enabling multitasking and seamless interoperability between mission-critical applications.",
+        "Guide the vision and implementation of the Eurocontrol Design System (EDS), supporting consistent and accessible UI/UX patterns across the User Domain.",
+        "Currently on secondment to lead Developer Experience (DX) improvements across the entire delivery train — focusing on CI/CD modernization, automation, onboarding flows, and access management to streamline day-to-day engineering workflows.",
+        "Act as a key technical liaison between product, compliance, and engineering stakeholders to ensure architectural alignment and operational readiness.",
+        "Leveraging technical background to take on new challenges in aviation systems governance, rapidly building expertise in operational frameworks while bringing fresh perspectives from outside the industry.",
+        "Established improved documentation workflows and built the foundation for enhanced developer experiences across teams.",
+        "Combining transferable skills in technical coordination, documentation, and stakeholder management with system ownership responsibilities to drive scalable, compliant, and developer-friendly digital solutions across EUROCONTROL’s aviation tech ecosystem."
+      ],
+      "skills": [
+        "Software Architecture",
+        "Documentation",
+        "Design Systems",
+        "Technical Architecture",
+        "Solution Architecture",
+        "Information Architecture",
+        "Engineering Leadership",
+        "Team Leadership",
+        "Agile Leadership",
+        "Front End Engineering Design (FEED)"
+      ]
+    },
+    {
       "company": "Carlsberg Group"
     },
     {
       "position": "Frontend Solutions Architect",
       "summary": "Frontend Solutions Architect with over 12 years of experience leading the design, development, and implementation of technology solutions that drive business growth. Proven track record of delivering complex projects on time and within budget.",
       "startDate": "2022-12",
-      "endDate": "",
+      "endDate": "2024-12",
       "highlights": [
         "Strong technical expertise in various technologies, including cloud computing, microservices, and DevOps practices",
         "Excellent communication and collaboration skills with both technical and non-technical stakeholders, ensuring successful project delivery and alignment with business goals",
