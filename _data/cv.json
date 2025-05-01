@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Vicente Opaso",
-    "label": "Innovative Frontend Technical Lead & Solutions Architect <br/> Expert in Design Systems & Frontend Development <br/> with 20+ Years of Experience.",
+    "label": "Technical Application Owner & Frontend Architect<br/>Expert in Design Systems, Scalable Architecture & Developer Experience<br/>25+ Years Delivering High-Impact Digital Platforms",
     "removed": {
       "email": "vicente@opa.so",
       "phone": "+34 684 005 262",
@@ -28,24 +28,28 @@
         }
       ]
     },
-    "summary": "Highly driven Technical Lead and Solutions Architect with over 20 years of experience in managing teams and launching high-performance applications. Adept at combining creative expression with advanced frontend development skills to produce sophisticated interfaces that enhance user experiences. Proven track record of significantly advancing developer experience, codebase reliability and quality, and successful deployments leading to polished user experiences that increase engagement and company profits.",
+    "summary": "I’m a Senior Frontend Architect and Technical Lead with over 25 years of experience designing scalable digital platforms and leading high-impact engineering teams. Currently, I hold the role of Technical Application Owner at Eurocontrol, where I’m focused on modernizing aviation systems through user-centered design and robust architecture.<br/><br/>Prior to this, I spent over five years at Carlsberg Group, where I led the development of global B2B platforms with over €1B in annual turnover, architected the Malty Design System, and helped establish a thriving Community of Practice to drive innovation and knowledge sharing across the organization. I’ve also co-founded and scaled a digital agency, GreyGoo, delivering solutions for clients like GM and the NCAA.<br/><br/>I specialize in Frontend Architecture, Design Systems, Developer Experience (DX), and building communities that scale both code and culture.",
     "highlights": [
-      "Design System Architect",
-      "Solutions Architect",
-      "Frontend Developer",
-      "Community of Practice (CoP) Builder",
-      "Agile Practitioner"
+      "<b>Technical Application Owner at Eurocontrol</b><br/>Leading the frontend modernization of critical aviation systems with a focus on governance, maintainability, and performance<br/><br/>",
+      "<b>Design System Architect for EDS (Eurocontrol Design System) and Malty</b><br/>Driving consistency, accessibility, and scalability across platforms<br/><br/>",
+      "<b>Solutions Architect</b><br/>For enterprise-grade B2B platforms, supporting €1B+ annual turnover at Carlsberg Group<br/><br/>",
+      "<b>Community of Practice (CoP) Builder</b><br/>Founding and leading CoPs to align engineering practices across global teams<br/><br/>",
+      "<b>Agile Practitioner</b><br/>Experienced in leading cross-functional squads through continuous delivery and iterative improvement<br/><br/>",
+      "<b>Digital Agency Co-founder</b><br/>Delivering full-stack web and mobile solutions for Fortune 500 and public sector clients<br/>"
     ]
   },
   "work": [
     {
-      "company": "Eurocontrol"
+      "company": "Eurocontrol | Brussels, Belgium. (Onsite)"
     },
     {
       "position": "Technical Application Owner for User Domain",
       "summary": "As Technical Application Owner for the User Domain within EUROCONTROL’s Digital Product teams, I lead the technical governance, compliance, and system strategy for key operational frameworks supporting the Network Manager Operations Centre (NMOC).",
       "startDate": "2025-02",
-      "endDate": "",
+      "endDate": ""
+    },
+    {
+      "summary": "Key Highlights:",
       "highlights": [
         "Own and maintain the Formal Thread of documentation, ensuring compliance with safety, regulatory, and engineering standards across system components.",
         "Provide technical leadership for the NMUI, our microfrontend-based framework enabling multitasking and seamless interoperability between mission-critical applications.",
@@ -70,7 +74,7 @@
       ]
     },
     {
-      "company": "Carlsberg Group"
+      "company": "Carlsberg Group | Lisbon, Portugal (Hybrid)"
     },
     {
       "position": "Frontend Solutions Architect",
@@ -163,7 +167,7 @@
       ]
     },
     {
-      "company": "Greygoo",
+      "company": "Greygoo | Chicago, Illinois (Onsite)",
       "summary": "In 2012, I brought an idea to life. I co-founded an organization called Greygoo, through which I helped some of the most renowned, high-performance organizations transform their businesses using web and mobile applications designed and developed by our tight-knit multi-disciplinary team, in addition to a number of external resources. We built alliances with premiere agencies across the medical, transportation, food and beverage, and numerous additional industries in order to deliver high-tech solutions that improved engagement and expanded outreach through our high-impact web development and business strategy skills. I directed all phases of each project lifecycle, from conception to deployment.",
       "position": "Co-founder and Principal",
       "startDate": "2012-03",
@@ -179,7 +183,7 @@
       ]
     },
     {
-      "company": "Opaso LLC — Self-employed",
+      "company": "Opaso LLC — Self-employed | Chicago, Illinois (Remote)",
       "summary": "Beginning late 2018 and contracted by Prizm Tech Group, I took a deep dive into the world Angular, working on a custom-built white-label Home Healthcare Management solution. As a Lead and Frontend Developer, I lead a distributed team from UX design, Database Schema and UI Implementation to deliverables. Leading all technical aspects of the project, I managed the day-to-day client relations, as well as Development Team goals, tasks and deliverables.",
       "position": "Senior Frontend Developer",
       "startDate": "2018-12",
@@ -195,7 +199,7 @@
       ]
     },
     {
-      "company": "CRO Metrics",
+      "company": "CRO Metrics | Chicago, Illinois (Remote)",
       "summary": "I was contracted by the engineering team at Cro Metrics to create, evaluate, and test various models for their clients. In doing this, I collaborated with team members from different departments and projects to ensure successful delivery. Serving on a decentralized team has its challenges, but using my effective interpersonal skills alongside my natural affinity for team building, I was able to maintain consistent communication with project managers and deliver phenomenal results for all of the projects to which I had the pleasure of contributing.",
       "position": "A/B Testing Developer",
       "startDate": "2018-06",
@@ -209,7 +213,7 @@
       ]
     },
     {
-      "company": "Upshot",
+      "company": "Upshot | Chicago, Illinois (Onsite)",
       "summary": "When Upshot, a fast-paced marketing agency, contacted me to help coordinate their high-priority digital development projects, I dove right in. I developed the frontend for a range of technical projects, and regardless of the scope or difficulty, I delivered results with impeccable timing and quality.",
       "position": "Freelance Web Developer",
       "startDate": "2011-04",
@@ -227,7 +231,7 @@
       ]
     },
     {
-      "company": "Nokia Networks",
+      "company": "Nokia Networks | United States (Traveling)",
       "summary": "For ten fruitful years, I managed telecommunications projects for one of the largest organizations in the industry. In doing so, I directed small engineering teams and third-party vendors to accomplish timely, successful roll-outs, and I built strong business relationships with our long list of high-profile clients.",
       "position": "Contracting Engineer",
       "startDate": "2001-10",
