@@ -1,4 +1,6 @@
-__I am a Frontend Solutions Architect and Technical Leader with over 25 years of experience shaping high-performance, scalable digital products. I specialize in frontend architecture, design systems, and developer experience, with a strong track record of turning complexity into clarity—whether leading enterprise-scale solutions, founding Communities of Practice, or integrating UX, development, and strategy. My work focuses on creating sustainable frameworks for innovation at scale.__
+__I’m a Web Engineering Manager, Frontend Architect, and Technical Leader with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern web architecture, design systems, and developer experience—and I thrive at the intersection of engineering execution and strategic impact.
+> Currently at Nexthink, I lead the team behind nexthink.com, shaping our composable web platform to support brand, marketing, and product strategy. Throughout my career, I’ve delivered enterprise-grade systems across industries—from mission-critical aviation tools to global e-commerce platforms—always with a focus on performance, accessibility, and long-term maintainability.
+> Whether architecting design systems, scaling engineering teams, or leading Communities of Practice, I bring a structured approach to solving complex problems—and a strong belief in engineering culture as a driver of business success.__
 
 &nbsp;
 
