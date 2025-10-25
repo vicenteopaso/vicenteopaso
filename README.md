@@ -1,12 +1,12 @@
-__I am a Frontend Solutions Architect and Technical Leader with over 25 years of experience shaping high-performance, scalable digital products. I specialize in frontend architecture, design systems, and developer experience, with a strong track record of turning complexity into clarity — whether leading enterprise-scale solutions, founding Communities of Practice, or integrating UX, development, and strategy. My work focuses on creating sustainable frameworks for innovation at scale.__
+__I am a Frontend Solutions Architect and Technical Leader with over 25 years of experience shaping high-performance, scalable digital products. I specialize in frontend architecture, design systems, and developer experience, with a strong track record of turning complexity into clarity—whether leading enterprise-scale solutions, founding Communities of Practice, or integrating UX, development, and strategy. My work focuses on creating sustainable frameworks for innovation at scale.__
 
 &nbsp;
 
 ## Core Competencies
 
-- <b>Frontend Architecture & Design Systems</b><br/>
-Building scalable UI architectures and enterprise-grade design systems like Malty.
-  
+- <b>Frontend Architecture & Composable Web Platforms</b><br/>
+Building scalable UI architectures and modern digital platforms, including corporate web ecosystems.
+
 - <b>Developer Experience & CI/CD Optimization</b><br/>
 Driving productivity through automated pipelines, tooling, and code quality improvements.
 
@@ -16,37 +16,47 @@ Creating collaborative engineering cultures through CoPs, task forces, and gover
 - <b>Cross-functional Product Delivery</b><br/>
 Leading agile teams across design, development, and business to deliver global platforms.
 
+
 &nbsp;
 
 ## Professional Highlights
 
+- <b>Nexthink | Manager of Web Engineering</b><br/>
+Currently leading the team behind [nexthink.com](https://nexthink.com), Nexthink’s primary digital platform for brand, marketing, and product strategy. Responsible for team leadership, architecture, and delivery of a composable site built with Next.js, GraphQL, Tailwind CSS, and Hygraph CMS. Driving cross-functional collaboration and continuous improvement across UX, dev, and marketing.
+
+- <b>EUROCONTROL | Technical Application Owner</b><br/>
+Owned system governance and frontend architecture for mission-critical aviation systems. Delivered compliance workflows and microfrontend frameworks for the NMOC, streamlining operations and reducing risk.
+
 - <b>Carlsberg Group | Frontend Solutions Architect</b><br/>
-Currently leading architecture for customer acquisition platforms and B2B e-commerce products across global markets with €1B+ in annual revenue. Oversaw implementation of Cookie Consent, Age Gateway, and global compliance frameworks.
+Led architecture for customer acquisition platforms and B2B products across global markets. Oversaw global compliance tooling (Cookie Consent, Age Gateways), and championed scalable DX practices.
 
 - <b>Malty Design System | Architect & Lead Developer</b><br/>
-Designed and scaled Malty, Carlsberg’s open-source, monorepo, React-based design system. Spearheaded its adoption across internal and external digital products using an inner-sourcing collaboration model. Led documentation, governance, and strategy to ensure long-term scalability and consistency.
+Designed and scaled Carlsberg’s open-source React-based design system. Introduced contribution governance and accessibility practices to support long-term reuse and consistency.
 
 - <b>Community of Practice Leadership</b><br/>
-Founded Carlsberg’s first Frontend Engineering CoP. Integrated task forces and steering groups (like the Software Engineering Leadership Team and Beacon Council) to align grassroots innovation with strategic business goals. Authored two widely read LinkedIn articles on the impact of CoPs in tech organizations.
+Founded Carlsberg’s first Frontend Engineering CoP. Launched steering groups to connect grassroots innovation with strategic goals. Published articles on CoP-driven innovation and design systems.
 
 - <b>Greygoo Media | Co-Founder & Principal</b><br/>
-Ran a multidisciplinary digital studio delivering full-cycle web and mobile solutions for clients including GM, Paulson Institute, and GO GROUND (NCAA). Focused on Angular, React, Ionic, and strategic delivery models across diverse verticals.
+Ran a multidisciplinary digital studio delivering web/mobile solutions for clients like GM, Paulson Institute, and NCAA partners using Angular, React, and Ionic.
 
 &nbsp;
 
 ## Key Achievements
 
-- <b>Enterprise-Scale Delivery</b><br/>
-Delivered and maintained two B2B platforms with €1B+ revenue/year. Improved release cycles and code quality through CI/CD automation and GHAS integrations.
+- <b>Enterprise Web Delivery</b><br/>
+Led teams delivering two B2B platforms with €1B+ annual turnover. Architected scalable systems with CI/CD and GitHub Actions.
+
+- <b>Composable Platform Leadership</b><br/>
+Own the strategy and execution for Nexthink’s web platform, ensuring its alignment with brand, performance, and growth objectives.
 
 - <b>Design System Innovation</b><br/>
-Architected and led Malty Design System—now foundational to Carlsberg’s frontend ecosystem. Documented and scaled the system across markets and disciplines.
+Architected the Malty Design System—foundational to Carlsberg’s frontend ecosystem. Delivered comprehensive documentation and governance.
 
 - <b>Developer Experience Transformation</b><br/>
-Simplified development pipelines, introduced feature toggles, automated quality assurance, and led knowledge-sharing initiatives that improved team productivity, engagement, and morale.
+Modernized DX across organizations by introducing automation, feature toggles, and documentation workflows.
 
 - <b>Cross-Functional Governance</b><br/>
-Enabled ground-up decision-making via CoPs, task forces, and steering groups — ensuring alignment between technical execution and business priorities.
+Enabled ground-up innovation through CoPs and task forces—connecting engineering culture with product execution.
 
 &nbsp;
 
@@ -59,6 +69,14 @@ Enabled ground-up decision-making via CoPs, task forces, and steering groups —
 
 ## TESTIMONIALS
 
+>I had the chance to work closely with Vicente Opaso during my time leading the USER Domain at EUROCONTROL. Vicente played a key role in shaping the technical direction of both the NMUI framework and the Eurocontrol Design System (EDS), two major initiatives that supported our operational platforms.
+>He approached his responsibilities with clarity and consistency - whether it was aligning architectural work with regulatory requirements or improving developer workflows across teams. I particularly appreciated Vicente's ability to foster cross-functional collaboration, which made him a reliable contributor.
+>His work had a noticeable impact on the stability and scalability of our systems, and I appreciated his pragmatic, steady approach to solving technical challenges.
+> 
+> — ***[Razvan Margauan](https://www.linkedin.com/in/razvan-mihai-margauan/) | iNM Senior Program Director @ [Eurocontrol](https://eurocontrol.int)***
+&nbsp;
+
+&nbsp;
 > It has been a privilege to have Vicente as part of my Leadership Team at Carlsberg Group. As our Frontend Solutions Architect, Vicente played a critical role in shaping our frontend strategy, notably through the development of the Malty Design System, which has transformed how we approach global frontend solutions.
 > His technical expertise in JavaScript, TypeScript, React, and Frontend technologies, combined with his leadership in establishing a Community of Practice, has greatly improved the developer experience and code quality across the organization. Vicente's contributions were instrumental in driving our e-commerce growth to over €1 billion annually.
 > I highly recommend Vicente for his leadership, creativity, and exceptional technical skills. He would be a tremendous asset to any team.
