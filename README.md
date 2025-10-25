@@ -1,6 +1,10 @@
-__I’m a Web Engineering Manager, Frontend Architect, and Technical Leader with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern web architecture, design systems, and developer experience—and I thrive at the intersection of engineering execution and strategic impact.
-> Currently at Nexthink, I lead the team behind nexthink.com, shaping our composable web platform to support brand, marketing, and product strategy. Throughout my career, I’ve delivered enterprise-grade systems across industries—from mission-critical aviation tools to global e-commerce platforms—always with a focus on performance, accessibility, and long-term maintainability.
-> Whether architecting design systems, scaling engineering teams, or leading Communities of Practice, I bring a structured approach to solving complex problems—and a strong belief in engineering culture as a driver of business success.__
+<b>I’m a Web Engineering Manager, Frontend Architect, and Technical Leader with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern web architecture, design systems, and developer experience—and I thrive at the intersection of engineering execution and strategic impact.<b/>
+<br/>
+<br/>
+<b>Currently at Nexthink, I lead the team behind nexthink.com, shaping our composable web platform to support brand, marketing, and product strategy. Throughout my career, I’ve delivered enterprise-grade systems across industries—from mission-critical aviation tools to global e-commerce platforms—always with a focus on performance, accessibility, and long-term maintainability.<b/>
+<br/>
+<br/>
+<b>Whether architecting design systems, scaling engineering teams, or leading Communities of Practice, I bring a structured approach to solving complex problems—and a strong belief in engineering culture as a driver of business success.<b/>
 
 &nbsp;
 
@@ -75,7 +79,7 @@ Enabled ground-up innovation through CoPs and task forces—connecting engineeri
 >He approached his responsibilities with clarity and consistency - whether it was aligning architectural work with regulatory requirements or improving developer workflows across teams. I particularly appreciated Vicente's ability to foster cross-functional collaboration, which made him a reliable contributor.
 >His work had a noticeable impact on the stability and scalability of our systems, and I appreciated his pragmatic, steady approach to solving technical challenges.
 > 
-> — ***[Razvan Margauan](https://www.linkedin.com/in/razvan-mihai-margauan/) | iNM Senior Program Director @ [Eurocontrol](https://eurocontrol.int)***
+> — ***[Razvan Margauan](https://www.linkedin.com/in/razvan-mihai-margauan/) | iNM Programme Director @ [Eurocontrol](https://eurocontrol.int)***
 &nbsp;
 
 &nbsp;
