@@ -42,6 +42,8 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Export secret for next steps
+        run: echo "GOOGLE_MAPS_API_KEY=${{ secrets.GOOGLE_MAPS_API_KEY }}" >> $GITHUB_ENV
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: |
@@ -49,7 +51,6 @@ jobs:
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         shell: bash
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
