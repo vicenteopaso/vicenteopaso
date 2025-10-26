@@ -45,7 +45,7 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: |
-          echo "GOOGLE_MAPS_API_KEY: $GOOGLE_MAPS_API_KEY" >> _config.yml
+          echo "GOOGLE_MAPS_API_KEY: THIS_IS_A_TEST_API_KEY" >> _config.yml
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
