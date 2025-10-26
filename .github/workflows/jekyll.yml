@@ -28,18 +28,25 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
 
-      - name: Setup Pages
-        id: pages
+      - id: pages
         uses: actions/configure-pages@v5
+
+      - name: Assert Maps key present
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: |
+          if [ -z "${GOOGLE_MAPS_API_KEY}" ]; then
+            echo "GOOGLE_MAPS_API_KEY missing."
+            exit 1
+          fi
+          echo "Key length: ${#GOOGLE_MAPS_API_KEY}"
 
       - name: Create prod config
         env:
@@ -54,11 +61,22 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Verify key made it into _site
+        run: |
+          if grep -R --include="*.html" "{{ site.google_maps_api_key" _site; then
+            echo "Liquid not rendered; add front matter to including page/layout."
+            exit 1
+          fi
+          if grep -R --include="*.html" "GOOGLE_MAPS_API_KEY" _site; then
+            echo "Placeholder still present; include not processed."
+            exit 1
+          fi
+          grep -R --include="*.html" 'maps.googleapis.com/maps/api/js?key=' _site || exit 1
+
       - name: Remove symlinks before upload
         run: find _site -type l -delete
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: ./_site
 
@@ -68,6 +86,4 @@ jobs:
     environment:
       name: github-pages
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v4
