@@ -76,9 +76,15 @@ jobs:
         run: ls -R ./_site
 
       - name: Inject Google Maps API key
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
           find ./_site -type f -name "*.html" -print0 | \
-            xargs -0 --no-run-if-empty sed -i "s#GOOGLE_MAPS_API_KEY#${{ secrets.GOOGLE_MAPS_API_KEY }}#g"
+            xargs -0 --no-run-if-empty bash -c '
+              for f; do
+                sed -i "s#GOOGLE_MAPS_API_KEY#${GOOGLE_MAPS_API_KEY}#g" "$f"
+              done
+            ' bash
 
       - name: Deploy to GitHub Pages
         id: deployment
