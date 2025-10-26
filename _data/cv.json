@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Vicente Opaso",
-    "label": "Technical Application Owner & Frontend Architect<br/>Expert in Design Systems, Scalable Architecture & Developer Experience<br/>25+ Years Delivering High-Impact Digital Platforms",
+    "label": "Web Engineering Manager & Frontend Architect<br/>Expert in Composable Platforms, Design Systems & Developer Experience<br/>25+ Years Delivering High-Impact Digital Solutions",
     "removed": {
       "email": "vicente@opa.so",
       "phone": "+34 684 005 262",
@@ -28,8 +28,9 @@
         }
       ]
     },
-    "summary": "I’m a Senior Frontend Architect and Technical Lead with over 25 years of experience designing scalable digital platforms and leading high-impact engineering teams. Currently, I hold the role of Technical Application Owner at Eurocontrol, where I’m focused on modernizing aviation systems through user-centered design and robust architecture.<br/><br/>Prior to this, I spent over five years at Carlsberg Group, where I led the development of global B2B platforms with over €1B in annual turnover, architected the Malty Design System, and helped establish a thriving Community of Practice to drive innovation and knowledge sharing across the organization. I’ve also co-founded and scaled a digital agency, GreyGoo, delivering solutions for clients like GM and the NCAA.<br/><br/>I specialize in Frontend Architecture, Design Systems, Developer Experience (DX), and building communities that scale both code and culture.",
+    "summary": "I’m a Senior Frontend Architect and Technical Lead with over 25 years of experience designing scalable digital platforms and leading high-impact engineering teams. Currently, I lead Web Engineering at Nexthink, where I manage the team behind nexthink.com — a composable platform supporting global brand, marketing, and product strategy.<br/><br/>Before this, I held the role of Technical Application Owner at Eurocontrol, focused on modernizing aviation systems through user-centered design and robust architecture. Prior to that, I spent over five years at Carlsberg Group, where I led the development of global B2B platforms with over €1B in annual turnover, architected the Malty Design System, and helped establish a thriving Community of Practice to drive innovation and knowledge sharing across the organization. I’ve also co-founded and scaled a digital agency, GreyGoo, delivering solutions for clients like GM and the NCAA.<br/><br/>I specialize in Frontend Architecture, Design Systems, Developer Experience (DX), and building communities that scale both code and culture.",
     "highlights": [
+      "<b>Web Engineering Manager at Nexthink</b><br/>Owning the delivery and architecture of nexthink.com — a global composable marketing platform — while leading a cross-functional team focused on performance, accessibility, and strategic alignment<br/><br/>",
       "<b>Technical Application Owner at Eurocontrol</b><br/>Leading the frontend modernization of critical aviation systems with a focus on governance, maintainability, and performance<br/><br/>",
       "<b>Design System Architect for EDS (Eurocontrol Design System) and Malty</b><br/>Driving consistency, accessibility, and scalability across platforms<br/><br/>",
       "<b>Solutions Architect</b><br/>For enterprise-grade B2B platforms, supporting €1B+ annual turnover at Carlsberg Group<br/><br/>",
@@ -39,6 +40,37 @@
     ]
   },
   "work": [
+    {
+      "company": "Nexthink | Remote (Hybrid)"
+    },
+    {
+      "position": "Manager of Web Engineering",
+      "startDate": "2024-07",
+      "endDate": ""
+    },
+    {
+      "summary": "As Manager of Web Engineering, I lead the team responsible for shaping and scaling nexthink.com — the company’s flagship digital platform supporting global brand, product, and go-to-market initiatives.",
+      "highlights": [
+        "Own the architecture and delivery of nexthink.com, a composable platform built with Next.js, GraphQL, Tailwind CSS, and Hygraph CMS.",
+        "Manage a cross-functional team of developers and designers focused on performance, accessibility, and maintainability.",
+        "Collaborate closely with marketing, product, and design teams to align the platform with strategic objectives and campaign priorities.",
+        "Lead technical direction, code quality, and release management in an agile environment.",
+        "Drive Developer Experience improvements, CI/CD pipeline automation, and frontend performance optimizations.",
+        "Position nexthink.com as both a technical showcase and a high-performing marketing engine aligned with Nexthink’s DEX leadership."
+      ],
+      "skills": [
+        "Frontend Architecture",
+        "Web Performance Optimization",
+        "Composable Web Platforms",
+        "Developer Experience",
+        "CI/CD Automation",
+        "Team Leadership",
+        "GraphQL",
+        "Next.js",
+        "Tailwind CSS",
+        "Hygraph CMS"
+      ]
+    },
     {
       "company": "Eurocontrol | Brussels, Belgium. (Onsite)"
     },
@@ -357,6 +389,10 @@
     {
       "name": "<a href='https://www.linkedin.com/in/peterbirkholmbuch'>Peter Birkholm-Buch</a> | Director of Software Engineering in Growth Products & Data @ Carlsberg Group",
       "reference": "<p>It has been a privilege to have Vicente as part of my Leadership Team at Carlsberg Group. As our Frontend Solutions Architect, Vicente played a critical role in shaping our frontend strategy, notably through the development of the Malty Design System, which has transformed how we approach global frontend solutions.<p/><p>His technical expertise in JavaScript, TypeScript, React, and Frontend technologies, combined with his leadership in establishing a Community of Practice, has greatly improved the developer experience and code quality across the organization. Vicente's contributions were instrumental in driving our e-commerce growth to over €1 billion annually.<p/><p>I highly recommend Vicente for his leadership, creativity, and exceptional technical skills. He would be a tremendous asset to any team.</p>"
+    },
+    {
+      "name": "<a href='https://www.linkedin.com/in/razvan-mihai-margauan'>Razvan Margauan</a> | iNM Programme Director @ EUROCONTROL",
+      "reference": "<p>I had the chance to work closely with Vicente Opaso during my time leading the USER Domain at EUROCONTROL. Vicente played a key role in shaping the technical direction of both the NMUI framework and the Eurocontrol Design System (EDS), two major initiatives that supported our operational platforms.<p/><p>He approached his responsibilities with clarity and consistency - whether it was aligning architectural work with regulatory requirements or improving developer workflows across teams. I particularly appreciated Vicente's ability to foster cross-functional collaboration, which made him a reliable contributor.<p/><p>His work had a noticeable impact on the stability and scalability of our systems, and I appreciated his pragmatic, steady approach to solving technical challenges.</p>"
     },
     {
       "name": "<a href='https://www.linkedin.com/in/samuel-silva-olv'>Samuel Silva</a> | Senior Frontend Developer @ Carlsberg Group",
