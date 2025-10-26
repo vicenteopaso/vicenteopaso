@@ -1,33 +1,6 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
-
-on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-22.04
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -37,14 +10,21 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
-          cache-version: 0
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+      - name: Create prod config
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: |
+          cat > _config_prod.yml <<EOF
+          google_maps_api_key: "${GOOGLE_MAPS_API_KEY}"
+          EOF
+
+      - name: Build with Jekyll (prod cfg)
+        run: bundle exec jekyll build --config _config.yml,_config_prod.yml --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
 
@@ -57,35 +37,11 @@ jobs:
           path: ./_site
 
   deploy:
-    environment:
-      name: github-pages
     runs-on: ubuntu-22.04
     needs: build
-
+    environment:
+      name: github-pages
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: ./_site
-
-      - name: List downloaded files
-        run: ls -R ./_site
-
-      - name: Inject Google Maps API key
-        env:
-          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-        run: |
-          find ./_site -type f -name "*.html" -print0 | \
-            xargs -0 --no-run-if-empty bash -c '
-              for f; do
-                sed -i "s#GOOGLE_MAPS_API_KEY#${GOOGLE_MAPS_API_KEY}#g" "$f"
-              done
-            ' bash
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
