@@ -53,8 +53,10 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
+          path: ./_site
 
   # Deployment job
   deploy:
@@ -80,6 +82,8 @@ jobs:
           find ./_site -type f -name "*.html" -print0 | \
             xargs -0 --no-run-if-empty sed -i "s#GOOGLE_MAPS_API_KEY#${{ secrets.GOOGLE_MAPS_API_KEY }}#g"
 
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: ./_site
