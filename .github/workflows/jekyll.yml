@@ -44,10 +44,7 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: |
-          echo "secret-variable: $GOOGLE_MAPS_API_KEY" >> _config.yml
-          bundle exec jekyll build --baseurl "${{ site.pages.outputs.base_path }}"
-          sed -i '$d' _config.yml  # removes the appended line after build
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
