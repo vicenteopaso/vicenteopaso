@@ -65,8 +65,11 @@ jobs:
         with:
           name: github-pages
           path: ./_site
-      - name: Inject secret before deploy
-        run: sed -i "s/GOOGLE_MAPS_API_KEY/${{ secrets.GOOGLE_MAPS_API_KEY }}/" ./_site/index.html
+      - name: Inject Google Maps API key
+        run: |
+          find ./_site -type f -name "*.html" -print0 | \
+            xargs -0 sed -i "s#GOOGLE_MAPS_API_KEY#${{ secrets.GOOGLE_MAPS_API_KEY }}#g"
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+        
