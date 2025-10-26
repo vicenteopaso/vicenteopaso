@@ -2,44 +2,47 @@
 layout: home
 ---
 
-## Core Competencies
+## Core Focus Areas
 
-- #### Frontend Architecture & Design Systems
-  Building scalable UI architectures and enterprise-grade design systems like Malty.
+- #### Frontend Architecture & Composable Platforms
+  I design scalable, maintainable frontend systems using modern frameworks and composable architecture—whether for marketing platforms like [nexthink.com](https://nexthink.com) or design systems like Malty.
 
 - #### Developer Experience & CI/CD Optimization
-  Driving productivity through automated pipelines, tooling, and code quality improvements.
+  I improve delivery velocity and code quality by introducing automated pipelines, streamlined tooling, and secure workflows tailored for global teams.
 
-- #### Community of Practice Leadership
-  Creating collaborative engineering cultures through CoPs, task forces, and governance.
+- #### Engineering Culture & Community Building
+  Through Communities of Practice, task forces, and steering groups, I help teams collaborate more effectively, share knowledge, and align on standards.
 
-- #### Cross-functional Product Delivery
-  Leading agile teams across design, development, and business to deliver global platforms.
+- #### Cross-Functional Product Delivery
+  I work closely with product, design, and engineering to turn complex requirements into elegant, scalable digital experiences.
 
 ## Professional Highlights
 
-- <b>Carlsberg Group | Frontend Solutions Architect</b><br/>
-Currently leading architecture for customer acquisition platforms and B2B e-commerce products across global markets with €1B+ in annual revenue. Oversaw implementation of Cookie Consent, Age Gateway, and global compliance frameworks.
+- <b>>Web Engineering Manager | Nexthink</b><br/>
+  I lead the team behind Nexthink’s global digital platform. We own the architecture and delivery of [nexthink.com](https://nexthink.com), using a modern, composable stack (Next.js, GraphQL, Tailwind CSS, Hygraph CMS) to support brand, product, and marketing strategy.
 
-- <b>Malty Design System | Architect & Lead Developer</b><br/>
-Designed and scaled Malty, Carlsberg’s open-source, monorepo, React-based design system. Spearheaded its adoption across internal and external digital products using an inner-sourcing collaboration model. Led documentation, governance, and strategy to ensure long-term scalability and consistency.
+- <b>>Frontend Architect | Carlsberg Group</b><br/>
+  I designed systems powering €1B+ B2B platforms, implemented global compliance frameworks, and modernized frontend delivery pipelines across markets.
 
-- <b>Community of Practice Leadership</b><br/>
-Founded Carlsberg’s first Frontend Engineering CoP. Integrated task forces and steering groups (like the Software Engineering Leadership Team and Beacon Council) to align grassroots innovation with strategic business goals. Authored two widely read LinkedIn articles on the impact of CoPs in tech organizations.
+- <b>>Malty Design System | Lead Architect</b><br/>
+  I built and scaled Carlsberg’s enterprise-grade design system, enabling UI consistency, accessibility, and reusability across global teams.
 
-- <b>Greygoo Media | Co-Founder & Principal</b><br/>
-Ran a multidisciplinary digital studio delivering full-cycle web and mobile solutions for clients including GM, Paulson Institute, and GO GROUND (NCAA). Focused on Angular, React, Ionic, and strategic delivery models across diverse verticals.
+- <b>>Community of Practice Leadership</b><br/>
+  I founded Carlsberg’s first Frontend CoP and contributed to engineering leadership groups—driving bottom-up innovation, shared tooling, and technical alignment across squads.
 
-## Key Achievements
+- <b>>Co-Founder | Greygoo Media</b><br/>
+  I ran a digital studio delivering full-cycle applications for clients like GM, NCAA partners, and public institutions, with a focus on performance, usability, and cross-platform delivery.
 
-- <b>Enterprise-Scale Delivery</b><br/>
-Delivered and maintained two B2B platforms with €1B+ revenue/year. Improved release cycles and code quality through CI/CD automation and GHAS integrations.
+## Impact Areas
 
-- <b>Design System Innovation</b><br/>
-Architected and led Malty Design System—now foundational to Carlsberg’s frontend ecosystem. Documented and scaled the system across markets and disciplines.
+- <b>Global Platform Ownership</b><br/>
+  Delivered and maintained composable, enterprise-grade marketing platforms.
+
+- <b>Design System Leadership</b><br/>
+  Architected and scaled open-source systems used across complex product ecosystems.
 
 - <b>Developer Experience Transformation</b><br/>
-Simplified development pipelines, introduced feature toggles, automated quality assurance, and led knowledge-sharing initiatives that improved team productivity, engagement, and morale.
+  Streamlined CI/CD, introduced automation, and improved onboarding and release workflows.
 
-- <b>Cross-Functional Governance</b><br/>
-Enabled ground-up decision-making via CoPs, task forces, and steering groups — ensuring alignment between technical execution and business priorities.
+- <b>Engineering Governance & Culture</b><br/>
+  Created sustainable collaboration models through CoPs and structured technical leadership.

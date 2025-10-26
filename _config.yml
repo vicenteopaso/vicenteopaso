@@ -23,8 +23,8 @@ url: "https://opa.so" # the base hostname & protocol for your site e.g. "https:/
 author:
   name: "Vicente Opaso"
   # x: vicenteopaso
-  tagline: "Architecting Frontends.<br/>Building Communities.<br/>Driving Innovation."
-  bio: "I am a Frontend Solutions Architect and Technical Leader with over 25 years of experience shaping high-performance, scalable digital products. I specialize in frontend architecture, design systems, and developer experience, with a strong track record of turning complexity into clarity — whether leading enterprise-scale solutions, founding Communities of Practice, or integrating UX, development, and strategy. My work focuses on creating sustainable frameworks for innovation at scale."
+  tagline: "Leading Web Engineering.<br/>Scaling Systems & Teams.<br/>Delivering Impact."
+  bio: "I am a Web Engineering Manager, Frontend Architect, and Technical Leader with over 25 years of experience delivering scalable, high-performance digital platforms. Currently leading the team behind nexthink.com, I focus on building composable architectures that support global brand and product strategy. I specialize in frontend systems, design systems, and developer experience—bringing clarity to complex challenges and aligning engineering execution with business goals. Whether leading enterprise-scale platforms, architecting reusable UI systems, or growing Communities of Practice, my work centers on building sustainable frameworks for impact and innovation."
   cvLink: "/cv/"
   cvLinkCopy: "Read CV"
   cvDownloadLink: "/assets/vicente_opaso_cv.pdf"
