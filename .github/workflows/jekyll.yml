@@ -38,11 +38,11 @@ jobs:
       - id: pages
         uses: actions/configure-pages@v5
 
-
       - name: Build with Jekyll (prod cfg)
-        run: bundle exec jekyll build --config _config.yml,_config_prod.yml --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll build --config _config.yml --baseurl "${{ steps.pages.outputs.base_path }} --GOOGLE_MAPS_API_KEY "${GOOGLE_MAPS_API_KEY}"
         env:
           JEKYLL_ENV: production
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
 
       - name: Remove symlinks before upload
         run: find _site -type l -delete
