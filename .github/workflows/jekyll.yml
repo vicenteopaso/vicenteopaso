@@ -39,7 +39,11 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll (prod cfg)
-        run: bundle exec jekyll build --config _config.yml --baseurl "${{ steps.pages.outputs.base_path }} --GOOGLE_MAPS_API_KEY "${GOOGLE_MAPS_API_KEY}"
+        run: |
+          bundle exec jekyll build \
+            --config _config.yml \
+            --baseurl "${{ steps.pages.outputs.base_path }}" \
+            --GOOGLE_MAPS_API_KEY "${GOOGLE_MAPS_API_KEY}"
         env:
           JEKYLL_ENV: production
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
