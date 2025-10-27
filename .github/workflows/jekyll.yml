@@ -42,11 +42,11 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
-          if [ -z "${GOOGLE_MAPS_API_KEY}" ]; then
+          if [ -z "${{ GOOGLE_MAPS_API_KEY }}" ]; then
             echo "GOOGLE_MAPS_API_KEY missing."
             exit 1
           fi
-          echo "Key length: ${#GOOGLE_MAPS_API_KEY}"
+          echo "Key length: ${{ GOOGLE_MAPS_API_KEY }}"
 
       - name: Create prod config
         env:
