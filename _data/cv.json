@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Vicente Opaso",
-    "label": "Web Engineering Manager & Frontend Architect<br/>Expert in Composable Platforms, Design Systems & Developer Experience<br/>25+ Years Delivering High-Impact Digital Solutions",
+    "label": "Senior Frontend Engineer & Solutions Architect<br/>Expert in Composable Platforms, Design Systems & Developer Experience<br/>25+ Years Delivering High-Impact Digital Solutions",
     "removed": {
       "email": "vicente@opa.so",
       "phone": "+34 684 005 262",
@@ -28,7 +28,7 @@
         }
       ]
     },
-    "summary": "I’m a Senior Frontend Architect and Technical Lead with over 25 years of experience designing scalable digital platforms and leading high-impact engineering teams. Currently, I lead Web Engineering at Nexthink, where I manage the team behind nexthink.com — a composable platform supporting global brand, marketing, and product strategy.<br/><br/>Before this, I held the role of Technical Application Owner at Eurocontrol, focused on modernizing aviation systems through user-centered design and robust architecture. Prior to that, I spent over five years at Carlsberg Group, where I led the development of global B2B platforms with over €1B in annual turnover, architected the Malty Design System, and helped establish a thriving Community of Practice to drive innovation and knowledge sharing across the organization. I’ve also co-founded and scaled a digital agency, GreyGoo, delivering solutions for clients like GM and the NCAA.<br/><br/>I specialize in Frontend Architecture, Design Systems, Developer Experience (DX), and building communities that scale both code and culture.",
+    "summary": "I’m a Senior Frontend Engineer and Solutions Architect with over 25 years of experience delivering enterprise-grade digital platforms across e-commerce, aviation, and consumer tech. Proven expertise in architecting scalable frontend systems using React, Angular, and TypeScript, with a focus on accessibility, performance, and long-term maintainability.<br/><br/>I specialize in aligning engineering strategy with business goals—leading global initiatives, streamlining Developer Experience (DevEx), and modernizing CI/CD pipelines for faster, higher-quality delivery. Known for building strong engineering cultures through mentorship, technical leadership, and Communities of Practice, I thrive in cross-functional environments where clarity, collaboration, and craftsmanship are critical to success.",
     "highlights": [
       "<b>Web Engineering Manager at Nexthink</b><br/>Owning the delivery and architecture of nexthink.com — a global composable marketing platform — while leading a cross-functional team focused on performance, accessibility, and strategic alignment<br/><br/>",
       "<b>Technical Application Owner at Eurocontrol</b><br/>Leading the frontend modernization of critical aviation systems with a focus on governance, maintainability, and performance<br/><br/>",
@@ -308,6 +308,11 @@
       "keywords": ["Figma", "Storybook", "Supernova", "Design Tokens"]
     },
     {
+      "name": "Developer Experience",
+      "level": "Master",
+      "keywords": ["CI/CD Optimization", "Onboarding Automation", "Inner-sourcing", "Tooling Workflows", "DX Strategy"]
+    },
+    {
       "name": "Agile",
       "level": "Advanced",
       "keywords": ["Scrum", "KanBan", "Jira", "Confluence"]
@@ -354,7 +359,7 @@
     },
     {
       "language": "English",
-      "fluency": "Proficient"
+      "fluency": "Fluent (C2)"
     }
   ],
   "interests": [
@@ -405,6 +410,20 @@
     {
       "name": "<a href='https://www.linkedin.com/in/brunomptorres'>Bruno Torres</a> | Senior Frontend Developer @ Carlsberg Group",
       "reference": "<p>It's with genuine pleasure that I share my admiration for Vicente, the incredibly talented Frontend Solutions Architect I had the chance to work with at Carlsberg. Working alongside him has been more than just a professional experience; it's been a journey of growth and camaraderie.<p/><p>Vicente stands out for his technical prowess and his genuine commitment to building a tight-knit front-end community. Under his guidance, I've felt a sense of trust and support beyond the usual workplace dynamic. Vicente's efforts to create a collaborative environment have made our team feel like a family, fostering an atmosphere where everyone's contributions are valued.<p/><p>As a Frontend Developer, I've greatly appreciated Vicente's approach to problem-solving and his emphasis on sharing knowledge. His mentorship has elevated my technical skills and made our workplace a positive and uplifting space.<p/><p>I wholeheartedly recommend Vicente Opaso to anyone looking for more than just a leader – someone who values humanity and teamwork as much as technical excellence.<p/>"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Empowering Design Systems: How Communities of Practice Drive Innovation and Scalability",
+      "publisher": "LinkedIn",
+      "releaseDate": "2024-10-02",
+      "url": "https://www.linkedin.com/pulse/empowering-design-systems-how-communities-practice-drive-opaso-j0icf/"
+    },
+    {
+      "name": "Driving Innovation from the Ground Up: The Power of Communities of Practice",
+      "publisher": "LinkedIn",
+      "releaseDate": "2024-09-30",
+      "url": "https://www.linkedin.com/pulse/driving-innovation-from-ground-up-power-communities-practice-opaso-3msef/"
     }
   ]
 }
