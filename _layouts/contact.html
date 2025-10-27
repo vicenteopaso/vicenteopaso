@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Contact
 ---
 
 {% include page-intro.html %}
@@ -47,7 +46,7 @@ title: Contact
   }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_api_key | escape }}&callback=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key={{site.GOOGLE_MAPS_API_KEY}}&callback=myMap"></script>
 
 <script>
   var form = document.getElementById("contact-form");
