@@ -18,19 +18,19 @@ layout: home
 
 ## Professional Highlights
 
-- <b>>Web Engineering Manager | Nexthink</b><br/>
+- <b>Web Engineering Manager | Nexthink</b><br/>
   I lead the team behind Nexthink’s global digital platform. We own the architecture and delivery of [nexthink.com](https://nexthink.com), using a modern, composable stack (Next.js, GraphQL, Tailwind CSS, Hygraph CMS) to support brand, product, and marketing strategy.
 
-- <b>>Frontend Architect | Carlsberg Group</b><br/>
+- <b>Frontend Architect | Carlsberg Group</b><br/>
   I designed systems powering €1B+ B2B platforms, implemented global compliance frameworks, and modernized frontend delivery pipelines across markets.
 
-- <b>>Malty Design System | Lead Architect</b><br/>
+- <b>Malty Design System | Lead Architect</b><br/>
   I built and scaled Carlsberg’s enterprise-grade design system, enabling UI consistency, accessibility, and reusability across global teams.
 
-- <b>>Community of Practice Leadership</b><br/>
+- <b>Community of Practice Leadership</b><br/>
   I founded Carlsberg’s first Frontend CoP and contributed to engineering leadership groups—driving bottom-up innovation, shared tooling, and technical alignment across squads.
 
-- <b>>Co-Founder | Greygoo Media</b><br/>
+- <b>Co-Founder | Greygoo Media</b><br/>
   I ran a digital studio delivering full-cycle applications for clients like GM, NCAA partners, and public institutions, with a focus on performance, usability, and cross-platform delivery.
 
 ## Impact Areas
