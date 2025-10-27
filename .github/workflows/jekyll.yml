@@ -27,6 +27,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-22.04
+    environment: github-pages  # <-- add this if the secret lives in that environment
     steps:
       - uses: actions/checkout@v4
 
@@ -42,21 +43,23 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
-          set -euo pipefail
+          set -eo pipefail
           FILE="_config.yml"
           KEY="google_maps_api_key"
-          VAL="${GOOGLE_MAPS_API_KEY}"
+          VAL="${GOOGLE_MAPS_API_KEY:-}"
+
+          if [ -z "$VAL" ]; then
+            echo "ERROR: GOOGLE_MAPS_API_KEY is empty/unavailable. If this secret is in an Environment, make sure this job uses 'environment: github-pages' OR move it to repo-level secrets."
+            exit 1
+          fi
 
           if grep -qE "^[[:space:]]*${KEY}:" "$FILE"; then
-            # replace existing line
             sed -i "s|^[[:space:]]*${KEY}:.*|${KEY}: \"${VAL}\"|" "$FILE"
           else
-            # append at end
             printf "\n%s: \"%s\"\n" "$KEY" "$VAL" >> "$FILE"
           fi
 
-          echo "Config value now is:"
-          grep -E "^[[:space:]]*${KEY}:" "$FILE" || true
+          echo "Injected '${KEY}' into ${FILE} (value masked)."
 
       - name: Build with Jekyll (prod cfg)
         run: |
