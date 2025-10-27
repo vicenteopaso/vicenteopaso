@@ -4,45 +4,61 @@ layout: home
 
 ## Core Focus Areas
 
-- #### Frontend Architecture & Composable Platforms
+- #### Frontend Architecture & Composable Platforms  
   I design scalable, maintainable frontend systems using modern frameworks and composable architecture—whether for marketing platforms like [nexthink.com](https://nexthink.com) or design systems like Malty.
 
-- #### Developer Experience & CI/CD Optimization
-  I improve delivery velocity and code quality by introducing automated pipelines, streamlined tooling, and secure workflows tailored for global teams.
+- #### Design Systems & UI Consistency  
+  From foundational systems like EDS (EUROCONTROL) to scalable component libraries like Malty (Carlsberg), I build and lead initiatives that ensure accessible, consistent UI across products and teams.
 
-- #### Engineering Culture & Community Building
-  Through Communities of Practice, task forces, and steering groups, I help teams collaborate more effectively, share knowledge, and align on standards.
+- #### Developer Experience (DevEx) & CI/CD  
+  I implement automated pipelines, onboarding flows, and AI-enhanced tooling to streamline delivery and reduce friction—improving quality, velocity, and team morale.
 
-- #### Cross-Functional Product Delivery
-  I work closely with product, design, and engineering to turn complex requirements into elegant, scalable digital experiences.
+- #### Leadership & Community of Practice (CoP)  
+  I foster knowledge sharing, mentorship, and alignment through cross-functional CoPs that drive standards, governance, and continuous improvement across teams.
+
+- #### Cross-Functional Collaboration  
+  I work closely with design, product, compliance, and brand teams to ensure architectural alignment, business value, and operational readiness in every deliverable.
+
+- #### Accessibility & Performance  
+  I ensure platforms meet WCAG 2.1 standards and optimize for SEO, performance, and cross-browser reliability—making digital experiences inclusive and discoverable.
+
+- #### Documentation & Knowledge Management  
+  I maintain architectural documentation across systems like Confluence and SharePoint to ensure traceability, compliance, and onboarding readiness.
+
+---
 
 ## Professional Highlights
 
 - <b>Web Engineering Manager | Nexthink</b><br/>
   I lead the team behind Nexthink’s global digital platform. We own the architecture and delivery of [nexthink.com](https://nexthink.com), using a modern, composable stack (Next.js, GraphQL, Tailwind CSS, Hygraph CMS) to support brand, product, and marketing strategy.
 
+- <b>Design System & DevEx Lead | EUROCONTROL</b><br/>
+  Defined the strategy and governance for the EUROCONTROL Design System (EDS) and led domain-wide Developer Experience initiatives—optimizing CI/CD, onboarding, and cross-platform architecture in a safety-critical aviation environment.
+
+- <b>Design System Architect & CoP Founder | Carlsberg Group</b><br/>
+  Architected and maintained the Malty Design System, integrating Figma, Storybook, and CI/CD pipelines into a global UI ecosystem. Founded and led the Frontend Community of Practice to scale shared tooling, component reuse, and DevEx strategy across markets.
+
 - <b>Frontend Architect | Carlsberg Group</b><br/>
-  I designed systems powering €1B+ B2B platforms, implemented global compliance frameworks, and modernized frontend delivery pipelines across markets.
+  Designed systems powering €1B+ B2B platforms, implemented global compliance frameworks, and modernized frontend delivery pipelines across markets.
 
-- <b>Malty Design System | Lead Architect</b><br/>
-  I built and scaled Carlsberg’s enterprise-grade design system, enabling UI consistency, accessibility, and reusability across global teams.
+- <b>Co-Founder & Technical Director | Greygoo</b><br/>
+  Led architecture and delivery for clients like GM, NCAA, and Nokia—building cross-platform applications and managing distributed teams across industries.
 
-- <b>Community of Practice Leadership</b><br/>
-  I founded Carlsberg’s first Frontend CoP and contributed to engineering leadership groups—driving bottom-up innovation, shared tooling, and technical alignment across squads.
-
-- <b>Co-Founder | Greygoo Media</b><br/>
-  I ran a digital studio delivering full-cycle applications for clients like GM, NCAA partners, and public institutions, with a focus on performance, usability, and cross-platform delivery.
+---
 
 ## Impact Areas
 
-- <b>Global Platform Ownership</b><br/>
-  Delivered and maintained composable, enterprise-grade marketing platforms.
+- <b>Composable Frontend Platforms</b><br/>
+  Architecting modern frontend systems using microfrontends, Next.js, and component libraries aligned with business goals.
 
-- <b>Design System Leadership</b><br/>
-  Architected and scaled open-source systems used across complex product ecosystems.
+- <b>Scalable Design Systems</b><br/>
+  Driving governance, accessibility, and adoption through open tooling, automated pipelines, and CoP-led contribution models.
 
-- <b>Developer Experience Transformation</b><br/>
-  Streamlined CI/CD, introduced automation, and improved onboarding and release workflows.
+- <b>Developer Experience</b><br/>
+  Automating CI/CD, onboarding, documentation, and inner-sourcing to reduce friction and improve delivery velocity.
 
-- <b>Engineering Governance & Culture</b><br/>
-  Created sustainable collaboration models through CoPs and structured technical leadership.
+- <b>Engineering Leadership</b><br/>
+  Mentoring engineers, leading CoPs, and shaping culture through clarity, coaching, and collaborative frameworks.
+
+- <b>Enterprise Alignment</b><br/>
+  Bridging design, product, compliance, and brand to ensure scalable, strategic, and resilient outcomes.
