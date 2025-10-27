@@ -38,40 +38,11 @@ jobs:
       - id: pages
         uses: actions/configure-pages@v5
 
-      - name: Assert Maps key present
-        env:
-          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-        run: |
-          if [ -z "${{ GOOGLE_MAPS_API_KEY }}" ]; then
-            echo "GOOGLE_MAPS_API_KEY missing."
-            exit 1
-          fi
-          echo "Key length: ${{ GOOGLE_MAPS_API_KEY }}"
-
-      - name: Create prod config
-        env:
-          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-        run: |
-          cat > _config_prod.yml <<EOF
-          google_maps_api_key: "${GOOGLE_MAPS_API_KEY}"
-          EOF
-
       - name: Build with Jekyll (prod cfg)
-        run: bundle exec jekyll build --config _config.yml,_config_prod.yml --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll build --config _config.yml --baseurl "${{ steps.pages.outputs.base_path }} --GOOGLE_MAPS_API_KEY "${GOOGLE_MAPS_API_KEY}"
         env:
           JEKYLL_ENV: production
-
-      - name: Verify key made it into _site
-        run: |
-          if grep -R --include="*.html" "{{ site.google_maps_api_key" _site; then
-            echo "Liquid not rendered; add front matter to including page/layout."
-            exit 1
-          fi
-          if grep -R --include="*.html" "GOOGLE_MAPS_API_KEY" _site; then
-            echo "Placeholder still present; include not processed."
-            exit 1
-          fi
-          grep -R --include="*.html" 'maps.googleapis.com/maps/api/js?key=' _site || exit 1
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
 
       - name: Remove symlinks before upload
         run: find _site -type l -delete

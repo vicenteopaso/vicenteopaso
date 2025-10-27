@@ -18,7 +18,8 @@ title: Vicente Opaso
 # email: vicente@opa.so
 description: Senior Frontend Engineer
 
-baseurl: "/" # the optional subpath of your site, e.g. "/blog"
+baseurl: "" # the optional subpath of your site, e.g. "/blog"
+GOOGLE_MAPS_API_KEY: "" # Google Maps API Key
 url: "https://opa.so" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "Vicente Opaso"
