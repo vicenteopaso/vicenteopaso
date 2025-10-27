@@ -42,7 +42,7 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
-          echo "Injecting Google Maps API key ${GOOGLE_MAPS_API_KEY} into _config.yml"
+          echo "Injecting Google Maps API key ${{GOOGLE_MAPS_API_KEY}} into _config.yml"
           sed -i "s|GOOGLE_MAPS_API_KEY:.*|GOOGLE_MAPS_API_KEY: '${GOOGLE_MAPS_API_KEY}'|" _config.yml
 
       - name: Build with Jekyll (prod cfg)
