@@ -42,8 +42,21 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
-          echo "Injecting Google Maps API key '${GOOGLE_MAPS_API_KEY}' into _config.yml"
-          sed -i "s|GOOGLE_MAPS_API_KEY:.*|GOOGLE_MAPS_API_KEY: '${GOOGLE_MAPS_API_KEY}'|" _config.yml
+          set -euo pipefail
+          FILE="_config.yml"
+          KEY="google_maps_api_key"
+          VAL="${GOOGLE_MAPS_API_KEY}"
+
+          if grep -qE "^[[:space:]]*${KEY}:" "$FILE"; then
+            # replace existing line
+            sed -i "s|^[[:space:]]*${KEY}:.*|${KEY}: \"${VAL}\"|" "$FILE"
+          else
+            # append at end
+            printf "\n%s: \"%s\"\n" "$KEY" "$VAL" >> "$FILE"
+          fi
+
+          echo "Config value now is:"
+          grep -E "^[[:space:]]*${KEY}:" "$FILE" || true
 
       - name: Build with Jekyll (prod cfg)
         run: |
