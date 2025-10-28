@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Vicente Opaso",
-    "label": "Senior Frontend Engineer & Solutions Architect<br/>Expert in Composable Platforms, Design Systems & Developer Experience<br/>25+ Years Delivering High-Impact Digital Solutions",
+    "label": "Web Engineering Manager & Frontend Architect<br/>Expert in Composable Platforms, Design Systems & Developer Experience<br/>25+ Years Delivering High-Impact Digital Solutions",
     "removed": {
       "email": "vicente@opa.so",
       "phone": "+34 684 005 262",
@@ -28,81 +28,82 @@
         }
       ]
     },
-    "summary": "I’m a Senior Frontend Engineer and Solutions Architect with over 25 years of experience delivering enterprise-grade digital platforms across e-commerce, aviation, and consumer tech. Proven expertise in architecting scalable frontend systems using React, Angular, and TypeScript, with a focus on accessibility, performance, and long-term maintainability.<br/><br/>I specialize in aligning engineering strategy with business goals—leading global initiatives, streamlining Developer Experience (DevEx), and modernizing CI/CD pipelines for faster, higher-quality delivery. Known for building strong engineering cultures through mentorship, technical leadership, and Communities of Practice, I thrive in cross-functional environments where clarity, collaboration, and craftsmanship are critical to success.",
+    "summary": "I’m a Web Engineering Manager and Frontend Architect with 25+ years designing, scaling, and maintaining high-performance digital platforms across enterprise, e-commerce, and mission-critical environments. I specialize in composable architecture, Design Systems, and Developer Experience (DevEx)—aligning technology, design, and strategy to deliver accessible, performant, and maintainable products.<br/><br/>I lead cross-functional teams, modernize CI/CD and code governance, and foster strong engineering culture through mentorship and Communities of Practice. My approach blends technical architecture with design empathy and operational discipline to unlock durable, business-aligned outcomes.",
     "highlights": [
-      "<b>Web Engineering Manager at Nexthink</b><br/>Owning the delivery and architecture of nexthink.com — a global composable marketing platform — while leading a cross-functional team focused on performance, accessibility, and strategic alignment<br/><br/>",
-      "<b>Technical Application Owner at Eurocontrol</b><br/>Leading the frontend modernization of critical aviation systems with a focus on governance, maintainability, and performance<br/><br/>",
-      "<b>Design System Architect for EDS (Eurocontrol Design System) and Malty</b><br/>Driving consistency, accessibility, and scalability across platforms<br/><br/>",
-      "<b>Solutions Architect</b><br/>For enterprise-grade B2B platforms, supporting €1B+ annual turnover at Carlsberg Group<br/><br/>",
-      "<b>Community of Practice (CoP) Builder</b><br/>Founding and leading CoPs to align engineering practices across global teams<br/><br/>",
-      "<b>Agile Practitioner</b><br/>Experienced in leading cross-functional squads through continuous delivery and iterative improvement<br/><br/>",
-      "<b>Digital Agency Co-founder</b><br/>Delivering full-stack web and mobile solutions for Fortune 500 and public sector clients<br/>"
+      "<b>Web Engineering Manager @ Nexthink</b><br/>Own the architecture and delivery of <i>nexthink.com</i>—a global composable marketing platform—while leading a cross-functional team focused on performance, accessibility, localization, and strategic alignment.<br/><br/>",
+      "<b>Technical Application Owner @ EUROCONTROL</b><br/>Lead frontend governance and modernization for aviation platforms (NMUI, EDS), aligning safety, compliance, and delivery at scale.<br/><br/>",
+      "<b>Design System Architect (EDS & Malty)</b><br/>Drive UI consistency, accessibility, and reuse with enterprise-grade component libraries and contribution models.<br/><br/>",
+      "<b>Solutions Architect</b><br/>For enterprise B2B platforms at Carlsberg Group (≥ €1B annual turnover) and global marketing frameworks.<br/><br/>",
+      "<b>CoP Builder</b><br/>Found and scale Communities of Practice to raise standards, share knowledge, and improve DevEx.<br/><br/>",
+      "<b>Agile Leader</b><br/>Guide cross-functional teams with iterative delivery, documentation, and measurable outcomes.<br/><br/>",
+      "<b>Digital Agency Co-founder</b><br/>Delivered full-stack web and mobile solutions for Fortune 500 and public sector clients."
     ]
   },
   "work": [
     {
-      "company": "Nexthink | Remote (Hybrid)"
+      "company": "Nexthink | Hybrid"
     },
     {
       "position": "Manager of Web Engineering",
-      "startDate": "2024-07",
+      "startDate": "2025-07",
       "endDate": ""
     },
     {
-      "summary": "As Manager of Web Engineering, I lead the team responsible for shaping and scaling nexthink.com — the company’s flagship digital platform supporting global brand, product, and go-to-market initiatives.",
+      "summary": "Lead the team behind <i>nexthink.com</i>—Nexthink’s global, composable web platform supporting brand, marketing, and product strategy. Focus on team structure, DevEx, and design–engineering collaboration to deliver reliable, scalable, and localized experiences.",
       "highlights": [
-        "Own the architecture and delivery of nexthink.com, a composable platform built with Next.js, GraphQL, Tailwind CSS, and Hygraph CMS.",
-        "Manage a cross-functional team of developers and designers focused on performance, accessibility, and maintainability.",
-        "Collaborate closely with marketing, product, and design teams to align the platform with strategic objectives and campaign priorities.",
-        "Lead technical direction, code quality, and release management in an agile environment.",
-        "Drive Developer Experience improvements, CI/CD pipeline automation, and frontend performance optimizations.",
-        "Position nexthink.com as both a technical showcase and a high-performing marketing engine aligned with Nexthink’s DEX leadership."
+        "Own architecture and delivery of a composable stack: Next.js, GraphQL, Tailwind CSS, Hygraph CMS—deployed on Vercel and tightly integrated with GitHub.",
+        "Implement guardrails and governance: CodeQL, Copilot, branch protections, PR templates, and automated checks to raise code quality and reliability.",
+        "Integrate Vercel–GitHub–Hygraph workflows for faster, safer releases; standardize pipelines with GitHub Actions (CI/CD).",
+        "Manage a cross-functional team (3 developers, 1 UX designer) focused on performance, accessibility, maintainability, and content velocity.",
+        "Improve design ↔ development feedback loops with shared components, design tokens, and documentation for tighter iteration.",
+        "Coordinate localization and campaign delivery across six languages with brand, content, and demand-gen stakeholders."
       ],
       "skills": [
         "Frontend Architecture",
-        "Web Performance Optimization",
         "Composable Web Platforms",
         "Developer Experience",
         "CI/CD Automation",
+        "Web Performance Optimization",
         "Team Leadership",
-        "GraphQL",
         "Next.js",
+        "GraphQL",
         "Tailwind CSS",
-        "Hygraph CMS"
+        "Hygraph CMS",
+        "Vercel",
+        "CodeQL",
+        "GitHub Actions"
       ]
     },
     {
-      "company": "Eurocontrol | Brussels, Belgium. (Onsite)"
+      "company": "EUROCONTROL | Brussels, Belgium (Onsite)"
     },
     {
-      "position": "Technical Application Owner for User Domain",
-      "summary": "As Technical Application Owner for the User Domain within EUROCONTROL’s Digital Product teams, I lead the technical governance, compliance, and system strategy for key operational frameworks supporting the Network Manager Operations Centre (NMOC).",
+      "position": "Technical Application Owner (User Domain)",
+      "summary": "Own Frontend Architecture, governance, and compliance for user-facing frameworks supporting the Network Manager Operations Centre (NMOC). Bridge engineering, product, and regulatory stakeholders in a safety-critical environment.",
       "startDate": "2025-02",
-      "endDate": ""
+      "endDate": "2025-07"
     },
     {
       "summary": "Key Highlights:",
       "highlights": [
-        "Own and maintain the Formal Thread of documentation, ensuring compliance with safety, regulatory, and engineering standards across system components.",
-        "Provide technical leadership for the NMUI, our microfrontend-based framework enabling multitasking and seamless interoperability between mission-critical applications.",
-        "Guide the vision and implementation of the Eurocontrol Design System (EDS), supporting consistent and accessible UI/UX patterns across the User Domain.",
-        "Currently on secondment to lead Developer Experience (DX) improvements across the entire delivery train — focusing on CI/CD modernization, automation, onboarding flows, and access management to streamline day-to-day engineering workflows.",
-        "Act as a key technical liaison between product, compliance, and engineering stakeholders to ensure architectural alignment and operational readiness.",
-        "Leveraging technical background to take on new challenges in aviation systems governance, rapidly building expertise in operational frameworks while bringing fresh perspectives from outside the industry.",
-        "Established improved documentation workflows and built the foundation for enhanced developer experiences across teams.",
-        "Combining transferable skills in technical coordination, documentation, and stakeholder management with system ownership responsibilities to drive scalable, compliant, and developer-friendly digital solutions across EUROCONTROL’s aviation tech ecosystem."
+        "Maintain the Formal Thread of documentation to meet safety, regulatory, and engineering standards across components.",
+        "Provide technical leadership for NMUI (microfrontend framework) enabling multitasking and interoperability across mission-critical apps.",
+        "Guide the strategy and implementation of the EUROCONTROL Design System (EDS) for accessible, consistent UI/UX.",
+        "Secondment leading DevEx improvements: CI/CD modernization, automation, onboarding, and access management to streamline delivery.",
+        "Act as technical liaison aligning architecture with operational readiness and compliance requirements.",
+        "Established improved documentation workflows and foundations for sustainable developer experience across teams."
       ],
       "skills": [
         "Software Architecture",
-        "Documentation",
+        "Technical Governance",
         "Design Systems",
-        "Technical Architecture",
         "Solution Architecture",
         "Information Architecture",
         "Engineering Leadership",
-        "Team Leadership",
         "Agile Leadership",
-        "Front End Engineering Design (FEED)"
+        "Documentation",
+        "Front End Engineering Design (FEED)",
+        "Microfrontends"
       ]
     },
     {
@@ -110,170 +111,167 @@
     },
     {
       "position": "Frontend Solutions Architect",
-      "summary": "Frontend Solutions Architect with over 12 years of experience leading the design, development, and implementation of technology solutions that drive business growth. Proven track record of delivering complex projects on time and within budget.",
+      "summary": "Led the design and delivery of scalable Frontend Architectures for global B2B and marketing platforms, aligning engineering with commercial priorities and DevEx maturity.",
       "startDate": "2022-12",
       "endDate": "2024-12",
       "highlights": [
-        "Strong technical expertise in various technologies, including cloud computing, microservices, and DevOps practices",
-        "Excellent communication and collaboration skills with both technical and non-technical stakeholders, ensuring successful project delivery and alignment with business goals",
-        "Strong analytical and problem-solving skills to identify and address complex business problems, resulting in increased efficiency and cost savings",
-        "Experience leading cross-functional teams and managing projects from conception to completion, with a focus on driving innovation and continuous improvement",
-        "Member of Software Engineering Leadership Team"
+        "Architected web platforms supporting €1B+ annual turnover across regions; improved performance, reliability, and accessibility.",
+        "Modernized CI/CD with GitHub Actions and feature toggles to reduce deployment friction and improve release cadence.",
+        "Defined documentation and onboarding workflows to increase transparency and consistency across distributed teams.",
+        "Partnered with design and marketing to align UX, compliance, and performance with brand and growth goals.",
+        "Member of Software Engineering Leadership Team, shaping standards and governance."
       ]
     },
     {
       "summary": "Overseeing:",
       "highlights": [
-        "Two b2b e-commerce platforms with €1bn+ yearly turnover",
-        "Malty Design System's monorepo typescript React Component Library ",
-        "Lean Sign-up, a Customer Acquisition Platform, for improved user experience"
+        "Two B2B e-commerce platforms with €1B+ yearly turnover",
+        "Malty Design System monorepo (TypeScript, React) and documentation",
+        "Lean Sign-up customer acquisition platform"
       ]
     },
     {
       "summary": "Launched key initiatives:",
       "highlights": [
-        "First Software Engineering Community of Practice (CoP)",
-        "Improved Developer Experience (DX) through automation and AI",
-        "Streamlined Agile Development practices for improved Developer Experience (DX)",
-        "Simplified CI/CD development pipeline for frictionless releases",
-        "Feature Toggles for company-wide adoption, to ensure seamless feature releases and minimize disruption",
-        "Documentation of process and practices for improved knowledge sharing"
+        "Founded the first Frontend Community of Practice (CoP)",
+        "Improved Developer Experience via automation and AI-assisted workflows",
+        "Streamlined Agile practices and simplified CI/CD for frictionless releases",
+        "Introduced feature toggles to minimize release risk",
+        "Standardized documentation for knowledge sharing"
       ]
     },
     {
-      "position": "Solutions Architect for Digital Marketing and Consumer Tech",
-      "summary": "As a Solutions Architect focusing on Digital Marketing and Consumer Technology at Carlsberg Group, lead the architecture and implementation of innovative solutions that enhance customer engagement and drive global business growth. My work involves collaborating closely with cross-functional teams to create scalable and secure digital platforms, ensuring that our strategies are both data-driven and aligned with business objectives.<br/>Successfully led projects such as the development of Cookie Consent, Age Gateway, and Global Policies for global deployment. My expertise in frontend technologies like TypeScript React, and Headless CMS' like Umbraco enables me to deliver seamless user experiences while upholding the highest standards in security and compliance.",
+      "position": "Solutions Architect – Digital Marketing & Consumer Tech",
+      "summary": "Architected and delivered global marketing solutions (Cookie Consent, Age Gateway, Global Policies) using TypeScript/React and headless CMS (primarily Umbraco), balancing compliance, localization (i18n), and performance.",
       "startDate": "2022-12",
       "endDate": "2024-07"
     },
     {
       "summary": "Key Highlights:",
       "highlights": [
-        "Architected and implemented global digital marketing solutions for Carlsberg Group.",
-        "Led the development of analytics frameworks for data-driven decision-making.",
-        "Collaborated with marketing, data, and engineering teams to align technology with business goals.",
-        "Ensured security and compliance in digital marketing initiatives across multiple markets."
+        "Implemented privacy/compliance frameworks deployed across markets (Cookie Consent, Age Gateway, Global Policy).",
+        "Built analytics integrations to improve data-driven decision making.",
+        "Aligned technology with brand and growth strategies across marketing, data, and product.",
+        "Delivered modular, secure architectures enabling multi-market scalability."
       ]
     },
     {
-      "position": "Lead Developer and Architect for Malty Design System",
-      "summary": "As the Lead Developer for Malty Design System, I oversaw the development and maintenance of our internal design system using inner sourcing as our collaboration model.<br/>Initially, the product required significant collaboration between our design and development teams to translate designs into developable components. And later, documenting a design system has proven to be a full-time job, requiring deep collaboration between design and development, as well as the business.<br/>While most products were already in place, I am currently leading efforts to increase the penetration of Malty into our products. Through my work, Malty has become a core component of our digital ecosystem, providing a consistent and intuitive user experience across our products.",
+      "position": "Lead Developer & Architect – Malty Design System",
+      "summary": "Led the architecture, development, and adoption of Malty—an enterprise React/TypeScript Design System built with an inner-sourcing model. Scaled contribution, governance, and documentation to enable reuse across products.",
       "startDate": "2021-01",
-      "endDate": ""
+      "endDate": "2022-12"
     },
     {
       "summary": "Selected achievements:",
       "highlights": [
-        "Architected and developed Malty Design System, implementing inner sourcing collaboration model",
-        "Successfully established Malty as a core component of the organization's digital ecosystem",
-        "Helped document design system, requiring deep collaboration between design, development, and business",
-        "Spearheading efforts to increase Malty's penetration into existing products for consistent user experience."
+        "Established governance, versioning, and contribution guidelines; integrated Figma + Storybook + CI/CD.",
+        "Standardized components and accessibility (WCAG 2.1) across B2B and consumer products.",
+        "Drove adoption across global teams with onboarding materials and documentation."
       ]
     },
     {
       "position": "Principal Frontend Developer",
-      "summary": "As a Principal Developer with a frontend focus, I was responsible for overseeing several critical components of our organization's technology ecosystem.<br/>One of my key responsibilities was co-managing the development of Carlshop+, one of Carlsberg's B2B eCommerce platforms, generating over 1 billion euros in revenue each year. Additionally, I was responsible for frontend Development of Carlsberg's Cadi, an in-house built CRM system, ensuring that customer data was handled accurately and securely, and managing a team of frontend developers.<br/>Another crucial aspect of my role was overseeing the development and maintenance of Malty Design System and Lean Sign-up platform, which helped to streamline our customer onboarding process.<br/>Overall, my experience as a Principal Developer allowed me to play a critical role in driving the success of our organization. By focusing on frontend development and overseeing these critical initiatives, I helped ensure that our technology ecosystem was always at the highest possible standard.",
+      "summary": "Owned delivery for key web apps across Carlsberg’s ecosystem, co-managing CarlShop+ (B2B, €1B+ revenue) and leading frontend for CADI (in-house CRM), while mentoring developers and improving delivery practices.",
       "startDate": "2021-03",
       "endDate": "2022-12"
     },
     {
       "summary": "Selected achievements:",
       "highlights": [
-        "Co-managed the development of B2B eCommerce platform (€1bn+ revenue/year)",
-        "Architected and developed Malty Design System from the greenfield",
-        "Oversaw development and maintenance of in-house built CRM system leading a team of frontend developers."
+        "Co-managed the architecture and delivery of CarlShop+ (B2B, €1B+ revenue).",
+        "Led frontend for CADI CRM; ensured performance, data integrity, and security compliance.",
+        "Advanced Malty Design System and Lean Sign-up to streamline onboarding and UI consistency."
       ]
     },
     {
       "position": "Lead Frontend Developer",
-      "summary": "On a remote capacity, on a long term contract, I began work in January 2020 as part of the Carlsberg Group's Digital Team based in Lisbon, Portugal.<br/>Developing a suite of solutions for both internal and customer-facing use, we are working hard to deliver a Single-SPA, TypeScripted ReactJS, AWS-backed framework, with a fully automated GitHub Actions delivery (CI & CD) pipeline, as well as several TypeScripted ReactJS, and Vanilla JS (ES8) child-apps within.",
+      "summary": "Joined Carlsberg’s Digital Team (remote) to co-create an internal Single-SPA microfrontend platform with TypeScript/React on AWS, and to establish CI/CD automation via GitHub Actions.",
       "startDate": "2020-01",
       "endDate": "2021-03"
     },
     {
       "summary": "Selected achievements:",
       "highlights": [
-        "Co-created internal backoffice Single-SPA platform",
-        "Bolstered development platform by creating boilerplates",
-        "Kickstarted documentation of existing apps, and solutions"
+        "Co-created internal back-office Single-SPA platform with reusable boilerplates.",
+        "Implemented automated CI/CD pipelines with GitHub Actions.",
+        "Kickstarted documentation for existing apps and platform standards."
       ]
     },
     {
       "company": "Greygoo | Chicago, Illinois (Onsite)",
-      "summary": "In 2012, I brought an idea to life. I co-founded an organization called Greygoo, through which I helped some of the most renowned, high-performance organizations transform their businesses using web and mobile applications designed and developed by our tight-knit multi-disciplinary team, in addition to a number of external resources. We built alliances with premiere agencies across the medical, transportation, food and beverage, and numerous additional industries in order to deliver high-tech solutions that improved engagement and expanded outreach through our high-impact web development and business strategy skills. I directed all phases of each project lifecycle, from conception to deployment.",
       "position": "Co-founder and Principal",
       "startDate": "2012-03",
-      "endDate": "2019-06"
+      "endDate": "2019-06",
+      "summary": "Co-founded a digital studio delivering high-performance web and mobile applications for enterprise and public sector clients. Directed architecture, product strategy, and full-cycle delivery."
     },
     {
       "summary": "Selected achievements:",
       "highlights": [
-        "Partnered with GO GROUND, the official transportation agency for NCAA, building three web applications and two mobile applications for their use in executing events and serving customers.",
-        "Facilitated $200K contract with eventSpring in addition to six-figure budget for developing the platform.",
-        "Created wide range of mobile apps across various platforms, such as React Native and Ionic.",
-        "Contracted by clients across diverse spectrum of verticals, such as General Motors, Paulson Institute, Naperville Park District, and many more organizations as well as start-up businesses."
+        "Partnered with GO GROUND (NCAA) to deliver three web and two mobile applications for event operations.",
+        "Secured a $200K+ engagement with eventSpring; led technical direction and delivery.",
+        "Delivered cross-platform apps with React Native, Ionic, and custom frameworks for clients including General Motors, Paulson Institute, and Naperville Park District."
       ]
     },
     {
-      "company": "Opaso LLC — Self-employed | Chicago, Illinois (Remote)",
-      "summary": "Beginning late 2018 and contracted by Prizm Tech Group, I took a deep dive into the world Angular, working on a custom-built white-label Home Healthcare Management solution. As a Lead and Frontend Developer, I lead a distributed team from UX design, Database Schema and UI Implementation to deliverables. Leading all technical aspects of the project, I managed the day-to-day client relations, as well as Development Team goals, tasks and deliverables.",
+      "company": "Opaso LLC — Self-employed | Chicago, Illinois (Remote)"
+    },
+    {
       "position": "Senior Frontend Developer",
+      "summary": "Contracted by Prizm Tech Group to lead Frontend Architecture and delivery of a white-label Home Healthcare Management platform; combined technical leadership with client and team coordination.",
       "startDate": "2018-12",
       "endDate": "2019-06"
     },
     {
       "summary": "Selected achievements:",
       "highlights": [
-        "Led a distributed team through UX design, database schema, and UI implementation for a custom-built Home Healthcare Management solution.",
-        "Successfully managed client relations and ensured the timely delivery of project goals, tasks, and deliverables.",
-        "Demonstrated expertise in Angular, contributing to the development of a white-label solution for a leading technology group.",
-        "Technical lead and frontend developer, providing leadership and guidance throughout the project's development cycle."
+        "Led a distributed team from UX and data modeling to UI implementation and delivery.",
+        "Managed client relations and sprint execution for on-time deployments.",
+        "Designed a scalable Angular/TypeScript architecture with reusable components and documentation."
       ]
     },
     {
-      "company": "CRO Metrics | Chicago, Illinois (Remote)",
-      "summary": "I was contracted by the engineering team at Cro Metrics to create, evaluate, and test various models for their clients. In doing this, I collaborated with team members from different departments and projects to ensure successful delivery. Serving on a decentralized team has its challenges, but using my effective interpersonal skills alongside my natural affinity for team building, I was able to maintain consistent communication with project managers and deliver phenomenal results for all of the projects to which I had the pleasure of contributing.",
+      "company": "Cro Metrics | Chicago, Illinois (Remote)"
+    },
+    {
       "position": "A/B Testing Developer",
+      "summary": "Built and ran front-end experiments for CRO programs, collaborating with product/design/analytics to improve engagement and conversion.",
       "startDate": "2018-06",
       "endDate": "2018-11"
     },
     {
       "summary": "Selected achievements:",
       "highlights": [
-        "Successfully implemented conversion ratio optimization to engage end users by developing simple, elegant user experiences that exemplified application design principles.",
-        "Shared updates, relayed impediments, and provided intellect through JIRA and Trello, recording all client notes, technical and strategic learnings through Quip documentation, in a highly process-driven workflow."
+        "Developed lightweight, high-performance test variants to improve conversion and UX.",
+        "Documented learnings and decisions via JIRA, Trello, and Quip for process transparency."
       ]
     },
     {
-      "company": "Upshot | Chicago, Illinois (Onsite)",
-      "summary": "When Upshot, a fast-paced marketing agency, contacted me to help coordinate their high-priority digital development projects, I dove right in. I developed the frontend for a range of technical projects, and regardless of the scope or difficulty, I delivered results with impeccable timing and quality.",
+      "company": "Upshot | Chicago, Illinois (Onsite)"
+    },
+    {
       "position": "Freelance Web Developer",
+      "summary": "Delivered frontend for high-priority agency initiatives under tight timelines, collaborating with designers and strategists to meet brand and performance standards.",
       "startDate": "2011-04",
       "endDate": "2012-04",
       "highlights": [
-        "Led development for a six-month project with six-figure budget on behalf of Hilton Hotels, creating and developing collaborative content generation, management, and presentation tool for internal use.",
-        "Expertly designed and developed micro-sites, landing pages, promotional sites, and highly complex web applications for small brands as well as Fortune 500 companies, such as Anheuser-Busch and Omron."
+        "Led frontend for a six-month internal platform at Hilton Hotels (content creation & management).",
+        "Built responsive, accessible microsites and web apps for clients including Anheuser-Busch and Omron."
       ]
     },
     {
-      "summary": "Selected achievements:",
-      "highlights": [
-        "Led development for a six-month project with six-figure budget on behalf of Hilton Hotels, creating and developing collaborative tool for internal use that facilitated content generation, management, and presentation.",
-        "Expertly designed and performed frontend development for micro-sites, landing pages, promotional sites, and highly complex web applications for small brands as well as Fortune 500 companies, such as Anheuser-Busch and Omron."
-      ]
+      "company": "Nokia Networks | United States (Traveling)"
     },
     {
-      "company": "Nokia Networks | United States (Traveling)",
-      "summary": "For ten fruitful years, I managed telecommunications projects for one of the largest organizations in the industry. In doing so, I directed small engineering teams and third-party vendors to accomplish timely, successful roll-outs, and I built strong business relationships with our long list of high-profile clients.",
       "position": "Contracting Engineer",
+      "summary": "Managed nationwide telecommunications deployments, directing engineering teams and vendors to deliver high-quality rollouts and maintain client relationships.",
       "startDate": "2001-10",
       "endDate": "2011-03"
     },
     {
       "summary": "Selected achievements:",
       "highlights": [
-        "Traveled nationally on behalf of Nokia for high-performance clients such as AT&T, T-Mobile, Alascom (AT&T Alaska), and AT&T Hawaii.",
-        "Managed $10M project for T-Mobile aimed to establish UMTS (4G) functionality for the first time in the United States for the company; oversaw Nokia RF Engineering team, as well as 20+ field crews, surveying cell-sites to assess and record UMTS expansion feasibility."
+        "Delivered large-scale rollouts for AT&T, T-Mobile, and Alascom (AT&T Alaska).",
+        "Led a $10M T-Mobile program establishing UMTS (4G) capability; managed 20+ field crews and RF teams across multi-state surveys."
       ]
     }
   ],
@@ -290,7 +288,36 @@
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["TypeScript", "Node.js", "Micro Frontends"]
+      "keywords": ["TypeScript", "Node.js", "ECMAScript", "Micro Frontends"]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Angular",
+        "React Native",
+        "Gatsby",
+        "Progressive Web Apps",
+        "SPA",
+        "Server-Side Rendering",
+        "Static Site Generation",
+        "Headless CMS",
+        "GraphQL",
+        "REST",
+        "Service Workers"
+      ]
+    },
+    {
+      "name": "Design Systems",
+      "level": "Master",
+      "keywords": ["Figma", "Storybook", "Design Tokens", "Inner-sourcing", "Governance"]
+    },
+    {
+      "name": "Developer Experience",
+      "level": "Master",
+      "keywords": ["CI/CD Optimization", "GitHub Actions", "CodeQL", "Onboarding Automation", "Tooling Workflows", "DX Strategy"]
     },
     {
       "name": "AWS",
@@ -300,56 +327,22 @@
     {
       "name": "GitHub",
       "level": "Advanced",
-      "keywords": ["GitHub Actions", "Pages", "Packages", "GHAS"]
-    },
-    {
-      "name": "Design Systems",
-      "level": "Master",
-      "keywords": ["Figma", "Storybook", "Supernova", "Design Tokens"]
-    },
-    {
-      "name": "Developer Experience",
-      "level": "Master",
-      "keywords": ["CI/CD Optimization", "Onboarding Automation", "Inner-sourcing", "Tooling Workflows", "DX Strategy"]
-    },
-    {
-      "name": "Agile",
-      "level": "Advanced",
-      "keywords": ["Scrum", "KanBan", "Jira", "Confluence"]
+      "keywords": ["GitHub Actions", "Pages", "Packages", "GHAS", "Branch Protections"]
     },
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["HTML5", "Web Components", "HTML Modules", "Canvas"]
+      "keywords": ["HTML5", "Web Components", "HTML Modules", "Canvas", "Semantic HTML"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Sass", "Less", "CSS-in-JS"]
+      "keywords": ["Tailwind CSS", "Sass", "Less", "CSS-in-JS"]
     },
     {
       "name": "Testing",
       "level": "Basic",
       "keywords": ["Jest", "Cypress", "React Testing Library"]
-    },
-    {
-      "name": "Frontend Development",
-      "level": "Master",
-      "keywords": [
-        "React",
-        "Angular",
-        "Gatsby",
-        "Next.js",
-        "Progressive Web Apps",
-        "SPA",
-        "Micro Frontends",
-        "Server-Side Rendering",
-        "Static Site Generation",
-        "Headless CMS",
-        "GraphQL",
-        "REST",
-        "Service Workers"
-      ]
     }
   ],
   "languages": [
@@ -359,31 +352,17 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent (C2)"
+      "fluency": "Bilingual Proficiency (C2)"
     }
   ],
   "interests": [
     {
       "name": "Saltwater Aquariums",
-      "keywords": [
-        "Coral",
-        "Reef",
-        "Marine",
-        "Invertebrates",
-        "Fishkeeping",
-        "Clownfish"
-      ]
+      "keywords": ["Coral", "Reef", "Marine", "Invertebrates", "Fishkeeping", "Clownfish"]
     },
     {
-      "name": "DYI IoT Maker",
-      "keywords": [
-        "Raspberry Pi",
-        "Arduino",
-        "Magic Mirror",
-        "OpenHAB",
-        "Home Automation",
-        "Homebridge"
-      ]
+      "name": "DIY IoT Maker",
+      "keywords": ["Raspberry Pi", "Arduino", "Magic Mirror", "OpenHAB", "Home Automation", "Homebridge"]
     },
     {
       "name": "Crypto",
@@ -404,12 +383,12 @@
       "reference": "<p>Working alongside Vicente on various projects over the past two years has been an absolute pleasure. As a Solutions Architect, he consistently shows dedication in delivering excellent solutions that meet our business needs while valuing the team's expertise every step of the way.<p/><p>Besides his technical skills, Vicente is a team player who creates a positive and collaborative work environment. He consistently goes above and beyond to support colleagues and shares his expertise within our company's internal community.<p/><p>I highly recommend Vicente for any project in need of a talented and dedicated Solutions Architect. He brings abundant expertise, professionalism, and enthusiasm to every project.<p/>"
     },
     {
-      "reference": "<p>Collaborating with Vicente Opaso, the Solutions Architect and Lead Developer for the Malty Design System at Carlsberg Group, was a testament to his extensive expertise and professionalism. Vicente brought a wealth of knowledge to our work on the Malty design system. His deep expertise and unwavering professionalism were evident throughout our collaboration. Vicente's collaborative approach and ability to align technical intricacies with design aspirations made a significant impact, ensuring the scalability and success of the project. His commitment to excellence and adeptness in fostering collaboration make him a valuable asset in delivering robust solutions.<p/>",
-      "name": "<a href='https://www.linkedin.com/in/tmota-design'>Thiago Mota</a> | Senior Product Designer @ Carlsberg Group"
+      "name": "<a href='https://www.linkedin.com/in/tmota-design'>Thiago Mota</a> | Senior Product Designer @ Carlsberg Group",
+      "reference": "<p>Collaborating with Vicente Opaso, the Solutions Architect and Lead Developer for the Malty Design System at Carlsberg Group, was a testament to his extensive expertise and professionalism. Vicente brought a wealth of knowledge to our work on the Malty Design System. His deep expertise and unwavering professionalism were evident throughout our collaboration. Vicente's collaborative approach and ability to align technical intricacies with design aspirations made a significant impact, ensuring the scalability and success of the project. His commitment to excellence and adeptness in fostering collaboration make him a valuable asset in delivering robust solutions.<p/>"
     },
     {
       "name": "<a href='https://www.linkedin.com/in/brunomptorres'>Bruno Torres</a> | Senior Frontend Developer @ Carlsberg Group",
-      "reference": "<p>It's with genuine pleasure that I share my admiration for Vicente, the incredibly talented Frontend Solutions Architect I had the chance to work with at Carlsberg. Working alongside him has been more than just a professional experience; it's been a journey of growth and camaraderie.<p/><p>Vicente stands out for his technical prowess and his genuine commitment to building a tight-knit front-end community. Under his guidance, I've felt a sense of trust and support beyond the usual workplace dynamic. Vicente's efforts to create a collaborative environment have made our team feel like a family, fostering an atmosphere where everyone's contributions are valued.<p/><p>As a Frontend Developer, I've greatly appreciated Vicente's approach to problem-solving and his emphasis on sharing knowledge. His mentorship has elevated my technical skills and made our workplace a positive and uplifting space.<p/><p>I wholeheartedly recommend Vicente Opaso to anyone looking for more than just a leader – someone who values humanity and teamwork as much as technical excellence.<p/>"
+      "reference": "<p>It's with genuine pleasure that I share my admiration for Vicente, the incredibly talented Frontend Solutions Architect I had the chance to work with at Carlsberg. Working alongside him has been more than just a professional experience; it's been a journey of growth and camaraderie.<p/><p>Vicente stands out for his technical prowess and his genuine commitment to building a tight-knit Frontend Community. Under his guidance, I've felt a sense of trust and support beyond the usual workplace dynamic. Vicente's efforts to create a collaborative environment have made our team feel like a family, fostering an atmosphere where everyone's contributions are valued.<p/><p>As a Frontend Developer, I've greatly appreciated Vicente's approach to problem-solving and his emphasis on sharing knowledge. His mentorship has elevated my technical skills and made our workplace a positive and uplifting space.<p/><p>I wholeheartedly recommend Vicente Opaso to anyone looking for more than just a leader – someone who values humanity and teamwork as much as technical excellence.<p/>"
     }
   ],
   "publications": [
