@@ -1,68 +1,64 @@
-<b>I’m a Web Engineering Manager, Frontend Architect, and Technical Leader with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern web architecture, design systems, and developer experience—and I thrive at the intersection of engineering execution and strategic impact.<b/>
-<br/>
-<br/>
-<b>Currently at Nexthink, I lead the team behind nexthink.com, shaping our composable web platform to support brand, marketing, and product strategy. Throughout my career, I’ve delivered enterprise-grade systems across industries—from mission-critical aviation tools to global e-commerce platforms—always with a focus on performance, accessibility, and long-term maintainability.<b/>
-<br/>
-<br/>
-<b>Whether architecting design systems, scaling engineering teams, or leading Communities of Practice, I bring a structured approach to solving complex problems—and a strong belief in engineering culture as a driver of business success.<b/>
+I’m a Web Engineering Manager, Frontend Architect, and Technical Leader with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern web architecture, design systems, and developer experience—and I thrive at the intersection of engineering execution and strategic impact.
+
+Currently at **[Nexthink](https://nexthink.com)**, I lead the team behind nexthink.com, shaping our composable web platform to support brand, marketing, and product strategy. My role involves cross-functional leadership, architecture ownership, and continuous improvement across the entire web delivery pipeline.
+
+Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected design systems, modernized global B2B platforms, and led enterprise-scale Developer Experience transformations. I’m also a strong advocate for engineering culture—founding and leading Communities of Practice that connect grassroots innovation with strategic delivery.
 
 &nbsp;
 
 ## Core Competencies
 
-- <b>Frontend Architecture & Composable Web Platforms</b><br/>
-Building scalable UI architectures and modern digital platforms, including corporate web ecosystems.
+- **Frontend Architecture & Composable Platforms**  
+  Building scalable UI architectures and modern web ecosystems.
 
-- <b>Developer Experience & CI/CD Optimization</b><br/>
-Driving productivity through automated pipelines, tooling, and code quality improvements.
+- **Developer Experience (DevEx) & CI/CD**  
+  Driving productivity through automation, streamlined tooling, and DX culture.
 
-- <b>Community of Practice Leadership</b><br/>
-Creating collaborative engineering cultures through CoPs, task forces, and governance.
+- **Design Systems & Accessibility**  
+  Architecting scalable, inclusive UI libraries for enterprise adoption.
 
-- <b>Cross-functional Product Delivery</b><br/>
-Leading agile teams across design, development, and business to deliver global platforms.
+- **Community of Practice Leadership**  
+  Scaling knowledge through shared practices and cross-functional collaboration.
+
+- **Cross-functional Delivery**  
+  Aligning engineering, product, design, and compliance across teams.
 
 
 &nbsp;
 
 ## Professional Highlights
 
-- <b>Nexthink | Manager of Web Engineering</b><br/>
-Currently leading the team behind [nexthink.com](https://nexthink.com), Nexthink’s primary digital platform for brand, marketing, and product strategy. Responsible for team leadership, architecture, and delivery of a composable site built with Next.js, GraphQL, Tailwind CSS, and Hygraph CMS. Driving cross-functional collaboration and continuous improvement across UX, dev, and marketing.
+- **Nexthink | Manager of Web Engineering**  
+  Leading the architecture and team behind [nexthink.com](https://nexthink.com), a composable digital platform using Next.js, GraphQL, Tailwind, and Hygraph CMS. Driving frontend performance, accessibility, and strategic enablement for marketing and brand.
 
-- <b>EUROCONTROL | Technical Application Owner</b><br/>
-Owned system governance and frontend architecture for mission-critical aviation systems. Delivered compliance workflows and microfrontend frameworks for the NMOC, streamlining operations and reducing risk.
+- **EUROCONTROL | Technical Application Owner**  
+  Owned frontend system governance for mission-critical aviation platforms. Delivered design system strategy, microfrontend frameworks, and Developer Experience initiatives.
 
-- <b>Carlsberg Group | Frontend Solutions Architect</b><br/>
-Led architecture for customer acquisition platforms and B2B products across global markets. Oversaw global compliance tooling (Cookie Consent, Age Gateways), and championed scalable DX practices.
+- **Carlsberg Group | Frontend Solutions Architect**  
+  Oversaw global architecture for B2B platforms and customer acquisition tools. Led the Malty Design System, drove DX and CI/CD practices, and founded the company’s first frontend CoP.
 
-- <b>Malty Design System | Architect & Lead Developer</b><br/>
-Designed and scaled Carlsberg’s open-source React-based design system. Introduced contribution governance and accessibility practices to support long-term reuse and consistency.
+- **Greygoo Media | Co-Founder & Technical Director**  
+  Delivered high-performance web/mobile solutions for GM, Paulson Institute, NCAA partners, and more—leading projects across public and private sectors.
 
-- <b>Community of Practice Leadership</b><br/>
-Founded Carlsberg’s first Frontend Engineering CoP. Launched steering groups to connect grassroots innovation with strategic goals. Published articles on CoP-driven innovation and design systems.
-
-- <b>Greygoo Media | Co-Founder & Principal</b><br/>
-Ran a multidisciplinary digital studio delivering web/mobile solutions for clients like GM, Paulson Institute, and NCAA partners using Angular, React, and Ionic.
 
 &nbsp;
 
 ## Key Achievements
 
-- <b>Enterprise Web Delivery</b><br/>
-Led teams delivering two B2B platforms with €1B+ annual turnover. Architected scalable systems with CI/CD and GitHub Actions.
+- **Enterprise Web Delivery**  
+  Led teams powering platforms with €1B+ annual turnover.
 
-- <b>Composable Platform Leadership</b><br/>
-Own the strategy and execution for Nexthink’s web platform, ensuring its alignment with brand, performance, and growth objectives.
+- **Composable Platform Leadership**  
+  Architected and scaled Nexthink’s modern composable marketing platform.
 
-- <b>Design System Innovation</b><br/>
-Architected the Malty Design System—foundational to Carlsberg’s frontend ecosystem. Delivered comprehensive documentation and governance.
+- **Design System Innovation**  
+  Built and maintained Malty Design System; led EDS at EUROCONTROL.
 
-- <b>Developer Experience Transformation</b><br/>
-Modernized DX across organizations by introducing automation, feature toggles, and documentation workflows.
+- **Developer Experience Transformation**  
+  Standardized pipelines, inner sourcing, and onboarding across orgs.
 
-- <b>Cross-Functional Governance</b><br/>
-Enabled ground-up innovation through CoPs and task forces—connecting engineering culture with product execution.
+- **Engineering Culture Building**  
+  Founded multiple Communities of Practice; enabled bottom-up innovation.
 
 &nbsp;
 
@@ -89,25 +85,3 @@ Enabled ground-up innovation through CoPs and task forces—connecting engineeri
 > 
 > — ***[Peter Birkholm-Buch](https://www.linkedin.com/in/peterbirkholmbuch) | Director of Software Engineering in Growth Products & Data @ [Carlsberg Group](https://carlsberggroup.com)***
 &nbsp;
-
-&nbsp;
-> Working alongside Vicente on various projects over the past two years has been an absolute pleasure. As a Solutions Architect, he consistently shows dedication in delivering excellent solutions that meet our business needs while valuing the team's expertise every step of the way.
-> Besides his technical skills, Vicente is a team player who creates a positive and collaborative work environment. He consistently goes above and beyond to support colleagues and shares his expertise within our company's internal community.
-> I highly recommend Vicente for any project in need of a talented and dedicated Solutions Architect. He brings abundant expertise, professionalism, and enthusiasm to every project.
-> 
-> — ***[Samuel Silva](https://www.linkedin.com/in/samuel-silva-olv) | Senior Frontend Engineer at Software Engineering in Growth Products & Data @ [Carlsberg Group](https://carlsberggroup.com)***
-&nbsp;
-
-&nbsp;
-> Collaborating with Vicente Opaso, the Solutions Architect and Lead Developer for the Malty Design System at Carlsberg Group, was a testament to his extensive expertise and professionalism. Vicente brought a wealth of knowledge to our work on the Malty design system. His deep expertise and unwavering professionalism were evident throughout our collaboration. Vicente's collaborative approach and ability to align technical intricacies with design aspirations made a significant impact, ensuring the scalability and success of the project. His commitment to excellence and adeptness in fostering collaboration make him a valuable asset in delivering robust solutions.
-> 
-> — ***[Thiago Mota](https://www.linkedin.com/in/tmota-design) | User Experience Designer at Software Engineering in Growth Products & Data @ [Carlsberg Group](https://carlsberggroup.com)***
-&nbsp;
-
-&nbsp;
-> It's with genuine pleasure that I share my admiration for Vicente, the incredibly talented Frontend Solutions Architect I had the chance to work with at Carlsberg. Working alongside him has been more than just a professional experience; it's been a journey of growth and camaraderie.
-> Vicente stands out for his technical prowess and his genuine commitment to building a tight-knit front-end community. Under his guidance, I've felt a sense of trust and support beyond the usual workplace dynamic. Vicente's efforts to create a collaborative environment have made our team feel like a family, fostering an atmosphere where everyone's contributions are valued.
-> As a Frontend Developer, I've greatly appreciated Vicente's approach to problem-solving and his emphasis on sharing knowledge. His mentorship has elevated my technical skills and made our workplace a positive and uplifting space.
-> I wholeheartedly recommend Vicente Opaso to anyone looking for more than just a leader – someone who values humanity and teamwork as much as technical excellence.
-> 
-> — ***[Bruno Torres](https://www.linkedin.com/in/brunomptorres) | Senior Frontend Developer at Software Engineering in Growth Products & Data @ [Carlsberg Group](https://carlsberggroup.com)***
