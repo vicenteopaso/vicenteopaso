@@ -1,8 +1,8 @@
-I’m a Web Engineering Manager, Frontend Architect, and Technical Leader with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern web architecture, design systems, and developer experience—and I thrive at the intersection of engineering execution and strategic impact.
+I’m a **Web Engineering Manager**, **Frontend Architect**, and **Technical Leader** with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern **Frontend Architecture**, **Design Systems**, and **Developer Experience** (DevEx) — and I thrive at the intersection of engineering execution and strategic impact.
 
-Currently at **[Nexthink](https://nexthink.com)**, I lead the team behind nexthink.com, shaping our composable web platform to support brand, marketing, and product strategy. My role involves cross-functional leadership, architecture ownership, and continuous improvement across the entire web delivery pipeline.
+Currently at **Nexthink**, I lead the team behind [nexthink.com](https://nexthink.com), shaping our composable web platform to support brand, marketing, and product strategy. My role involves cross-functional leadership, architecture ownership, and continuous improvement across the entire web delivery pipeline.
 
-Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected design systems, modernized global B2B platforms, and led enterprise-scale Developer Experience transformations. I’m also a strong advocate for engineering culture—founding and leading Communities of Practice that connect grassroots innovation with strategic delivery.
+Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected Design Systems, modernized global B2B platforms, and led enterprise-scale Developer Experience transformations. I’m also a strong advocate for engineering culture — founding and leading Communities of Practice that connect grassroots innovation with strategic delivery.
 
 &nbsp;
 
@@ -32,7 +32,7 @@ Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected design sys
   Leading the architecture and team behind [nexthink.com](https://nexthink.com), a composable digital platform using Next.js, GraphQL, Tailwind, and Hygraph CMS. Driving frontend performance, accessibility, and strategic enablement for marketing and brand.
 
 - **EUROCONTROL | Technical Application Owner**  
-  Owned frontend system governance for mission-critical aviation platforms. Delivered design system strategy, microfrontend frameworks, and Developer Experience initiatives.
+  Owned frontend system governance for mission-critical aviation platforms. Delivered Design System strategy, microfrontend frameworks, and Developer Experience initiatives.
 
 - **Carlsberg Group | Frontend Solutions Architect**  
   Oversaw global architecture for B2B platforms and customer acquisition tools. Led the Malty Design System, drove DX and CI/CD practices, and founded the company’s first frontend CoP.
@@ -84,4 +84,8 @@ Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected design sys
 > I highly recommend Vicente for his leadership, creativity, and exceptional technical skills. He would be a tremendous asset to any team.
 > 
 > — ***[Peter Birkholm-Buch](https://www.linkedin.com/in/peterbirkholmbuch) | Director of Software Engineering in Growth Products & Data @ [Carlsberg Group](https://carlsberggroup.com)***
+
 &nbsp;
+
+### Let’s Connect
+[https://opa.so/](https://opa.so) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/vicenteopaso) &nbsp;|&nbsp; [X](https://x.com/vicenteopaso)

@@ -4,28 +4,27 @@ layout: home
 
 ## Core Focus Areas
 
-- #### Frontend Architecture & Composable Platforms  
-  I design scalable, maintainable frontend systems using modern frameworks and composable architecture—whether for marketing platforms like [nexthink.com](https://nexthink.com) or design systems like Malty.
+- #### Frontend Architecture & Composable Platforms
+  I design and scale modern frontend ecosystems using composable architecture and frameworks like Next.js and GraphQL—supporting marketing, product, and brand strategy for platforms such as [nexthink.com](https://nexthink.com) and enterprise Design Systems like Malty.
 
-- #### Design Systems & UI Consistency  
-  From foundational systems like EDS (EUROCONTROL) to scalable component libraries like Malty (Carlsberg), I build and lead initiatives that ensure accessible, consistent UI across products and teams.
+- #### Design Systems & UI Consistency
+  From foundational initiatives like EDS (EUROCONTROL) to enterprise-grade component libraries like Malty (Carlsberg), I architect and lead Design System programs that drive accessibility, consistency, and design-to-code alignment across products and teams.
 
-- #### Developer Experience (DevEx) & CI/CD  
-  I implement automated pipelines, onboarding flows, and AI-enhanced tooling to streamline delivery and reduce friction—improving quality, velocity, and team morale.
+- #### Developer Experience (DevEx) & CI/CD
+  I focus on automation and workflow optimization—implementing CI/CD pipelines, onboarding frameworks, and AI-assisted tooling to improve delivery velocity, quality, and developer satisfaction.
 
-- #### Leadership & Community of Practice (CoP)  
-  I foster knowledge sharing, mentorship, and alignment through cross-functional CoPs that drive standards, governance, and continuous improvement across teams.
+- #### Leadership & Communities of Practice (CoP)
+  I foster technical alignment, mentorship, and cross-functional collaboration through CoPs that scale shared practices, governance, and innovation across global teams.
 
-- #### Cross-Functional Collaboration  
-  I work closely with design, product, compliance, and brand teams to ensure architectural alignment, business value, and operational readiness in every deliverable.
+- #### Cross-Functional Collaboration
+  I work closely with design, product, marketing, and compliance stakeholders to ensure architectural integrity, business impact, and long-term maintainability in every deliverable.
 
-- #### Accessibility & Performance  
-  I ensure platforms meet WCAG 2.1 standards and optimize for SEO, performance, and cross-browser reliability—making digital experiences inclusive and discoverable.
+- #### Accessibility & Performance
+  I champion inclusive, high-performance user experiences—meeting WCAG 2.1 standards while optimizing for SEO, responsiveness, and cross-browser reliability.
 
-- #### Documentation & Knowledge Management  
-  I maintain architectural documentation across systems like Confluence and SharePoint to ensure traceability, compliance, and onboarding readiness.
+- #### Documentation & Knowledge Management
+  I maintain architectural and governance documentation through platforms like Confluence and SharePoint—supporting compliance, traceability, and seamless onboarding across teams.
 
----
 
 ## Professional Highlights
 
@@ -49,16 +48,16 @@ layout: home
 ## Impact Areas
 
 - <b>Composable Frontend Platforms</b><br/>
-  Architecting modern frontend systems using microfrontends, Next.js, and component libraries aligned with business goals.
+  Architecting modular, scalable frontend systems using microfrontends, Design Systems, and composable frameworks aligned with strategic business goals.
 
-- <b>Scalable Design Systems</b><br/>
-  Driving governance, accessibility, and adoption through open tooling, automated pipelines, and CoP-led contribution models.
+- <b>Enterprise Design Systems</b><br/>
+  Building and governing accessible, reusable component libraries supported by automation, open tooling, and cross-team contribution models.
 
-- <b>Developer Experience</b><br/>
-  Automating CI/CD, onboarding, documentation, and inner-sourcing to reduce friction and improve delivery velocity.
+- <b>Developer Experience (DevEx)</b><br/>
+  Streamlining engineering workflows through CI/CD automation, documentation, and inner-sourcing to reduce friction and accelerate delivery.
 
 - <b>Engineering Leadership</b><br/>
-  Mentoring engineers, leading CoPs, and shaping culture through clarity, coaching, and collaborative frameworks.
+  Leading distributed teams, mentoring engineers, and scaling culture through structure, coaching, and collaborative communities of practice.
 
 - <b>Enterprise Alignment</b><br/>
-  Bridging design, product, compliance, and brand to ensure scalable, strategic, and resilient outcomes.
+  Bridging design, product, marketing, and compliance to deliver resilient, performant, and business-aligned digital ecosystems.
