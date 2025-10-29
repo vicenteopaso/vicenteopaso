@@ -3,6 +3,21 @@ layout: default
 ---
 
 {% assign cv = site.data.cv %}
+
+<!-- Structured Data / JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Curriculum Vitae – Vicente Opaso",
+  "about": "Professional experience and achievements of Vicente Opaso, Web Engineering Manager at Nexthink",
+  "creator": {
+    "@type": "Person",
+    "name": "Vicente Opaso"
+  }
+}
+</script>
+
 {% include cv/intro.html %}
 
 <main id="main" class="page-content" aria-label="Content">
