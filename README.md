@@ -46,8 +46,8 @@ Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected **Design S
 - **Distributed Leadership**  
   Leading a cross-continental engineering team, aligning global development, design, and content workflows.
 
-- **Composable Platform Excellence**  
-  Architected Nexthink’s modern web ecosystem for performance, maintainability, and growth.
+- **Composable Platform Leadership**  
+  Architected and scaled Nexthink’s modern composable corporate website.
 
 - **Design System Innovation**  
   Built and scaled enterprise-grade design systems (EDS & Malty) with strong governance and adoption frameworks.
@@ -77,10 +77,10 @@ Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected **Design S
 &nbsp;
 
 &nbsp;
-> It has been a privilege to have Vicente as part of my Leadership Team at Carlsberg Group. As our Frontend Solutions Architect, Vicente played a critical role in shaping our frontend strategy, notably through the development of the Malty Design System, which has transformed how we approach global frontend solutions.
-> His technical expertise in JavaScript, TypeScript, React, and Frontend technologies, combined with his leadership in establishing a Community of Practice, has greatly improved the developer experience and code quality across the organization. Vicente's contributions were instrumental in driving our e-commerce growth to over €1 billion annually.
-> I highly recommend Vicente for his leadership, creativity, and exceptional technical skills. He would be a tremendous asset to any team.
-> 
+>It has been a privilege to have Vicente as part of my Leadership Team at Carlsberg Group. As our Frontend Solutions Architect, Vicente played a critical role in shaping our frontend strategy, notably through the development of the Malty Design System, which has transformed how we approach global frontend solutions.
+>His technical expertise in JavaScript, TypeScript, React, and Frontend technologies, combined with his leadership in establishing a Community of Practice, has greatly improved the developer experience and code quality across the organization. Vicente's contributions were instrumental in driving our e-commerce growth to over €1 billion annually.
+>I highly recommend Vicente for his leadership, creativity, and exceptional technical skills. He would be a tremendous asset to any team.
+>
 > — ***[Peter Birkholm-Buch](https://www.linkedin.com/in/peterbirkholmbuch) | Director of Software Engineering in Growth Products & Data @ [Carlsberg Group](https://carlsberggroup.com)***
 
 &nbsp;
