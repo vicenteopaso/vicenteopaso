@@ -32,17 +32,18 @@ layout: home
   I lead the team behind Nexthink’s corporate marketing website [nexthink.com](https://nexthink.com), owning its architecture and delivery on a modern, composable stack (Next.js, GraphQL, Tailwind CSS, Hygraph CMS, Vercel). I manage a distributed, cross-functional team, strengthen DevEx through CI/CD automation, CodeQL, Copilot, branch protections, and PR workflows, and partner closely with design and marketing to improve performance, accessibility, and SEO across six locales.
 
 - <b>Design System & DevEx Lead | EUROCONTROL</b><br/>
-  Defined strategy and governance for the EUROCONTROL Design System (EDS) and led domain-wide Developer Experience improvements—modernizing CI/CD workflows, onboarding, and documentation in a safety-critical aviation environment.
+  Defined the strategy and governance for the EUROCONTROL Design System (EDS) and led domain-wide Developer Experience initiatives—optimizing CI/CD, onboarding, and cross-platform architecture in a safety-critical aviation environment.
 
 - <b>Design System Architect & CoP Founder | Carlsberg Group</b><br/>
-  Architected and scaled the Malty Design System, integrating Figma, Storybook, and automated pipelines into a cohesive global design-to-code workflow. Founded Carlsberg’s first Frontend Community of Practice, driving shared tooling, code reuse, and engineering culture across markets.
+  Architected and maintained the Malty Design System, integrating Figma, Storybook, and CI/CD pipelines into a global UI ecosystem. Founded and led the Frontend Community of Practice to scale shared tooling, component reuse, and DevEx strategy across markets.
 
-- <b>Frontend Solutions Architect | Carlsberg Group</b><br/>
-  Designed and delivered global B2B and marketing platforms exceeding €1B in annual turnover. Implemented compliance frameworks, performance optimizations, and DevEx initiatives that improved reliability, maintainability, and delivery speed across product lines.
+- <b>Frontend Architect | Carlsberg Group</b><br/>
+  Designed systems powering €1B+ B2B platforms, implemented global compliance frameworks, and modernized frontend delivery pipelines across markets.
 
 - <b>Co-Founder & Technical Director | Greygoo</b><br/>
-  Led architecture and delivery for clients including GM, NCAA, and Nokia—building cross-platform digital solutions and managing multidisciplinary teams to deliver scalable, high-impact web and mobile experiences.
+  Led architecture and delivery for clients like GM, NCAA, and Nokia—building cross-platform applications and managing distributed teams across industries.
 
+---
 
 ## Impact Areas
 
