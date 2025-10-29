@@ -1,70 +1,68 @@
 I’m a **Web Engineering Manager**, **Frontend Architect**, and **Technical Leader** with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern **Frontend Architecture**, **Design Systems**, and **Developer Experience** (DevEx) — and I thrive at the intersection of engineering execution and strategic impact.
 
-Currently at **Nexthink**, I lead the team behind [nexthink.com](https://nexthink.com), shaping our composable web platform to support brand, marketing, and product strategy. My role involves cross-functional leadership, architecture ownership, and continuous improvement across the entire web delivery pipeline.
+Currently at **Nexthink**, I lead a **distributed Web Engineering team** responsible for [nexthink.com](https://nexthink.com), shaping our **composable web platform** to support global brand, marketing, and product strategy. My role blends **cross-functional leadership**, **technical governance**, and **continuous improvement**, ensuring a seamless bridge between design, engineering, and marketing teams. I also drive **DevEx initiatives**, focusing on CI/CD automation, code quality, and performance optimization across time zones.
 
-Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected Design Systems, modernized global B2B platforms, and led enterprise-scale Developer Experience transformations. I’m also a strong advocate for engineering culture — founding and leading Communities of Practice that connect grassroots innovation with strategic delivery.
+Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected **Design Systems**, modernized **global B2B platforms**, and led **enterprise-scale Developer Experience transformations**. I’m a strong advocate for **engineering culture**, having founded and led **Communities of Practice (CoPs)** that align grassroots innovation with strategic delivery.
 
 &nbsp;
 
 ## Core Competencies
 
 - **Frontend Architecture & Composable Platforms**  
-  Building scalable UI architectures and modern web ecosystems.
+  Designing scalable, maintainable systems aligned with brand and business goals.
 
-- **Developer Experience (DevEx) & CI/CD**  
-  Driving productivity through automation, streamlined tooling, and DX culture.
+- **Developer Experience (DevEx) & CI/CD Automation**  
+  Enhancing productivity through automation, governance, and AI-assisted tooling.
 
 - **Design Systems & Accessibility**  
-  Architecting scalable, inclusive UI libraries for enterprise adoption.
+  Architecting inclusive, enterprise-grade UI libraries for global adoption.
 
-- **Community of Practice Leadership**  
-  Scaling knowledge through shared practices and cross-functional collaboration.
+- **Cross-Functional & Distributed Leadership**  
+  Building high-performing teams that collaborate effectively across disciplines and time zones.
 
-- **Cross-functional Delivery**  
-  Aligning engineering, product, design, and compliance across teams.
-
+- **Community & Culture Building**  
+  Fostering knowledge-sharing, mentorship, and shared ownership through CoPs and internal leadership initiatives.
 
 &nbsp;
 
 ## Professional Highlights
 
 - **Nexthink | Manager of Web Engineering**  
-  Leading the architecture and team behind [nexthink.com](https://nexthink.com), a composable digital platform using Next.js, GraphQL, Tailwind, and Hygraph CMS. Driving frontend performance, accessibility, and strategic enablement for marketing and brand.
+  Leading the architecture and delivery of [nexthink.com](https://nexthink.com), a composable platform built with Next.js, GraphQL, Tailwind, and Hygraph CMS. Driving DevEx excellence, automation, and cross-functional collaboration across distributed teams.
 
 - **EUROCONTROL | Technical Application Owner**  
-  Owned frontend system governance for mission-critical aviation platforms. Delivered Design System strategy, microfrontend frameworks, and Developer Experience initiatives.
+  Directed frontend governance and modernization for mission-critical aviation systems. Delivered the Eurocontrol Design System (EDS) and led CI/CD and Developer Experience improvements.
 
 - **Carlsberg Group | Frontend Solutions Architect**  
-  Oversaw global architecture for B2B platforms and customer acquisition tools. Led the Malty Design System, drove DX and CI/CD practices, and founded the company’s first frontend CoP.
+  Architected B2B and marketing platforms (over €1B annual turnover). Led the Malty Design System and established the company’s first Frontend Community of Practice (CoP).
 
 - **Greygoo Media | Co-Founder & Technical Director**  
-  Delivered high-performance web/mobile solutions for GM, Paulson Institute, NCAA partners, and more—leading projects across public and private sectors.
-
+  Delivered full-stack web and mobile solutions for clients including GM, NCAA partners, and the Paulson Institute — leading strategy, architecture, and execution.
 
 &nbsp;
 
 ## Key Achievements
 
-- **Enterprise Web Delivery**  
-  Led teams powering platforms with €1B+ annual turnover.
+- **Distributed Leadership**  
+  Leading a cross-continental engineering team, aligning global development, design, and content workflows.
 
 - **Composable Platform Leadership**  
   Architected and scaled Nexthink’s modern composable corporate website.
 
 - **Design System Innovation**  
-  Built and maintained Malty Design System; led EDS at EUROCONTROL.
+  Built and scaled enterprise-grade design systems (EDS & Malty) with strong governance and adoption frameworks.
 
 - **Developer Experience Transformation**  
-  Standardized pipelines, inner sourcing, and onboarding across orgs.
+  Introduced automated pipelines, AI-assisted tooling, and documentation workflows improving velocity and quality.
 
-- **Engineering Culture Building**  
-  Founded multiple Communities of Practice; enabled bottom-up innovation.
+- **Engineering Culture Enablement**  
+  Founded and led CoPs, scaling engineering standards and collaboration across global teams.
 
 &nbsp;
 
 ## LANGUAGES
 
-- **Spanish**: Native speaker
+- **Spanish**: Native speaker  
 - **English**: Bilingual Proficiency (C2)
 
 &nbsp;
@@ -79,10 +77,10 @@ Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected Design Sys
 &nbsp;
 
 &nbsp;
-> It has been a privilege to have Vicente as part of my Leadership Team at Carlsberg Group. As our Frontend Solutions Architect, Vicente played a critical role in shaping our frontend strategy, notably through the development of the Malty Design System, which has transformed how we approach global frontend solutions.
-> His technical expertise in JavaScript, TypeScript, React, and Frontend technologies, combined with his leadership in establishing a Community of Practice, has greatly improved the developer experience and code quality across the organization. Vicente's contributions were instrumental in driving our e-commerce growth to over €1 billion annually.
-> I highly recommend Vicente for his leadership, creativity, and exceptional technical skills. He would be a tremendous asset to any team.
-> 
+>It has been a privilege to have Vicente as part of my Leadership Team at Carlsberg Group. As our Frontend Solutions Architect, Vicente played a critical role in shaping our frontend strategy, notably through the development of the Malty Design System, which has transformed how we approach global frontend solutions.
+>His technical expertise in JavaScript, TypeScript, React, and Frontend technologies, combined with his leadership in establishing a Community of Practice, has greatly improved the developer experience and code quality across the organization. Vicente's contributions were instrumental in driving our e-commerce growth to over €1 billion annually.
+>I highly recommend Vicente for his leadership, creativity, and exceptional technical skills. He would be a tremendous asset to any team.
+>
 > — ***[Peter Birkholm-Buch](https://www.linkedin.com/in/peterbirkholmbuch) | Director of Software Engineering in Growth Products & Data @ [Carlsberg Group](https://carlsberggroup.com)***
 
 &nbsp;
