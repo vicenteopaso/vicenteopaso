@@ -5,7 +5,7 @@ layout: home
 ## Core Focus Areas
 
 - #### Frontend Architecture & Composable Platforms
-  I design and scale modern frontend ecosystems using composable architecture and frameworks like Next.js and GraphQL—supporting marketing, product, and brand strategy for platforms such as [nexthink.com](https://nexthink.com) and enterprise Design Systems like Malty.
+  I design scalable, maintainable frontend systems using modern frameworks and composable architecture—whether for marketing websites like [nexthink.com](https://nexthink.com) or like Carlsberg's [Malty Design System](https://malty.carlsberggroup.com).
 
 - #### Design Systems & UI Consistency
   From foundational initiatives like EDS (EUROCONTROL) to enterprise-grade component libraries like Malty (Carlsberg), I architect and lead Design System programs that drive accessibility, consistency, and design-to-code alignment across products and teams.
@@ -14,7 +14,7 @@ layout: home
   I focus on automation and workflow optimization—implementing CI/CD pipelines, onboarding frameworks, and AI-assisted tooling to improve delivery velocity, quality, and developer satisfaction.
 
 - #### Leadership & Communities of Practice (CoP)
-  I foster technical alignment, mentorship, and cross-functional collaboration through CoPs that scale shared practices, governance, and innovation across global teams.
+  I foster technical alignment, mentorship, cross-functional collaboration, and distributed team leadership through CoPs that scale shared practices, governance, and innovation across global teams.
 
 - #### Cross-Functional Collaboration
   I work closely with design, product, marketing, and compliance stakeholders to ensure architectural integrity, business impact, and long-term maintainability in every deliverable.
@@ -29,7 +29,7 @@ layout: home
 ## Professional Highlights
 
 - <b>Web Engineering Manager | Nexthink</b><br/>
-  Leading the team behind [nexthink.com](https://nexthink.com), Nexthink’s global digital platform. Owning the architecture and delivery of a modern, composable web stack (Next.js, GraphQL, Tailwind CSS, Hygraph CMS, Vercel) supporting brand, marketing, and product initiatives. Driving performance, automation, and Developer Experience (DevEx) across a growing engineering organization.
+  I lead the team behind Nexthink’s corporate marketing website [nexthink.com](https://nexthink.com), owning its architecture and delivery on a modern, composable stack (Next.js, GraphQL, Tailwind CSS, Hygraph CMS, Vercel). I manage a distributed, cross-functional team, strengthen DevEx through CI/CD automation, CodeQL, Copilot, branch protections, and PR workflows, and partner closely with design and marketing to improve performance, accessibility, and SEO across six locales.
 
 - <b>Design System & DevEx Lead | EUROCONTROL</b><br/>
   Defined strategy and governance for the EUROCONTROL Design System (EDS) and led domain-wide Developer Experience improvements—modernizing CI/CD workflows, onboarding, and documentation in a safety-critical aviation environment.
