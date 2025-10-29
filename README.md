@@ -49,7 +49,7 @@ Previously, at **EUROCONTROL** and **Carlsberg Group**, I architected Design Sys
   Led teams powering platforms with €1B+ annual turnover.
 
 - **Composable Platform Leadership**  
-  Architected and scaled Nexthink’s modern composable marketing platform.
+  Architected and scaled Nexthink’s modern composable corporate website.
 
 - **Design System Innovation**  
   Built and maintained Malty Design System; led EDS at EUROCONTROL.
