@@ -1,3 +1,8 @@
+![Header](./assets/github-header-banner.png)
+---
+
+&nbsp;
+
 I’m a **Web Engineering Manager**, **Frontend Architect**, and **Technical Leader** with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern **Frontend Architecture**, **Design Systems**, and **Developer Experience** (DevEx) — and I thrive at the intersection of engineering execution and strategic impact.
 
 Previously at **Nexthink**, I led a **distributed Web Engineering team** responsible for [nexthink.com](https://nexthink.com/), shaping our **composable web platform** to support global brand, marketing, and product strategy. My role blended **cross-functional leadership**, **technical governance**, and **continuous improvement**, ensuring a seamless bridge between design, engineering, and marketing teams. I also drove **DevEx initiatives**, focusing on CI/CD automation, code quality, and performance optimization across time zones.
