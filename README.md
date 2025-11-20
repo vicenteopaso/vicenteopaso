@@ -1,5 +1,6 @@
 ![Header](./assets/github-header-banner.png)
 ---
+&nbsp;
 
 I’m a **Web Engineering Manager**, **Frontend Architect**, and **Technical Leader** with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern **Frontend Architecture**, **Design Systems**, and **Developer Experience** (DevEx) — and I thrive at the intersection of engineering execution and strategic impact.
 
