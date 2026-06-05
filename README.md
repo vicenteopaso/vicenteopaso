@@ -95,7 +95,7 @@ Outside of work, I build live systems — not side projects I started and abando
 
 ## Testimonials
 
-> Vicente played a key role in shaping the technical direction of both the NMUI framework and the Eurocontrol Design System (EDS)... His work had a noticeable impact on the stability and scalability of our systems, and I appreciated his pragmatic, steady approach to solving technical challenges.
+> Vicente played a key role in shaping the technical direction of both the NMUI framework and the EUROCONTROL Design System (EDS)... His work had a noticeable impact on the stability and scalability of our systems, and I appreciated his pragmatic, steady approach to solving technical challenges.
 >
 > — ***[Razvan Margauan](https://www.linkedin.com/in/razvan-mihai-margauan/) | iNM Programme Director @ [EUROCONTROL](https://eurocontrol.int/)***
 
