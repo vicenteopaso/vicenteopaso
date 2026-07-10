@@ -2,7 +2,7 @@
 
 &nbsp;
 
-I'm a **Web Engineering Manager**, **Frontend Architect**, and **Technical Leader** with over 25 years of experience building scalable, user-centered digital platforms. I specialize in modern **Frontend Architecture**, **Design Systems**, **Developer Experience (DevEx)**, and **AI-Native Engineering** — and I thrive at the intersection of engineering execution and strategic impact.
+I'm a **Web Engineering Manager**, **Frontend Architect**, and **Technical Leader** with over 15 years of experience building scalable, user-centered digital platforms. I specialize in modern **Frontend Architecture**, **Design Systems**, **Developer Experience (DevEx)**, and **AI-Native Engineering** — and I thrive at the intersection of engineering execution and strategic impact.
 
 Most recently at **Nexthink**, I led a distributed Web Engineering team responsible for [nexthink.com](https://nexthink.com/), shaping a composable web platform to support global brand, marketing, and product strategy across 6 locales. My role blended **cross-functional leadership**, **technical governance**, and **continuous improvement** — including CI/CD automation via GitHub Actions and CodeQL, AI-augmented development workflows, and spec-driven engineering practices that raised Core Web Vitals by 25%.
 
