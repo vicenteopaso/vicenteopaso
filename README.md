@@ -8,7 +8,7 @@ Most recently at **Nexthink**, I led a distributed Web Engineering team responsi
 
 At **EUROCONTROL**, I directed frontend architecture and governance for safety-critical aviation systems, leading the NMUI microfrontend framework and EUROCONTROL Design System (EDS) — reducing deployment friction by 40% through CI/CD modernization. At **Carlsberg Group**, I architected the [Malty Design System](https://github.com/carlsberg/malty) (React + TypeScript), founded the company's first Frontend Community of Practice, and owned frontend architecture for platforms supporting over €1B in annual B2B revenue.
 
-Outside of work, I build live systems. You can read about them at [opa.so](https://opa.so/) or explore the source code for my personal site — built spec-first using Spec-Driven Development — on [GitHub](https://github.com/vicenteopaso/vicenteopaso-vibecode/).
+Outside of work, I build live systems. You can read about them at [opa.so](https://opa.so/) or explore the source code for my personal site — built spec-first using Spec-Driven Development — on [GitHub](https://github.com/vicenteopaso/vicenteopaso-sdd/).
 
 &nbsp;
 
@@ -55,7 +55,7 @@ Outside of work, I build live systems. You can read about them at [opa.so](https
 Outside of work, I build live systems — not side projects I started and abandoned, but production infrastructure I run, maintain, and improve. They're where I practice what I write about: AI-native engineering, self-hosted infrastructure, and product thinking end to end.
 
 - **[opa.so](https://opa.so/)** — Personal site built spec-first using **Spec-Driven Development (SDD)**: a machine-readable `sdd.yaml`, a Constitution with eleven immutable invariants, and ADRs for every architectural decision. Every PR — human or AI — passes a ten-gate CI pipeline: ESLint, TypeScript, Vitest (90% coverage thresholds), Playwright E2E and visual regression, CodeQL, dependency audit, and Lighthouse CI (Performance ≥90, Accessibility ≥90, SEO ≥95). Bilingual EN/ES throughout.  
-  → [GitHub](https://github.com/vicenteopaso/vicenteopaso-vibecode) · [Technical Governance](https://opa.so/en/technical-governance)
+  → [GitHub](https://github.com/vicenteopaso/vicenteopaso-sdd) · [Technical Governance](https://opa.so/en/technical-governance)
 
 - **Dev Team** — A self-correcting autonomous delivery pipeline where specialized AI roles (PO → Designer → Backend → Frontend → QA → Fixer) carry a feature request through to a green CI pull request with no human intervention in the happy path. Runs **Qwen 2.5 Coder** on **Modal cloud GPUs**. A multi-provider abstraction layer makes the system fully configurable — switch between Qwen, Claude, OpenAI, or any OpenAI-compatible endpoint at runtime. Exposes the full pipeline as an MCP server (`submit_task`, `get_status`, `resume_task`) so any MCP-compatible client can fire a task and walk away.
 
